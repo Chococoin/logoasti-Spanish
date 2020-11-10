@@ -1,0 +1,24 @@
+"lexeme":"deka",
+"noun":"ten",
+"bi":"ten"
+#
+"lexeme":"amon",
+"level":"1",
+"noun":"friend",
+"du":"friend with"
+#
+"lexeme":"awa",
+"level":"1",
+"noun":"water",
+"du":"shower, drip water onto, wet",
+"es":"showered, wet",
+"bi":"watery"
+#
+"lexeme":"ben",
+"level":"1",
+"noun":"goodness, wellness",
+"du":"do good to, benefit",
+"es":"profit, benefit from",
+"bi":"good, beautiful",
+"se":"self-care, care about oneself"
+#

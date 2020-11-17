@@ -1,6 +1,281 @@
-"lexeme":"deka",
-"noun":"ten",
-"bi":"ten"
+"lexeme":"mi",
+"level":"1",
+"noun":"me, we"
+#
+"lexeme":"ne",
+"level":"1",
+"noun":"you"
+#
+"lexeme":"sa",
+"level":"1",
+"noun":"he, she, it"
+#
+"lexeme":"ti",
+"level":"1",
+"noun":"this, these"
+#
+"lexeme":"ti-asai",
+"noun":"here, hiter, hereabouts"
+#
+"lexeme":"ti-dje",
+"noun":"today"
+#
+"lexeme":"ta",
+"level":"1",
+"noun":"those, that"
+#
+"lexeme":"ta-asai",
+"noun":"there, over there"
+#
+"lexeme":"ja",
+"noun":"the, the one"
+#
+"lexeme":"bax",
+"noun":"no matter what"
+#
+"lexeme":"ke",
+"notes":"Special word: sub-VP opener",
+"special":"s"
+#
+"lexeme":"wa",
+"notes":"Special word: sub-VP/sub-NP close",
+"special":"s"
+#
+"lexeme":"kul",
+"notes":"Special word: sub-NP opener",
+"special":"s"
+#
+"lexeme":"kwi",
+"notes":"Special word: concise sub-VP opener",
+"special":"s"
+#
+"lexeme":"kja",
+"noun":"as a matter of",
+"notes":"Preposition: evidentiality marker",
+"special":"p"
+#
+"lexeme":"lo",
+"notes":"Preposition: subject marker",
+"special":"p"
+#
+"lexeme":"la",
+"notes":"Preposition: direct object marker",
+"special":"p"
+#
+"lexeme":"as",
+"level":"1",
+"notes":"Preposition: qualificative marker",
+"special":"p"
+#
+"lexeme":"di",
+"level":"1",
+"notes":"Preposition: possessive marker",
+"special":"p"
+#
+"lexeme":"un",
+"level":"1",
+"notes":"Preposition: specification marker",
+"special":"p"
+#
+"lexeme":"tu",
+"noun":"to, towards",
+"notes":"Preposition: dative/allative marker",
+"special":"p"
+#
+"lexeme":"ko",
+"noun":"with",
+"notes":"Preposition: comitative marker",
+"special":"p"
+#
+"lexeme":"xan",
+"noun":"with, by",
+"notes":"Preposition: instrumental marker",
+"special":"p"
+#
+"lexeme":"pe",
+"noun":"for, in order to",
+"notes":"Preposition: efficient/causal/benefactive marker",
+"special":"p"
+#
+"lexeme":"fo",
+"noun":"for, because of",
+"notes":"Preposition: causal marker",
+"special":"p"
+#
+"lexeme":"ba",
+"noun":"about",
+"notes":"Preposition: topic/ablative/oblique marker",
+"special":"p"
+#
+"lexeme":"in",
+"noun":"in, on, at",
+"notes":"Preposition: locative/illative marker",
+"special":"p"
+#
+"lexeme":"ge",
+"noun":"from, since",
+"notes":"Preposition: ablative marker",
+"special":"p"
+#
+"lexeme":"twe",
+"noun":"with respect to, than, rather than",
+"notes":"Preposition: comparative marker",
+"special":"p"
+#
+"lexeme":"sjy",
+"noun":"like, as",
+"notes":"Preposition: semblative/equative marker",
+"special":"p"
+#
+"lexeme":"du",
+"notes":"Verbal introducer: active voice",
+"special":"vi"
+#
+"lexeme":"es",
+"notes":"Verbal introducer: passive voice",
+"special":"vi"
+#
+"lexeme":"bi",
+"notes":"Verbal introducer: intransitive voice",
+"special":"vi"
+#
+"lexeme":"se",
+"notes":"Verbal introducer: reflexive voice",
+"special":"vi"
+#
+"lexeme":"pas",
+"notes":"Verbal modifier: past tense marker",
+"special":"vm"
+#
+"lexeme":"wil",
+"notes":"Verbal modifier: future tense marker",
+"special":"vm"
+#
+"lexeme":"len",
+"notes":"Verbal modifier: imperfective aspect marker",
+"special":"vm"
+#
+"lexeme":"nes",
+"noun":"going to, becoming",
+"notes":"Verbal modifier: inchoative marker",
+"special":"vm"
+#
+"lexeme":"mus",
+"noun":"must",
+"notes":"Verbal modifier: modal necessity marker",
+"special":"vm"
+#
+"lexeme":"kan",
+"noun":"can, may",
+"notes":"Verbal modifier: modal possibility marker",
+"special":"vm"
+#
+"lexeme":"dal",
+"noun":"try to, dare to",
+"notes":"Verbal modifier: modal tentative marker",
+"special":"vm"
+#
+"lexeme":"foi",
+"noun":"want to, like to",
+"notes":"Verbal modifier: modal volitive marker",
+"special":"vm"
+#
+"lexeme":"no",
+"noun":"not",
+"notes":"Verbal modifier: negative marker",
+"special":"vm"
+#
+"lexeme":"gon",
+"noun":"again",
+"notes":"Verbal modifier: repetitive marker",
+"special":"vm"
+#
+"lexeme":"pin",
+"noun":"start to",
+"notes":"Verbal modifier: inceptive/ingressive aspect marker",
+"special":"vm"
+#
+"lexeme":"an",
+"noun":"stop to",
+"notes":"Verbal modifier: terminative/cessative/pausative aspect marker",
+"special":"vm"
+#
+"lexeme":"jo",
+"noun":"still",
+"notes":"Verbal modifier: continuative aspect marker",
+"special":"vm"
+#
+"lexeme":"je",
+"noun":"already",
+"notes":"Verbal modifier: modal perfective marker",
+"special":"vm"
+#
+"lexeme":"e",
+"notes":"Conjunction: main clause marker",
+"special":"c"
+#
+"lexeme":"sinke",
+"noun":"since, because",
+"notes":"Conjunction",
+"special":"c"
+#
+"lexeme":"pite",
+"noun":"despite, even if, albeit, although",
+"notes":"Conjunction",
+"special":"c"
+#
+"lexeme":"ulpa",
+"notes":"Conjunction: absolute clause marker",
+"special":"c"
+#
+"lexeme":"las",
+"noun":"if, when",
+"notes":"Conjunction",
+"special":"c"
+#
+"lexeme":"soden",
+"noun":"so, then, therefore",
+"notes":"Conjunction",
+"special":"c"
+#
+"lexeme":"kai",
+"noun":"and",
+"notes":"Conjunction",
+"special":"c"
+#
+"lexeme":"deu",
+"noun":"but",
+"notes":"Conjunction",
+"special":"c"
+#
+"lexeme":"ol",
+"noun":"or",
+"notes":"Conjunction",
+"special":"c"
+#
+"lexeme":"jaku",
+"noun":"haste, speed, velocity",
+"du":"speed up, boost, accelerate, quicken",
+"es":"in a haste",
+"bi":"fast, quick",
+"se":"hurry, hustle, rush"
+#
+"lexeme":"al",
+"noun":"all",
+"du":"do everything",
+"bi":"everything"
+#
+"lexeme":"al-asai",
+"noun":"everywhere",
+"bi":"everywhere"
+#
+"lexeme":"alis",
+"noun":"other, another",
+"du":"do something else"
+#
+"lexeme":"alis-asai",
+"noun":"somewhere else",
+"bi":"somewhere else"
 #
 "lexeme":"amon",
 "level":"1",
@@ -14,6 +289,20 @@
 "es":"showered, wet",
 "bi":"watery"
 #
+"lexeme":"awa-syl",
+"noun":"fountain"
+#
+"lexeme":"basta",
+"noun":"stop, pause, interruption",
+"du":"stop, arrest, interrupt",
+"es":"stopped, blocked, arrested, interrupted, paused",
+"bi":"stopped, paused"
+#
+"lexeme":"bia",
+"noun":"way, path, style, street, avenue, road",
+"du":"stylize, conform",
+"es":"stylized, confomed"
+#
 "lexeme":"ben",
 "level":"1",
 "noun":"goodness, wellness",
@@ -22,3 +311,3339 @@
 "bi":"good, beautiful",
 "se":"self-care, care about oneself"
 #
+"lexeme":"deka",
+"noun":"ten",
+"bi":"ten"
+#
+"lexeme":"doas",
+"noun":"being, presence, stand, existence",
+"bi":"existing, permanent, steady, settled"
+#
+"lexeme":"die",
+"level":"1",
+"noun":"day"
+#
+"lexeme":"dimen",
+"noun":"dimension, size, measure",
+"du":"size",
+"es":"sized"
+#
+"lexeme":"pyyn",
+"noun":"thought, reflection, judgement",
+"du":"think, consider, judge"
+#
+"lexeme":"pyyn-tul",
+"noun":"idea, creation, formation, production, work"
+#
+"lexeme":"pyyn-asai",
+"noun":"studio, atelier"
+#
+"lexeme":"due",
+"noun":"two",
+"du":"double, make twice",
+"es":"two, twice, doubled",
+"bi":"two"
+#
+"lexeme":"ea",
+"noun":"wind, air",
+"du":"blow",
+"es":"blowed away, pushed",
+"bi":"windy"
+#
+"lexeme":"edo",
+"level":"1",
+"noun":"nourishment, alimentation, diet",
+"du":"eat, swallow, ingest, devour",
+"es":"eaten, swallowed, ingested, devoured",
+"se":"eat oneself"
+#
+#
+"lexeme":"edo-eo",
+"noun":"food"
+#
+#
+"lexeme":"edo-syl",
+"noun":"food"
+#
+"lexeme":"edo-asai",
+"noun":"dining room"
+#
+"lexeme":"ses",
+"noun":"six",
+"bi":"six"
+#
+"lexeme":"enpa",
+"noun":"east"
+#
+"lexeme":"ete",
+"noun":"seven",
+"bi":"seven"
+#
+"lexeme":"este",
+"noun":"being",
+"du":"be"
+#
+"lexeme":"matyr",
+"noun":"matter, substance, material"
+#
+"lexeme":"fex",
+"noun":"making, doing",
+"du":"make, do, build, construct, engage in",
+"es":"made, built, constructed",
+"bi":"busy, engaged, occupied"
+#
+"lexeme":"fulawa",
+"noun":"flower",
+"du":"make flourish",
+"es":"flourished",
+"bi":"flourish"
+#
+"lexeme":"galda",
+"noun":"sight, perception, view, vision",
+"du":"see, look at, stare, perceive, view",
+"es":"saw, looked at, stared, perceived, viewed",
+"bi":"attentive, aware",
+"se":"look at oneself"
+#
+"lexeme":"geo",
+"noun":"earth, land, terrain",
+"du":"inter, bury, plant",
+"es":"interred, buried, planted"
+#
+"lexeme":"gila",
+"noun":"mate, partner",
+"du":"mate",
+"es":"mate",
+"bi":"aroused",
+"se":"masturbate"
+#
+"lexeme":"jage",
+"noun":"hunt, quest, chase, pursuit",
+"du":"hunt, chase, pursuit",
+"es":"hunted, chased"
+#
+"lexeme":"jule",
+"noun":"fabric, garment, dress, suit, robe, tissue, sheet",
+"du":"suit up, dress up",
+"es":"dressed",
+"bi":"dressed",
+"se":"suit up, dress up"
+#
+"lexeme":"kaka",
+"noun":"shit, poop, turd, excrement",
+"du":"shit, poo, defecate"
+#
+"lexeme":"kaka-asai",
+"noun":"wc, bathroom"
+#
+"lexeme":"kas",
+"noun":"four",
+"bi":"four"
+#
+"lexeme":"kilo",
+"noun":"thousand"
+#
+"lexeme":"dome",
+"level":"1",
+"noun":"house, home",
+"du":"settle",
+"es":"settled",
+"bi":"settled, at home"
+#
+"lexeme":"keli",
+"noun":"caring",
+"du":"care for, cherish, look after",
+"es":"cared for, looked after, ",
+"bi":"careful",
+"se":"careful"
+#
+"lexeme":"keli-syl-asai",
+"noun":"hospital, clinic"
+#
+"lexeme":"kosa",
+"noun":"thing, stuff, fact, phenomenon, matter, subject",
+"du":"do",
+"es":"made a thing by"
+#
+"lexeme":"komja",
+"noun":"coming, arrival, occurrence, appearance",
+"du":"bring, deliver, conduct, trasmit",
+"es":"sent, delivered, transmitted",
+"bi":"arrive, occur, come, appear"
+#
+"lexeme":"koelsu",
+"noun":"business, commerce, market, shop",
+"du":"do business, sell, buy, haggle, bargain, deal, dicker"
+#
+"lexeme":"koelsu-asai",
+"noun":"market, marketplace"
+#
+"lexeme":"kute",
+"noun":"knife, blade, cutter",
+"du":"cut, chop, slice",
+"es":"cut, chopped, sliced",
+"bi":"sharp, edgy, cutting",
+"se":"cut oneself"
+#
+"lexeme":"akumin",
+"noun":"sharpness, edge, blade",
+"du":"acuminate, sharpen, strop",
+"es":"acuminated, sharpened, stropped",
+"bi":"sharp, acuminated"
+#
+"lexeme":"kute-tul",
+"noun":"slice, piece, steak, fillet"
+#
+"lexeme":"kwanta",
+"noun":"quantity, amount, quota, portion",
+"du":"quantify, measure, count",
+"es":"measured, quantified, counted"
+#
+"lexeme":"kwanta-ika",
+"noun":"cardinality, size"
+#
+"lexeme":"lela",
+"noun":"calm, tranquillity",
+"du":"release, relax",
+"es":"released, relaxed",
+"bi":"in peace, rest",
+"se":"relax, calm down, rest"
+#
+"lexeme":"liwi",
+"noun":"life, being",
+"du":"animate, bring life",
+"es":"animated, brought life",
+"bi":"alive, live",
+"se":"live one's life"
+#
+"lexeme":"logo",
+"noun":"talk, speech, language",
+"du":"say, speak, utter",
+"es":"said, spoke",
+"bi":"talkative, loquacious, eloquent"
+#
+"lexeme":"logo-asai",
+"noun":"auditorium"
+#
+"lexeme":"lube",
+"level":"1",
+"noun":"love, affection, appreciation, fondness",
+"du":"love, appreciate",
+"es":"loved, appreciated"
+#
+"lexeme":"luke",
+"noun":"light (visible radiation), brightness, luminescence",
+"du":"illuminate, light up",
+"es":"illuminated, lit up",
+"bi":"lit up"
+#
+"lexeme":"luke-eima",
+"noun":"torch, lamp, light bulb"
+#
+"lexeme":"ludo",
+"noun":"game, sport, videogame, match",
+"du":"play",
+"es":"played",
+"bi":"playful",
+"se":"play with oneself"
+#
+"lexeme":"ludo-asai",
+"noun":"stadium, gameplace"
+#
+"lexeme":"madol",
+"noun":"chance, opportunity",
+"du":"make possible",
+"es":"made possible",
+"bi":"possible"
+#
+"lexeme":"mal",
+"level":"1",
+"noun":"evil, badness",
+"bi":"evil, misbehave, go astray, bad, malign, awful",
+"se":"hurt oneself"
+#
+"lexeme":"uman",
+"level":"1",
+"noun":"human, man, woman"
+#
+"lexeme":"uman-asai",
+"noun":"settlement, village"
+#
+"lexeme":"mama",
+"noun":"mother"
+#
+"lexeme":"papa",
+"noun":"father"
+#
+"lexeme":"mapa",
+"noun":"mother, father, parent"
+#
+"lexeme":"mapa.mapa",
+"noun":"grandmother, grandfather, granny, granpa"
+#
+"lexeme":"bubu",
+"noun":"brother, sister"
+#
+"lexeme":"bubu.gila",
+"noun":"brother in law, sister in law"
+#
+"lexeme":"multi",
+"noun":"many, lots"
+#
+"lexeme":"nali",
+"noun":"sleep, snooze",
+"du":"deaden, send to sleep",
+"es":"deaden, sent to sleep",
+"bi":"sleep, doze, snooze",
+"se":"sleep, doze, snooze"
+#
+"lexeme":"nali-asai",
+"noun":"bedroom, dormitory"
+#
+"lexeme":"name",
+"noun":"name, word, label, sign, signature, term",
+"du":"name, call, label, sign, mention",
+"es":"named, called, named, labelled, signed, mentioned"
+#
+"lexeme":"atjo",
+"noun":"action",
+"du":"activate, turn on",
+"es":"activated, turned on",
+"bi":"active",
+"se":"wake up, recover, pull oneself back together"
+#
+"lexeme":"nukel",
+"noun":"center, nucleus, kernel, middle, heart",
+"du":"pull at center, put in the middle, insert, implant, inject",
+"es":"put at center, put in the middle, inserted, implanted, injected",
+"bi":"inside, in the middle",
+"se":"shut oneself away"
+#
+"lexeme":"nolta",
+"noun":"north"
+#
+"lexeme":"nimal",
+"noun":"animal, beast, creature",
+"du":"animate",
+"es":"animated",
+"bi":"an animal",
+"se":"animate oneself"
+#
+"lexeme":"nin",
+"noun":"nine",
+"bi":"nine"
+#
+"lexeme":"nul",
+"noun":"nothing, no, zero, null, absence",
+"du":"cancel, nullify, revoke",
+"es":"cancelled, nullified, revoked",
+"bi":"nothing, absent",
+"se":"nullify oneself"
+#
+"lexeme":"nul-asai",
+"noun":"nowhere"
+#
+"lexeme":"nul-geon",
+"noun":"never"
+#
+"lexeme":"ofel",
+"noun":"summit, peak, top",
+"du":"over, stand above, dominate",
+"es":"dominated",
+"bi":"summit, top, peak"
+#
+"lexeme":"olda",
+"noun":"order, arrangement, alignment, classification, sequence",
+"du":"order, sort, arrange, align, classify",
+"es":"ordered, sorted, aligned, arranged, classified",
+"bi":"ordered, sorted",
+"se":"sort oneself up, fix oneself up"
+#
+"lexeme":"posa",
+"noun":"position, place, collocation",
+"du":"position, place",
+"es":"positioned, placed",
+"bi":"in place",
+"se":"go in place"
+#
+"lexeme":"nei",
+"noun":"status, condition, position, situation",
+"du":"put in condition",
+"es":"put in condition"
+#
+"lexeme":"osta",
+"noun":"west"
+#
+"lexeme":"oto",
+"noun":"eight",
+"bi":"eight"
+#
+"lexeme":"palla",
+"noun":"ball, sphere, orb, globe, globule"
+#
+"lexeme":"palte",
+"noun":"part, component, fragment",
+"du":"subdivide, partition chunk",
+"es":"subdivide, partitioned, chunked",
+"se":"fall apart, come apart, break up"
+#
+"lexeme":"dina",
+"noun":"force, strength",
+"du":"strengthen, reinforce, brace, invigorate",
+"es":"strengthened, reinforced, braced, invigorated",
+"bi":"strong, forceful",
+"se":"get strong, get forceful"
+#
+"lexeme":"elgo",
+"noun":"energy, intensity",
+"du":"energize, recharge",
+"es":"energized, recharge",
+"bi":"energized",
+"se":"energize oneself, recharge oneself"
+#
+"lexeme":"pawa",
+"noun":"power",
+"du":"power up, make powered",
+"es":"powered up, powered",
+"bi":"powerful, strong",
+"se":"make oneself powerful"
+#
+"lexeme":"pen",
+"noun":"five",
+"bi":"five"
+#
+"lexeme":"jente",
+"noun":"people, crowd, nation",
+"du":"reunite, gather, join",
+"es":"reunited, gathered, joined",
+"bi":"people, nation,",
+"se":"reunite, rejoin"
+#
+"lexeme":"poko",
+"noun":"scarcity, minority, shortness",
+"du":"make scarce, make few",
+"es":"made scarce, made few",
+"bi":"a little bit, few"
+#
+"lexeme":"puso",
+"noun":"grace, thank, welcome, pleasure",
+"du":"thank, welcome, make grateful",
+"es":"made grateful",
+"bi":"grateful, complacent",
+"se":"grateful, complacent"
+#
+"lexeme":"sama",
+"noun":"sameness, alikeness",
+"du":"same, like",
+"es":"same, like",
+"bi":"constant, changeless, perpetual"
+#
+"lexeme":"sjati",
+"noun":"place, spot, site, location",
+"du":"put, place",
+"es":"put, placed",
+"bi":"stand, in place"
+#
+"lexeme":"seil",
+"noun":"sky, firmament, empyrean",
+"bi":"be celestial, be astral, be cosmic",
+"se":"take flight"
+#
+"lexeme":"some",
+"noun":"bit, drop, dash, pinch",
+"du":"make some",
+"bi":"some"
+#
+"lexeme":"sono",
+"noun":"sound, noise, tone, voice",
+"du":"play, produce, articulate",
+"es":"played, produced, articulated",
+"bi":"noisy"
+#
+"lexeme":"susu",
+"noun":"behaviour, interaction",
+"du":"interact with",
+"es":"interacted with",
+"bi":"behave"
+#
+"lexeme":"suta",
+"noun":"south"
+#
+"lexeme":"taula",
+"noun":"table, surface, bed",
+"du":"put on a surface, put on a table, put at bed",
+"es":"put on a surface",
+"se":"lay down, put oneself on a surface"
+#
+"lexeme":"tala",
+"noun":"travel, movement, journey, trajectory",
+"du":"transport, move, transfer, carry",
+"es":"moved, transferred, carried",
+"bi":"travel, move, go",
+"se":"travel, move, go"
+#
+"lexeme":"tel",
+"noun":"three",
+"du":"triple",
+"es":"tripled",
+"bi":"three, triple"
+#
+"lexeme":"tesi",
+"noun":"tension, turbament, agitation, anxiety",
+"du":"perturb, upset, fluster",
+"es":"perturbed, upset",
+"bi":"upset",
+"se":"perturb oneself"
+#
+"lexeme":"ulla",
+"noun":"hundred",
+"bi":"one hundred"
+#
+"lexeme":"tenpo",
+"noun":"time, moment, occasion",
+"bi":"time"
+#
+"lexeme":"syson",
+"noun":"season, period, age, era"
+#
+"lexeme":"ulko",
+"noun":"clamor, yelling, noise",
+"du":"shout, yell",
+"es":"shouted, yelled",
+"bi":"make noise"
+#
+"lexeme":"una",
+"noun":"one",
+"bi":"one, unique"
+#
+"lexeme":"unda",
+"noun":"nether, bottom",
+"du":"lower, drop, put underneath",
+"es":"lowered, dropped",
+"bi":"under, beneath, below",
+"se":"descend, get off, go down, fall"
+#
+"lexeme":"use",
+"noun":"use, application, usage",
+"du":"use",
+"es":"used",
+"bi":"useful, convenient, fruitful, good, handy, profitable"
+#
+"lexeme":"we",
+"noun":"hello, greeting, salutation",
+"du":"salute, greet",
+"es":"greeted, saluted"
+#
+"lexeme":"abe",
+"noun":"possession, ownership",
+"du":"have, own, carry",
+"es":"owned, carried"
+#
+"lexeme":"taime",
+"noun":"tree"
+#
+"lexeme":"taime-upo",
+"noun":"grove, wood"
+#
+"lexeme":"taime-asai",
+"noun":"forest"
+#
+"lexeme":"beike",
+"noun":"fruit, drupe, pome"
+#
+"lexeme":"patos",
+"noun":"sorrow, pain",
+"du":"hurt, ache",
+"es":"feel pain in, feel bad for"
+#
+"lexeme":"welte",
+"noun":"green",
+"bi":"green"
+#
+"lexeme":"bulu",
+"noun":"blue",
+"bi":"blue"
+#
+"lexeme":"jelo",
+"noun":"yellow",
+"bi":"yellow"
+#
+"lexeme":"xuse",
+"noun":"red",
+"bi":"red",
+"se":"blush"
+#
+"lexeme":"soil",
+"noun":"soil, floor, ground",
+"du":"sustain keep up",
+"es":"sustained, kept up"
+#
+"lexeme":"lufi",
+"noun":"ceiling, roof",
+"du":"cover",
+"es":"covered"
+#
+"lexeme":"seina",
+"noun":"wall",
+"du":"wall"
+#
+"lexeme":"wanda",
+"noun":"sink, pitcher, ewer"
+#
+"lexeme":"beilo",
+"noun":"bowl, cup, pot, drinking glass"
+#
+"lexeme":"pjano",
+"noun":"flat, plane",
+"du":"flatten, even out, spread out",
+"es":"flattened, evened out, spread out"
+#
+"lexeme":"ante",
+"noun":"lead, antecedent",
+"du":"precede, anticipate, forego",
+"es":"preceded, anticipated"
+#
+"lexeme":"ante-ika",
+"noun":"antecedence, anticipation, foregoing",
+"du":"innovate, lead",
+"es":"innovated, lead",
+"bi":"avant-garde"
+#
+"lexeme":"ante-dje",
+"noun":"yesterday"
+#
+"lexeme":"segwo",
+"noun":"effect, result, outcome",
+"du":"follow, ensue",
+"es":"followed, ensued",
+"noun":"following"
+#
+"lexeme":"segwo-ika",
+"noun":"reaction, consequence, result",
+"du":"react to, follow",
+"es":"followed",
+"bi":"derivative"
+#
+"lexeme":"segwo-dje",
+"noun":"tomorrow"
+#
+"lexeme":"folka",
+"noun":"fork",
+"du":"fork, pitchfork",
+"es":"forked, pitchforked"
+#
+"lexeme":"tage",
+"noun":"take, picking",
+"du":"grab, pick",
+"es":"grabbed, picked"
+#
+"lexeme":"giwe",
+"noun":"giving, dealing, donation, endowement, offer",
+"du":"give, deal, donate, offer",
+"es":"given, dealt, donated, offered",
+"bi":"generous, fruitful, efficient, profitable"
+#
+"lexeme":"giwe-ika",
+"noun":"generosity, goodness, altruism",
+"bi":"generous, altruistic"
+#
+"lexeme":"obeu",
+"noun":"obedience, compliance, observation",
+"du":"obey, comply to, observe",
+"es":"obeyed, observed",
+"bi":"obedient, compliant, observant"
+#
+"lexeme":"obeu-ika",
+"noun":"submission, obedience, slavery",
+"du":"submit to, obey to",
+"es":"obeyed",
+"bi":"submitted, slave"
+#
+"lexeme":"piko",
+"noun":"smallness",
+"du":"make smaller",
+"es":"made smaller",
+"bi":"small, tiny, little",
+"se":"get smaller"
+#
+"lexeme":"naine",
+"noun":"female, woman",
+"bi":"feminine, female, woman"
+#
+"lexeme":"wiku",
+"noun":"male, man",
+"bi":"masculine, male, man"
+#
+"lexeme":"juna",
+"noun":"young man, freshman, newbie",
+"du":"renew",
+"es":"renewed",
+"bi":"young, unexperienced"
+#
+"lexeme":"juna-ika",
+"noun":"novelty, modernity",
+"bi":"new, modern"
+#
+"lexeme":"pese",
+"noun":"fish"
+#
+"lexeme":"waso",
+"noun":"bird"
+#
+"lexeme":"elde",
+"noun":"old man, old thing",
+"bi":"old, ancient, aged"
+#
+"lexeme":"lunpo",
+"noun":"break, fracture, crack",
+"du":"break, fracture",
+"es":"broken, fractured",
+"bi":"broken, fractured",
+"se":"break"
+#
+"lexeme":"lunga",
+"noun":"length, span",
+"du":"lenghten, stretch",
+"es":"lenghtened, stretched",
+"bi":"long, enduring, elongated",
+"se":"stretch"
+#
+"lexeme":"lunga-ika",
+"noun":"alongside, beside, perimeter",
+"du":"go beside, go alonside",
+"bi":"long, follow, digress"
+#
+"lexeme":"alta",
+"noun":"highness, altitude",
+"bi":"high, tall"
+#
+"lexeme":"kiska",
+"noun":"shortness, narrowness, smallness, brevity",
+"du":"shorten",
+"es":"shortened",
+"bi":"short, brief, concise"
+#
+"lexeme":"gupo",
+"noun":"group, set, association, collection, class, category, aggregation",
+"du":"group, collect, aggregate",
+"es":"grouped, collected, aggregated",
+"bi":"together, united, conjoint"
+#
+"lexeme":"wesil",
+"noun":"flag, herald, blazon"
+#
+"lexeme":"ekwa",
+"noun":"equal, identity, is, equality",
+"du":"equal to, be, identical to, indistinguishable from",
+"es":"equal to, be, identical to, indistinguishable from"
+#
+"lexeme":"doge",
+"noun":"dog, hound"
+#
+"lexeme":"neko",
+"noun":"cat, feline, kitten"
+#
+"lexeme":"laus",
+"noun":"louse"
+#
+"lexeme":"pune",
+"level":"1",
+"noun":"work, job, occupation",
+"du":"work on, do",
+"es":"worked",
+"bi":"work, busy, engaged, occupied"
+#
+"lexeme":"pune-no-dje",
+"level":"1",
+"noun":"free-day, vacation"
+#
+"lexeme":"mante",
+"noun":"keeping, maintenance, conservation, preservation",
+"du":"keep, mantain, hold",
+"es":"kept, mantained, held",
+"se":"maintain oneself, sustain oneself"
+#
+"lexeme":"oida",
+"noun":"knowledge, wisdom, culture, sapience",
+"du":"know, recognize, see, have experience in",
+"es":"known, recognized",
+"bi":"wise, a savant",
+"se":"know oneself"
+#
+"lexeme":"oida-ika",
+"noun":"theory, hypothesis",
+"du":"hypothesize, speculate, cogitate"
+#
+"lexeme":"oida-nyn",
+"noun":"sage, philosopher, theorist"
+#
+"lexeme":"busko",
+"noun":"search, examination, inquiry, research, pursuit",
+"du":"search, examine, inquiry, research, pursuit",
+"es":"searched, examined, inquired, researched, pursuit"
+#
+"lexeme":"busko-nyn",
+"noun":"researcher, investigator"
+#
+"lexeme":"jalyi",
+"noun":"departure, shipping, transmission",
+"du":"send, transmit, deliver",
+"es":"sent, transmitted, delivered",
+"bi":"depart, go"
+#
+"lexeme":"seme",
+"noun":"seed, grain, nut",
+"du":"plant, inseminate",
+"es":"planted, inseminated"
+#
+"lexeme":"seme-ika",
+"noun":"origin, source",
+"du":"inseminate, fecundate",
+"es":"inseminated, fecundated",
+"bi":"gravid, pregnant"
+#
+"lexeme":"leto",
+"noun":"leaf, page, sheet",
+"du":"write down, take notes about",
+"es":"written down as a note"
+#
+"lexeme":"sengo",
+"noun":"root, base",
+"du":"plant",
+"es":"planted",
+"se":"take roots"
+#
+"lexeme":"fasa",
+"noun":"skin, coating, membrane",
+"du":"coat, put skin",
+"es":"coated"
+#
+"lexeme":"kalne",
+"noun":"flesh, meat",
+"bi":"fleshy, meaty, meat"
+#
+"lexeme":"uto",
+"noun":"what",
+"notes":"Used in interrogative sentences"
+#
+"lexeme":"abyyl",
+"noun":"bee, wasp, insect"
+#
+"lexeme":"bugo",
+"noun":"bug, beetle, insect"
+#
+"lexeme":"mega",
+"noun":"greatness, size",
+"du":"enlarge, magnify, expand",
+"es":"enlarged, magnified, expanded",
+"bi":"big, huge, great",
+"se":"grow up"
+#
+"lexeme":"mega-ika",
+"noun":"dimension, size, relevance"
+#
+"lexeme":"damu",
+"noun":"blood",
+"bi":"bleed"
+#
+"lexeme":"osto",
+"noun":"bone"
+#
+"lexeme":"osto-ika",
+"noun":"infrastructure, framework, skeleton",
+"du":"frame, give structure to",
+"es":"framed"
+#
+"lexeme":"feto",
+"noun":"fat, grease",
+"du":"put grease on, grease, lubrificate",
+"es":"greased, lubrificated",
+"bi":"oily, viscid, lubrificated"
+#
+"lexeme":"owo",
+"noun":"egg, cell"
+#
+"lexeme":"kolna",
+"noun":"horn",
+"du":"gore, pierce with a horn",
+"es":"gored, pierced with a horn",
+"bi":"horn-like"
+#
+"lexeme":"koda",
+"noun":"end, tail, coda, ending",
+"bi":"last, closing"
+#
+"lexeme":"musa",
+"noun":"music, composition, piece, track",
+"du":"play, compose",
+"es":"played, composed",
+"bi":"play music, do music"
+#
+"lexeme":"poesa",
+"noun":"lyric, poem, rhyme, poetry, composition",
+"du":"write, compose",
+"es":"written, composed",
+"bi":"do poetry"
+#
+"lexeme":"poesa-nyn",
+"noun":"poet, bard"
+#
+"lexeme":"opela",
+"noun":"operation, work, job",
+"du":"operate, work, do",
+"es":"operated, worked, done",
+"bi":"operational, busy, engaged, occupied"
+#
+"lexeme":"leje",
+"noun":"reading, lecture, text, content, document",
+"du":"read, study",
+"es":"read, studied",
+"bi":"read"
+#
+"lexeme":"leje-nyn",
+"noun":"reader, announcer, lector, lecturer"
+#
+"lexeme":"fiede",
+"noun":"feather, fringe, plume"
+#
+"lexeme":"pilu",
+"noun":"hair, fiber, fur"
+#
+"lexeme":"kapo",
+"noun":"head, skull, attic, apex, heading"
+#
+"lexeme":"udi",
+"noun":"hearing",
+"du":"hear, listen",
+"es":"heard, listened"
+#
+"lexeme":"eima",
+"noun":"tool, instrument, device, machine",
+"du":"use a tool on",
+"es":"worked on with a tool",
+"bi":"work"
+#
+"lexeme":"mila",
+"noun":"aim, objective, target, destination, purpose",
+"du":"aim, target, mark",
+"es":"aimed, targeted, marked"
+#
+"lexeme":"miljon",
+"noun":"one million",
+"bi":"one million"
+#
+"lexeme":"toko",
+"noun":"hour, part of day"
+#
+"lexeme":"leipo",
+"noun":"region, zone, area, country, field, locality"
+#
+"lexeme":"polwe",
+"noun":"dust, dirt, grime, powder, sand, scatter, dredge",
+"du":"pulverize, scatter",
+"es":"pulverized, scattered"
+#
+"lexeme":"poxe",
+"noun":"process, development, course, evolution",
+"du":"process, develop, evolve",
+"es":"processed, developed, evolved",
+"bi":"progressed, evolute"
+#
+"lexeme":"pexu",
+"noun":"disappointment, dissatisfaction, discontent, frustration",
+"du":"disappoint, dissatisfy, discontent, frustrate",
+"es":"disappointed, dissatisfied, discontented, frustrated",
+"bi":"disappointing, dissatisfying, discontenting, frustrating"
+#
+"lexeme":"tulos",
+"noun":"result, conclusion, outcome, production",
+"du":"conclude, produce",
+"es":"concluded, produced"
+#
+"lexeme":"kyndis",
+"noun":"condition, circumstance, parameter, situation, status, term",
+"du":"condition, accustom, force",
+"es":"conditioned, forced by"
+#
+"lexeme":"ljae",
+"noun":"ice, frost, freeze",
+"du":"frost, freeze",
+"es":"frosted, freezed",
+"bi":"cold, frosted, freezed"
+#
+"lexeme":"kuni",
+"noun":"cave, cavern, cavity",
+"du":"dig",
+"es":"dug",
+"bi":"cavernous, hollow"
+#
+"lexeme":"mojo",
+"noun":"heart, nucleus, core, center, middle, kernel"
+#
+"lexeme":"ponka",
+"noun":"too small amount, scarcity",
+"du":"make scarce",
+"es":"made scarce",
+"bi":"too few, too little, scarce"
+#
+"lexeme":"lees",
+"noun":"inferiority, deficience",
+"du":"make inferior",
+"es":"made inferior",
+"bi":"less, less than"
+#
+"lexeme":"maas",
+"noun":"superiority, advantage",
+"du":"surpass",
+"es":"surpassed",
+"bi":"more, superior"
+#
+"lexeme":"topo",
+"noun":"surplus, too big amount",
+"bi":"too much, too many"
+#
+"lexeme":"seo",
+"noun":"early time",
+"bi":"soon, early, come before"
+#
+"lexeme":"lae",
+"noun":"late time",
+"bi":"late, come later, come after"
+#
+"lexeme":"mano",
+"noun":"hand",
+"du":"hold, take, use, handle",
+"es":"held, taken, used, handled"
+#
+"lexeme":"bilo",
+"noun":"arm, limb, brace"
+#
+"lexeme":"ganba",
+"noun":"leg, limb, brace",
+"bi":"walk"
+#
+"lexeme":"tolso",
+"noun":"torso, trunk, stalk",
+"bi":"stand, stay erect"
+#
+"lexeme":"selebu",
+"noun":"brain, intellect, head, cerebrum, wit",
+"du":"think",
+"es":"thought"
+#
+"lexeme":"pede",
+"noun":"foot, hoof, paw, base, bottom, foundation",
+"du":"kick",
+"es":"kicked",
+"bi":"walk"
+#
+"lexeme":"pis",
+"noun":"plus (arithmetic operator), addition",
+"du":"add",
+"es":"added"
+#
+"lexeme":"minus",
+"noun":"minus (arithmetic operator), subtraction",
+"du":"subtract",
+"es":"subtracted"
+#
+"lexeme":"times",
+"noun":"times (arithmetic operator)",
+"du":"multiply",
+"es":"multiplid"
+#
+"lexeme":"deile",
+"noun":"over (arithmetic operator)",
+"du":"divide, split",
+"es":"divided, splitted"
+#
+"lexeme":"gwifo",
+"noun":"writing, letter, symbol",
+"du":"write, compose",
+"es":"written, composed"
+#
+"lexeme":"desin",
+"noun":"drawing, painting",
+"du":"draw, paint",
+"es":"drawn, painted",
+"bi":"be a drawing, be a painting"
+#
+"lexeme":"punjo",
+"noun":"combat, fight, battle, challenge",
+"du":"fight, attack, battle, challenge",
+"es":"fought, attacked, battled, challenged",
+"bi":"combat, in a fight"
+#
+"lexeme":"fule",
+"noun":"full, charged",
+"du":"fill, charge, load",
+"es":"filled, charged, loaded",
+"bi":"full, busy, unavailable"
+#
+"lexeme":"woide",
+"noun":"void, empty, barren, emptied, drained, hollow",
+"du":"empty, clear, deplete, drain",
+"es":"emptied, cleared, depletet, drained",
+"bi":"empty, void"
+#
+"lexeme":"palja",
+"noun":"protection, cover, defense, armor",
+"du":"defend, protect",
+"es":"defended, protected",
+"bi":"safe"
+#
+"lexeme":"kolge",
+"noun":"collection, meeting",
+"du":"collect, gather",
+"es":"collected, gathered"
+#
+"lexeme":"sean",
+"noun":"similitude, resemblance",
+"du":"seem, resemble, look like",
+"es":"seem, resemble, look like"
+#
+"lexeme":"sean-ika",
+"noun":"similarity, siimilitude, alikeness, affinity, resemblance, comparison, analogy, sameness"
+#
+"lexeme":"difel",
+"noun":"difference",
+"du":"differ",
+"es":"differ",
+"bi":"different, alien"
+#
+"lexeme":"difel-ika",
+"noun":"difference, contraposition, contrast"
+#
+"lexeme":"kalo",
+"noun":"car, vehicle, automobile, bus, cab, jeep, truck",
+"du":"drive, conduct",
+"es":"driven, conducted"
+#
+"lexeme":"intea",
+"noun":"interior, inner, indoor, innards",
+"du":"go inside",
+"bi":"inside, in"
+#
+"lexeme":"fyla",
+"noun":"out, outside, exterior",
+"du":"go outside",
+"bi":"outside, out"
+#
+"lexeme":"sito",
+"noun":"chair, bench, nest, refuge",
+"du":"sit on",
+"bi":"sit, sitted",
+"se":"sit"
+#
+"lexeme":"pifo",
+"noun":"softness, tenderness",
+"du":"soften",
+"es":"softened",
+"bi":"soft, weak, fluffy, comfortable, mellow",
+"se":"melt, dissolve"
+#
+"lexeme":"dago",
+"noun":"strenght, force, sturdyness, solidity",
+"du":"strenghten, reinforce",
+"es":"strenghtened, reinforced",
+"bi":"hard, solid, strong, sturdy, dense",
+"se":"strenghten oneself, reinforce oneself"
+#
+"lexeme":"botel",
+"noun":"bottle, jar, jug",
+"du":"bottle",
+"es":"bottled"
+#
+"lexeme":"fwio",
+"noun":"cold, freeze, chill, cool, crisp",
+"du":"freeze",
+"es":"freezed",
+"bi":"cold"
+#
+"lexeme":"fwio-eima",
+"noun":"fridge, icebox"
+#
+"lexeme":"kaldo",
+"noun":"heat, calor",
+"du":"heat up",
+"es":"heaten up",
+"bi":"hot"
+#
+"lexeme":"kaldo-ika",
+"noun":"temperature, hotness, fever"
+#
+"lexeme":"latjo",
+"noun":"relation, correspondence, ratio",
+"du":"relate with, correspond to",
+"es":"related with, correspond to"
+#
+"lexeme":"usjo",
+"noun":"infinity, unlimitedness",
+"bi":"infinite, eternal, unlimited, unbounded"
+#
+"lexeme":"isi",
+"noun":"beginning, incipit, start",
+"du":"start, begin",
+"es":"started, beginned"
+#
+"lexeme":"sulto",
+"noun":"shake, swing, whip, wave",
+"du":"shake, whip",
+"es":"shaked, whipped"
+#
+"lexeme":"kalpes",
+"noun":"carpet, pavement, floor",
+"du":"step on, stomp, tread upon",
+"es":"stomped, stepped on, treaded upon"
+#
+"lexeme":"kuko",
+"noun":"baking, cooking",
+"du":"cook, bake",
+"es":"cooked, baked"
+#
+"lexeme":"baton",
+"noun":"stick, wand, crook, bat",
+"du":"club, hit with a stick",
+"es":"club, hitted with a stick"
+#
+"lexeme":"fussa",
+"noun":"sweep, brush, broom, mop, besom",
+"du":"sweep, brush",
+"es":"sweeped, broomed"
+#
+"lexeme":"wine",
+"noun":"wine, liquor, booze",
+"bi":"drink wine"
+#
+"lexeme":"piwo",
+"noun":"beer, lager, ale, booze",
+"bi":"drink beer"
+#
+"lexeme":"open",
+"noun":"opening, aperture, gap",
+"du":"open",
+"es":"opened",
+"bi":"open"
+#
+"lexeme":"open-eima",
+"noun":"key, screw, opener"
+#
+"lexeme":"bale",
+"noun":"barrel, can",
+"du":"tu barrel, put ina can",
+"es":"barreled, put in a can",
+"bi":"barreled, canned"
+#
+"lexeme":"kolpo",
+"noun":"hit, blow, punch, bang",
+"du":"hit, punch, bang",
+"es":"hit, punched, banged"
+#
+"lexeme":"dynsa",
+"noun":"dance, brawl, jive",
+"du":"dance at",
+"es":"danced at",
+"bi":"dance, brawl, jive"
+#
+"lexeme":"algu",
+"noun":"argument, discuss",
+"du":"argue about, discuss",
+"es":"discussed",
+"bi":"discuss, argue"
+#
+"lexeme":"findo",
+"noun":"find, acquisition, discovery",
+"du":"find, acquire, discover, get",
+"es":"found, acquired, discovered"
+#
+"lexeme":"laito",
+"noun":"milk",
+"du":"lactate",
+"es":"lactated"
+#
+"lexeme":"gaden",
+"noun":"garden",
+"du":"do gardening"
+#
+"lexeme":"lesto",
+"noun":"ready",
+"du":"prepare, make ready, organize",
+"es":"prepared, made ready, organized",
+"bi":"ready, accessible, apt, organized"
+#
+"lexeme":"bais",
+"noun":"kiss",
+"du":"kiss",
+"es":"kissed"
+#
+"lexeme":"danbo",
+"noun":"stupidity, foolishness, idiocy",
+"bi":"stupid, dull, dumb, fool"
+#
+"lexeme":"espa",
+"noun":"desire, hope, wish",
+"du":"desire, hope, wish, want",
+"es":"desired, wanted, coveted",
+"bi":"hopeful, desiderable"
+#
+"lexeme":"kanbja",
+"noun":"change, adjustment",
+"du":"change, modify, adjust",
+"es":"changed, modified, adjusted"
+#
+"lexeme":"lenjo",
+"noun":"wood (material)"
+#
+"lexeme":"asta",
+"noun":"star"
+#
+"lexeme":"sole",
+"noun":"sun"
+#
+"lexeme":"mense",
+"noun":"moon"
+#
+"lexeme":"una-dje",
+"noun":"monday"
+#
+"lexeme":"due-dje",
+"noun":"tuesday"
+#
+"lexeme":"tel-dje",
+"noun":"wednesday"
+#
+"lexeme":"kas-dje",
+"noun":"thursday"
+#
+"lexeme":"pen-dje",
+"noun":"friday"
+#
+"lexeme":"ses-dje",
+"noun":"saturday"
+#
+"lexeme":"ete-dje",
+"noun":"sunday"
+#
+"lexeme":"pyntan.isi",
+"noun":"march (month)"
+#
+"lexeme":"pyntan.nukel",
+"noun":"april"
+#
+"lexeme":"pyntan.koda",
+"noun":"may (month)"
+#
+"lexeme":"samel.isi",
+"noun":"june"
+#
+"lexeme":"samel.nukel",
+"noun":"july"
+#
+"lexeme":"samel.koda",
+"noun":"august"
+#
+"lexeme":"autun.isi",
+"noun":"september"
+#
+"lexeme":"autun.nukel",
+"noun":"october"
+#
+"lexeme":"autun.koda",
+"noun":"november"
+#
+"lexeme":"winta.isi",
+"noun":"december"
+#
+"lexeme":"winta.nukel",
+"noun":"january"
+#
+"lexeme":"winta.koda",
+"noun":"february"
+#
+"lexeme":"massa",
+"noun":"mass, weight",
+"du":"weight",
+"es":"weighted",
+"bi":"weight, burden",
+"se":"weight oneself"
+#
+"lexeme":"folma",
+"noun":"shape, mould, form, model",
+"du":"give shape, forge, form, model",
+"es":"given shape, forgotten, formed, modelled"
+#
+"lexeme":"folma-ika",
+"noun":"formula, equation, form",
+"du":"formulate",
+"es":"formulated"
+#
+"lexeme":"bamo",
+"noun":"branch, ramification",
+"du":"ramify, ramificate",
+"es":"ramified",
+"bi":"ramified"
+#
+"lexeme":"fumo",
+"noun":"smoke",
+"du":"smoke",
+"es":"smoked",
+"bi":"smoking"
+#
+"lexeme":"wapol",
+"noun":"vapour, gas, fog, steam",
+"du":"treat with vapour, treat with gas",
+"es":"treated with vapour, eb treated with gas",
+"bi":"vaporous, gaseous"
+#
+"lexeme":"naso",
+"noun":"nose, beak",
+"du":"smell",
+"es":"smelled"
+#
+"lexeme":"wiso",
+"noun":"face, visage"
+#
+"lexeme":"faga",
+"noun":"front, facade",
+"du":"in front of",
+"es":"in front of"
+#
+"lexeme":"duko",
+"noun":"guide, conduction, leadership",
+"du":"guide, conduct, lead",
+"es":"guided, conducted, lead"
+#
+"lexeme":"duko-nyn",
+"noun":"leader, chief, director, head, boss, captain, conductor"
+#
+"lexeme":"kenna",
+"noun":"teaching, advice, education",
+"du":"teach, advise, educate",
+"es":"taught, advised, educated"
+#
+"lexeme":"gito",
+"noun":"ripping, stripping, removal, detachment",
+"du":"rip, strip, remove, take away, detach",
+"es":"ripped, stripped, removed, detached",
+"bi":"bare"
+#
+"lexeme":"buka",
+"noun":"hole",
+"du":"dig, excavate, perforate",
+"es":"dug, excavated, perforated",
+"bi":"hollow"
+#
+"lexeme":"misti",
+"noun":"mystery, miracle",
+"bi":"arcane, mystic, miraculous"
+#
+"lexeme":"gate",
+"noun":"gate, door, way, passage"
+#
+"lexeme":"epja",
+"noun":"wonder, amaze, amazement, marvel",
+"du":"astound, surpise, amaze",
+"es":"astounded, surprised, amazed",
+"bi":"wonderful, amazing"
+#
+"lexeme":"gene",
+"noun":"birth, creation",
+"du":"generate, give life, create",
+"es":"born"
+#
+"lexeme":"mutwal",
+"noun":"mutuality",
+"bi":"mutual, do something one another"
+#
+"lexeme":"felta",
+"noun":"altitude",
+"du":"put vertically",
+"es":"put vertically",
+"bi":"high, vertical",
+"se":"stand up, rise"
+#
+"lexeme":"lente",
+"noun":"slowness",
+"du":"slow down",
+"es":"slowed down",
+"bi":"slow",
+"se":"slow down oneself"
+#
+"lexeme":"asil",
+"noun":"ease, simplicity",
+"bi":"easy, so be simple, painless"
+#
+"lexeme":"togu",
+"noun":"difficulty",
+"bi":"difficult, tough, tricky, arduous"
+#
+"lexeme":"aswe",
+"noun":"attainment, completition, achievement, realization",
+"du":"reach, complete, achieve, realize",
+"es":"reached, completed, achieved, realized",
+"bi":"realized, finished"
+#
+"lexeme":"nota",
+"noun":"note, token, unit"
+#
+"lexeme":"almon",
+"noun":"harmony, consistency, coherence, serenity",
+"du":"harmonize",
+"es":"harmonized",
+"bi":"harmonic, coherent, consistent, serene"
+#
+"lexeme":"ailu",
+"noun":"spirit, soul",
+"bi":"holy, sacred, spiritual",
+"se":"meditate"
+#
+"lexeme":"nego",
+"noun":"rejection, negation, refutation, confutation",
+"du":"reject, negate, refute, confute",
+"es":"rejected, negated, refuted, confuted"
+#
+"lexeme":"baje",
+"noun":"event, occurrence, experience",
+"du":"undergo, experience",
+"es":"experienced (by someone)"
+#
+"lexeme":"kapjo",
+"noun":"achievement, picking",
+"du":"receive, get, obtain",
+"es":"received, obtained"
+#
+"lexeme":"luste",
+"noun":"loss",
+"du":"lose",
+"es":"miss",
+"bi":"lost, go astray, go adrift, missing, gone"
+#
+"lexeme":"abile",
+"noun":"ability, capacity",
+"du":"able at"
+#
+"lexeme":"kausa",
+"noun":"cause, reason",
+"du":"cause, provoke",
+"es":"caused, provoked"
+#
+"lexeme":"kausa-ika",
+"noun":"causality, influence, causation"
+#
+"lexeme":"tendo",
+"noun":"rivalry, contendation",
+"du":"contend, compete",
+"es":"contended, competed"
+#
+"lexeme":"ljebo",
+"noun":"robbing",
+"du":"rob, steal"
+#
+"lexeme":"ljebo-nyn",
+"noun":"thief, burglar, bandit"
+#
+"lexeme":"kuban",
+"noun":"govern, command",
+"du":"manage, drive, rule, control, direct, command",
+"es":"managed, driven, ruled, controlled, directed, commanded"
+#
+"lexeme":"kuban-nyn",
+"noun":"governor, commander, leader, captain"
+#
+"lexeme":"wasel",
+"noun":"ship, vessel",
+"bi":"ship, navigate"
+#
+"lexeme":"wasel-nyn",
+"noun":"mariner, sailor"
+#
+"lexeme":"fael",
+"noun":"distance, farness",
+"bi":"far, distant, apart"
+#
+"lexeme":"nate",
+"noun":"night"
+#
+"lexeme":"egan",
+"noun":"flight",
+"du":"fly"
+#
+"lexeme":"ansa",
+"noun":"dream, vision, delusion, nightmare",
+"du":"dream",
+"es":"dreamt"
+#
+"lexeme":"awes",
+"noun":"song, chant",
+"du":"sing, chant",
+"es":"sung, chanted"
+#
+"lexeme":"awes-nyn",
+"noun":"singer, chanter, vocalist"
+#
+"lexeme":"towa",
+"noun":"practice, use",
+"du":"play (an instrument), exert, wield, practice",
+"es":"played, exerted, wielded, practiced"
+#
+"lexeme":"bega",
+"noun":"back, behind",
+"bi":"backwards, behind"
+#
+"lexeme":"lwoda",
+"noun":"wheel, cycle",
+"du":"turn, turn around",
+"es":"turned",
+"bi":"around",
+"se":"to rotate, to go round"
+#
+"lexeme":"naka",
+"noun":"room, nook, chamber, place"
+#
+"lexeme":"boan",
+"noun":"washing, soaking, cleansing",
+"du":"wash, soak, cleanse",
+"es":"washed, soak, cleansed",
+"se":"bath"
+#
+"lexeme":"linda",
+"noun":"cleaning, clearing, lavage",
+"du":"clean, clear",
+"es":"cleaned, cleared",
+"bi":"clean, clear",
+"se":"wash oneself, do toilette"
+#
+"lexeme":"gjola",
+"noun":"development, progress",
+"du":"develop, progress, advance, cultivate, maturate",
+"es":"developed",
+"bi":"growing, developing, advancing, maturing"
+#
+"lexeme":"begen",
+"noun":"answer",
+"du":"answer, return",
+"es":"answered, returned"
+#
+"lexeme":"inkwe",
+"noun":"question",
+"du":"ask, wonder, inquire",
+"es":"asked",
+"bi":"dubious, curious"
+#
+"lexeme":"tuje",
+"noun":"cry, weep",
+"bi":"cry, weep"
+#
+"lexeme":"kata",
+"noun":"laugh",
+"bi":"laugh"
+#
+"lexeme":"isu",
+"noun":"smile",
+"bi":"smile"
+#
+"lexeme":"wopa",
+"noun":"jump, hop, leap",
+"du":"jump over, jump across",
+"bi":"jump, leap, spring, bounce"
+#
+"lexeme":"epas",
+"noun":"prayer, worship",
+"du":"pray, worship",
+"es":"prayed, worshipped",
+"bi":"pray, worship"
+#
+"lexeme":"kilas",
+"noun":"caress",
+"du":"fondle, caress, cuddle"
+#
+"lexeme":"apwa",
+"noun":"discovery, learning",
+"du":"learn, get, discover",
+"es":"learnt, discovered"
+#
+"lexeme":"futi",
+"noun":"vigilation, awareness, consciousness",
+"du":"wake up, rise, soar",
+"bi":"attentive, aware, conscious"
+#
+"lexeme":"ume",
+"noun":"emotion, feeling, sentiment",
+"du":"feel",
+"es":"felt",
+"bi":"emotional, sentimental"
+#
+"lexeme":"oljo",
+"noun":"oil",
+"du":"oil",
+"es":"oiled",
+"bi":"viscid"
+#
+"lexeme":"bjuna",
+"noun":"pression",
+"du":"push, press, squeeze",
+"es":"pushed, pressed"
+#
+"lexeme":"isa",
+"noun":"lure, attraction",
+"du":"pull, lure, drag, attract",
+"es":"pulled, lured, dragged, attracted"
+#
+"lexeme":"olko",
+"noun":"order, arrangement, classification, regulation",
+"du":"organize, manage, arrange, classify, regulate",
+"es":"organized, managed, arranged, classified, regulated"
+#
+"lexeme":"mules",
+"noun":"mouse, roditor"
+#
+"lexeme":"sypa",
+"noun":"soup, stew, broth"
+#
+"lexeme":"falno",
+"noun":"flour, crumble, grate"
+#
+"lexeme":"sipe",
+"noun":"drink, beverage",
+"du":"sip, swallow",
+"es":"sipped, swallowed"
+#
+"lexeme":"pjanta",
+"noun":"plant, bush, vegetable",
+"du":"plant",
+"es":"planted"
+#
+"lexeme":"pjanta-asai",
+"noun":"forest, wilderness"
+#
+"lexeme":"eguni",
+"noun":"fire, flame",
+"du":"to burn, to put on fire",
+"es":"burned",
+"bi":"burning, ardent"
+#
+"lexeme":"toten",
+"noun":"death",
+"du":"kill, assassinate",
+"es":"die, killed, assassinated",
+"bi":"dead",
+"se":"commit suicide, kill oneself"
+#
+"lexeme":"maska",
+"noun":"mask, camouflage, disguise, conceal",
+"du":"mask, disguise, conceal",
+"es":"masked, disguised, concealed",
+"bi":"hidden, concealed"
+#
+"lexeme":"maska-ika",
+"noun":"hoax, subterfuge",
+"du":"conceal, dissimulate",
+"es":"concealed, dissimulated",
+"bi":"concealed, dissimulated"
+#
+"lexeme":"poa",
+"noun":"breath, respiration",
+"du":"breath",
+"es":"breathed",
+"bi":"breath"
+#
+"lexeme":"nage",
+"bi":"swim"
+#
+"lexeme":"usun",
+"noun":"depth",
+"bi":"deep, abysmal, bottomless",
+"se":"sink, plow"
+#
+"lexeme":"usun-asai",
+"noun":"abyss, depth, void, chasm"
+#
+"lexeme":"tiko",
+"noun":"finger, denotation",
+"du":"finger, denote",
+"es":"fingered, denoted",
+"bi":"finger"
+#
+"lexeme":"sele",
+"noun":"sale",
+"du":"sell",
+"es":"sold"
+#
+"lexeme":"bojo",
+"noun":"buying",
+"du":"buy",
+"es":"bought"
+#
+"lexeme":"nosko",
+"noun":"acquaintance",
+"du":"know, meet",
+"es":"known, met",
+"bi":"known, familiar"
+#
+"lexeme":"njamu",
+"noun":"taste, aroma",
+"du":"taste",
+"es":"tasted"
+#
+"lexeme":"konbe",
+"noun":"attachment, combination",
+"du":"attach, combine",
+"es":"attached, combined"
+#
+"lexeme":"tala.jaku",
+"bi":"run"
+#
+"lexeme":"este-ika",
+"noun":"truth",
+"du":"make true",
+"es":"made true",
+"bi":"true"
+#
+"lexeme":"nul-ika",
+"noun":"falsity",
+"du":"make false",
+"es":"made false",
+"bi":"false"
+#
+"lexeme":"selea",
+"noun":"cereal, grain, rice"
+#
+"lexeme":"unba",
+"noun":"shadow, obscurity",
+"du":"darken, obscure",
+"es":"darken, obscured",
+"bi":"dark, obscure"
+#
+"lexeme":"meli",
+"noun":"sea",
+"bi":"to sail"
+#
+"lexeme":"falus",
+"noun":"river, flow flux",
+"bi":"flow"
+#
+"lexeme":"odol",
+"noun":"smell, flavour",
+"du":"smell",
+"es":"smelled",
+"bi":"aromatic, stinky, odorous",
+"se":"smell"
+#
+"lexeme":"guge",
+"noun":"resistance, opposition, whithstanding, confrontation",
+"du":"resist, oppose, whitstand, confront",
+"es":"resisted, opposed, whistanded, confronted",
+"bi":"resistant, opposing"
+#
+"lexeme":"pipi",
+"noun":"pee",
+"bi":"to pee"
+#
+"lexeme":"pipi-asai",
+"noun":"bathroom"
+#
+"lexeme":"siki",
+"noun":"disease",
+"du":"infect, pollute, contaminate",
+"es":"infected, polluted, contaminated",
+"bi":"sick, ill"
+#
+"lexeme":"sensi",
+"noun":"perception",
+"du":"sense, perceive, feel",
+"es":"sensed, perceived, felt",
+"bi":"perceptive, aware"
+#
+"lexeme":"fantasi",
+"noun":"fantasy, imagination",
+"du":"imagine, conjecture, envision",
+"es":"imagined, conjectured, envisioned"
+#
+"lexeme":"pape",
+"noun":"paper, papyrus, sheet"
+#
+"lexeme":"kabal",
+"noun":"horse, zebra, donkey, mule"
+#
+"lexeme":"muuke",
+"noun":"cow, bull, ox, beef, buffalo"
+#
+"lexeme":"testudo",
+"noun":"tortoise, terrapin, turtle"
+#
+"lexeme":"osban",
+"noun":"snake"
+#
+"lexeme":"gastwo",
+"noun":"stomach, belly, abdomen",
+"du":"digest",
+"es":"digested"
+#
+"lexeme":"gastwo-ika",
+"noun":"digestion"
+#
+"lexeme":"sjewi",
+"noun":"wilderness",
+"bi":"selvatic, wild, untamed"
+#
+"lexeme":"koinin",
+"noun":"rabbit, hare"
+#
+"lexeme":"linko",
+"noun":"link, connection, association",
+"du":"link, hook up",
+"es":"linked, hooked up"
+#
+"lexeme":"salsa",
+"noun":"sauce, dip, topping"
+#
+"lexeme":"sintagi",
+"noun":"recipe, method, prescription, indication",
+"du":"prescript, decree, regulate, indicate",
+"es":"prescripted, decreed, regulated, indicated"
+#
+"lexeme":"ajon",
+"noun":"year"
+#
+"lexeme":"ajuto",
+"noun":"help, aid, guidance",
+"du":"help, aid, guide",
+"es":"helped, aided, guided"
+#
+"lexeme":"ajuto-ika",
+"noun":"assistence, service, support",
+"du":"assist, serve, support",
+"es":"assisted, served, supported"
+#
+"lexeme":"gini",
+"noun":"meaning, significance, connotation",
+"du":"mean, signify, connotate",
+"es":"meant, signified, connotation",
+"bi":"meaningful, significant"
+#
+"lexeme":"toli",
+"noun":"history, story, tale",
+"du":"tell",
+"es":"told"
+#
+"lexeme":"lwonto",
+"noun":"nature, environment"
+#
+"lexeme":"dente",
+"noun":"tooth",
+"du":"bite, chew",
+"es":"biten, chewed"
+#
+"lexeme":"keso",
+"noun":"cheese"
+#
+"lexeme":"ungja",
+"noun":"nail (body part)",
+"du":"scratch",
+"es":"scratched"
+#
+"lexeme":"bitan",
+"noun":"importance, criticity, influence, essentiality",
+"du":"consider, regard, give importance",
+"es":"considered, regarded",
+"bi":"important, crucial, critical, big, influential, essential"
+#
+"lexeme":"oga",
+"noun":"eye"
+#
+"lexeme":"lebo",
+"noun":"book, volume, album, directory, folder, archive",
+"du":"archive, compile, redact",
+"es":"archived, compiled, redacted"
+#
+"lexeme":"lebo-asai",
+"noun":"library"
+#
+"lexeme":"opin",
+"noun":"opinion, idea, consideration, judgement",
+"du":"judge, consider, think",
+"es":"judged, considered, thought",
+"bi":"considerate, thinking"
+#
+"lexeme":"usbi",
+"noun":"wrong, error, mistake",
+"du":"get wrong, misinterpret, misunderstand, err, miss",
+"es":"got wrong, misinterpreted, misunderstood, missed",
+"bi":"go astray, wrong, misinterpreting, misunderstanding"
+#
+"lexeme":"festa",
+"noun":"party, celebration",
+"du":"celebrate",
+"es":"celebrated",
+"bi":"party"
+#
+"lexeme":"peili",
+"noun":"mirror, looking glass, reflective surface",
+"du":"reflect, mirror",
+"es":"reflected, mirrored",
+"bi":"mirroring, polished, shining, gloss"
+#
+"lexeme":"lasi",
+"noun":"glass, vitreous material"
+#
+"lexeme":"askan",
+"noun":"outrush, flight, escape, leak, sprint, leakaway, avoidance, elusion, evasion",
+"du":"escape from, avoid, elude, evade, quit",
+"es":"escaped from, avoided, eluded, evaded, quitted"
+#
+"lexeme":"pynja",
+"noun":"enemy, danger, peril, threat",
+"du":"fall out with, make an enemy of",
+"es":"fallen out with, made an enemy",
+"bi":"enemy, dangerous, menacing"
+#
+"lexeme":"myntan",
+"noun":"mountain, cliff"
+#
+"lexeme":"bulyn",
+"noun":"blame, accusation, condemnation, criticism",
+"du":"blame, accuse, condemn, critique",
+"es":"blamed, accused, condemned, critiqued"
+#
+"lexeme":"kjodo",
+"noun":"nail (tool), sharp pointy object",
+"du":"nail, fix, rivet",
+"es":"nailed, fixed, riveted",
+"bi":"pointy, sharp"
+#
+"lexeme":"ylgo",
+"noun":"choise, vote, option, decision, favour",
+"du":"choose, pick, opt, decide, favour",
+"es":"coosed, picked, opted, decided, favoured"
+#
+"lexeme":"piby",
+"noun":"quality, character, personality, nature, feature, aspect, calibre",
+"du":"qualify, characterize",
+"es":"qualified, characterized"
+#
+"lexeme":"nya",
+"noun":"novelty",
+"du":"renew",
+"es":"renewed",
+"bi":"new, modern, recent, current"
+#
+"lexeme":"pyga",
+"noun":"pouring, spilling",
+"du":"pour, spill",
+"es":"poured, spilled",
+"bi":"pour, spill"
+#
+"lexeme":"kysto",
+"noun":"cost, price, value, tariff, fee, charge",
+"du":"to charge (for a fee)",
+"es":"charged (for a fee)",
+"bi":"expensive"
+#
+"lexeme":"ysme",
+"noun":"statement, assertation, affirmation, announcement",
+"du":"state, enunciate, assert, affirm, announce",
+"es":"stated, enounced, asserted, affirmed, announced"
+#
+"lexeme":"teesta",
+"noun":"test, challenge, contest",
+"du":"challenge",
+"es":"challenged"
+#
+"lexeme":"feis",
+"noun":"faith, trust, confidence",
+"du":"have faith in, trust",
+"es":"trusted",
+"bi":"trustworthy"
+#
+"lexeme":"tono",
+"noun":"tone, voice, timbre, sound, inflection, accent",
+"du":"speak, sound, articulate, inflect, accent",
+"es":"spoken, sound, articulate, inflected",
+"bi":"timbric"
+#
+"lexeme":"ikon",
+"noun":"icon, symbol, sign, mark, image, logo",
+"du":"mark, sign, draw, symbolize",
+"es":"marked, signed, drawn, symbolized",
+"bi":"iconic, symbolic"
+#
+"lexeme":"ikon-eima",
+"noun":"teaches, signboard, banner, ensign, standard, flag"
+#
+"lexeme":"gaino",
+"noun":"victory, winning, success, achievement, accomplishment, triumph",
+"du":"win, prevail, triumph, achieve, accomplish",
+"es":"won, achieved, accomplished"
+#
+"lexeme":"tylko",
+"noun":"trick, cheat",
+"du":"trick, cheat, fool, swindle, spoof",
+"es":"tricked, cheated, fooled, swindled, spoofed",
+"bi":"tricky, cheaty"
+#
+"lexeme":"lanja",
+"noun":"tire, fatigue, weakness",
+"du":"tire, fatigue",
+"es":"tired, fatigued",
+"bi":"tired, fatigued, weak",
+"se":"tire oneself"
+#
+"lexeme":"konfes",
+"noun":"confession, admission, acknowledgement",
+"du":"confess, admit, acknowledge",
+"es":"confessed, admitted, acknowledge"
+#
+"lexeme":"konfes-asai",
+"noun":"confessional"
+#
+"lexeme":"pywis",
+"noun":"burden, baggage, gear, luggage",
+"du":"bring, carry",
+"es":"brought, carried"
+#
+"lexeme":"toky",
+"noun":"piece, part, segment, amount"
+#
+"lexeme":"dylse",
+"noun":"sweetness, sugar",
+"du":"sweeten",
+"es":"sweetened",
+"bi":"sweet, sugary"
+#
+"lexeme":"anka",
+"bi":"also, too"
+#
+"lexeme":"feilu",
+"noun":"failure, flop, breakdown",
+"bi":"fail, lose, unsuccesful"
+#
+"lexeme":"ygy",
+"noun":"singleton, isolation, solitude",
+"bi":"just, only, lone, alone, single, singular"
+#
+"lexeme":"sauten",
+"noun":"fun, festival, laugh",
+"du":"amuse, entertain",
+"es":"amused, entertained",
+"bi":"play, laugh, party, have fun"
+#
+"lexeme":"ljeta",
+"level":"1",
+"noun":"joy, happiness, bliss, contentment, enjoyement",
+"du":"gladden, rejoice",
+"es":"gladdened, rejoiced",
+"bi":"joyful, happy, content, merry"
+#
+"lexeme":"guldo",
+"noun":"expression, explaination, meaning, rendering, message, idea",
+"du":"convey, render, translate, express, explain",
+"es":"conveyed, rendered, translated, expressed, explained",
+"bi":"expressive, meaningful"
+#
+"lexeme":"taipo",
+"noun":"type, kind, species",
+"bi":"tipic, natural, regular"
+#
+"lexeme":"pyju",
+"noun":"fear",
+"du":"fear, scare",
+"es":"feared, scared",
+"bi":"fearful, dreadful, scaring"
+#
+"lexeme":"dokumen",
+"noun":"text, document, file, essay, writing, documentation",
+"du":"document, write, archive",
+"es":"documented, written, archived"
+#
+"lexeme":"dokumen-asai",
+"noun":"archive"
+#
+"lexeme":"eskalje",
+"noun":"ladder, stairs",
+"du":"mount, escalate",
+"es":"escalated"
+#
+"lexeme":"aotyn",
+"noun":"revenge, return game, get back",
+"du":"revenge, redeem",
+"es":"revenged, redeemed"
+#
+"lexeme":"bunli",
+"noun":"obstacle, impediment, inhibition, obstruction",
+"du":"prevent, impede, hinder, inhibit, obstruct, hamper",
+"es":"prevented, impeded, hindered, inhibited, obstructed, hampered"
+#
+"lexeme":"ejau",
+"noun":"yawn",
+"bi":"yawn"
+#
+"lexeme":"elmeto",
+"noun":"helmet",
+"du":"put in head",
+"es":"put in head"
+#
+"lexeme":"owen",
+"noun":"oven, furnace, bakery, kiln",
+"du":"cook in an oven, bake in an oven",
+"es":"cooked in an oven, baked in an oven"
+#
+"lexeme":"owen-asai",
+"noun":"foundry, smeltery"
+#
+"lexeme":"molusko",
+"noun":"mollusk, invertebrate"
+#
+"lexeme":"systun",
+"noun":"block, stiffness, bind",
+"du":"tighten, block, stiffen, bind",
+"es":"tightened, blocked, bound",
+"bi":"tight, constricted"
+#
+"lexeme":"tonbo",
+"noun":"fall, decrease, dip, drop, dip",
+"du":"drop, decrease, dip, plunge, diminish",
+"es":"dropped, decreased, dipped, plunged, diminished",
+"bi":"fall, decline, collapse, decline"
+#
+"lexeme":"tonbo-asai",
+"noun":"graveyard, cemetery, necropolis"
+#
+"lexeme":"aisto",
+"noun":"vinegar"
+#
+"lexeme":"salto",
+"noun":"salt",
+"du":"to salt",
+"es":"salted",
+"bi":"salty"
+#
+"lexeme":"ljudu",
+"noun":"liute, guitar, bass"
+#
+"lexeme":"tylynba",
+"noun":"trumpet, trombone, tuba"
+#
+"lexeme":"sakys",
+"noun":"clarinet, saxophone"
+#
+"lexeme":"oboe",
+"noun":"oboe, bassoon"
+#
+"lexeme":"fifo",
+"noun":"flute"
+#
+"lexeme":"keibyl",
+"noun":"klavier, piano, keyboard"
+#
+"lexeme":"waskylen",
+"noun":"wasabi, horseradish, sweet potato, carrot, root vegetable"
+#
+"lexeme":"potapin",
+"noun":"potato, tuber, earth apple"
+#
+"lexeme":"touto",
+"noun":"tomato, kaki, pumpkin, eggplant"
+#
+"lexeme":"moumo",
+"noun":"cucumber, zucchini, watermelon, pepper"
+#
+"lexeme":"ponma",
+"noun":"apple, pear, melon"
+#
+"lexeme":"fasyl",
+"noun":"bean, pea, lentil, chickpea"
+#
+"lexeme":"lypa",
+"noun":"tongue (anatomical part)",
+"du":"lick, lap",
+"es":"licked, lapped"
+#
+"lexeme":"bouke",
+"noun":"mouth, opening, eat",
+"du":"speak, kiss",
+"es":"spoke, kissed"
+#
+"lexeme":"selpo",
+"noun":"shoe"
+#
+"lexeme":"alu",
+"noun":"understand, comprehend",
+"du":"understand, comprehend",
+"es":"understood"
+#
+"lexeme":"njuso",
+"noun":"nuisance, annoyance, torment",
+"du":"annoy, bore, torment",
+"es":"annoyed, bored, tormented",
+"bi":"irritant, annoying, boring"
+#
+"lexeme":"penis",
+"noun":"penis, dick, cock",
+"du":"fuck, penetrate",
+"es":"fucked, penetrated",
+"se":"masturbate"
+#
+"lexeme":"kunnu",
+"noun":"vagina, vulva, pussy, cunt",
+"du":"fuck, be penetrated",
+"es":"fucked",
+"se":"masturbate"
+#
+"lexeme":"ysuto",
+"noun":"spit, saliva",
+"du":"spit, drool, slobber, splutter",
+"es":"spitted, drooled, slobbered, spluttered",
+"bi":"spit, drool, slobber, splutter"
+#
+"lexeme":"jelba",
+"noun":"herb, grass"
+#
+"lexeme":"liken",
+"noun":"musk, lichen"
+#
+"lexeme":"lapis",
+"noun":"rock, pebble, stone"
+#
+"lexeme":"matemas",
+"noun":"mathematics, abstraction",
+"du":"think, abstract",
+"es":"thought, abstracted"
+#
+"lexeme":"sjensa",
+"noun":"science, knowledge",
+"du":"study, discover, learn",
+"es":"studied, discovered, learnt"
+#
+"lexeme":"sjensa-asai",
+"noun":"laboratory, workshop"
+#
+"lexeme":"konputo",
+"noun":"computation",
+"du":"compute, calculate",
+"es":"computed, calculated"
+#
+"lexeme":"konputo-eima",
+"noun":"computer, calculator"
+#
+"lexeme":"fakupa",
+"noun":"sex, fucking, banging",
+"du":"fuck, have sex with, bang",
+"es":"fucked, banged",
+"se":"to masturbate"
+#
+"lexeme":"fakupa-asai",
+"noun":"brothel, whorehouse"
+#
+"lexeme":"sukjo",
+"noun":"sucking, aspiration, drink, suction",
+"du":"suck, absorb, drink",
+"es":"sucked, absorbed, drunk",
+"bi":"porous, absorbent"
+#
+"lexeme":"ynfi",
+"noun":"insertion, embedding",
+"du":"put, insert, embed, insinuate",
+"es":"put, inserted, embedded, insinuated",
+"bi":"within, inserted"
+#
+"lexeme":"aimyta",
+"noun":"goal, aim, checkpoint, post",
+"du":"save (a file)"
+#
+"lexeme":"nunba",
+"noun":"number, amount, count",
+"du":"count, measure, quantify",
+"es":"counted, measured, quantified"
+#
+"lexeme":"pakyta",
+"noun":"pact, promise, deed, contract",
+"du":"promise, assure",
+"es":"promised, assured"
+#
+"lexeme":"pakyta.gila",
+"noun":"wedding",
+"du":"marry",
+"es":"married",
+"bi":"married"
+#
+"lexeme":"yspana",
+"noun":"span, interval, timespan, duration, distance, length",
+"du":"span, stretch over, extend"
+#
+"lexeme":"tenta",
+"noun":"tentative, try, attempt, test, experiment",
+"du":"try, attempt, test, experiment",
+"es":"tried, attempted, tested, experimented",
+"se":"test oneself"
+#
+"lexeme":"sjaken",
+"noun":"iteration, turn, cycle",
+"du":"iterate over, cycle over",
+"es":"iterated, take turns",
+"bi":"each, every"
+#
+"lexeme":"ganu",
+"noun":"hook, hanger, clasp, crook",
+"du":"hook, hang",
+"es":"hooked, hanged",
+"bi":"hanging, hang",
+"se":"hang oneself"
+#
+"lexeme":"waito",
+"noun":"interval, delay",
+"du":"wait, bide",
+"es":"awaited, longed for"
+#
+"lexeme":"asjom",
+"noun":"axiom, premise, postulate, hypothesis",
+"du":"assume, accept, pretend, postulate",
+"es":"assumed, accepted, postulated",
+"bi":"postulated"
+#
+"lexeme":"aki",
+"noun":"proximity, nearby",
+"du":"make closer, approach",
+"es":"made closer, approached",
+"bi":"close, near, nearby, imminent",
+"se":"come closer"
+#
+"lexeme":"aki-asai",
+"noun":"neighbourhood"
+#
+"lexeme":"wylo",
+"noun":"reality, effectiveness, actuality",
+"du":"make real, make effective, actualize",
+"es":"be made real, come into effect, actualized",
+"bi":"real, true, palpable, credible, sincere, effective, actual"
+#
+"lexeme":"wylo-ika",
+"noun":"sincerity, honesty, earnestness",
+"bi":"sincere, honest, earnest"
+#
+"lexeme":"pugul",
+"noun":"arse, butt, ass, bottom, bum, buttocks"
+#
+"lexeme":"sines",
+"noun":"breast, tit, boob"
+#
+"lexeme":"kylma",
+"noun":"money, cash, wealth, assets, banknote"
+#
+"lexeme":"testikyl",
+"noun":"testicle"
+#
+"lexeme":"ingoja",
+"noun":"sip, gulp",
+"du":"swallow, gulp",
+"es":"swallowed"
+#
+"lexeme":"meal",
+"noun":"meal, dinner, lunch",
+"bi":"have a dinner, have a lunch"
+#
+"lexeme":"meal-asai",
+"noun":"dining room"
+#
+"lexeme":"poison",
+"noun":"poison, venom, toxin",
+"du":"poison, intoxicate",
+"es":"poisoned, intoxicated",
+"bi":"poisonous, toxic"
+#
+"lexeme":"ogome",
+"noun":"hate, rage, fury, hatred, hostility",
+"du":"hate, dislike",
+"es":"hated, disliked",
+"se":"hate oneself"
+#
+"lexeme":"total",
+"noun":"total, whole, comprehensive, aggregate",
+"du":"sum up, aggregate",
+"es":"summed up, aggregate",
+"bi":"whole, total"
+#
+"lexeme":"kaul",
+"noun":"call, verse, summoning",
+"du":"call, invite, summon",
+"es":"called, invited, summoned"
+#
+"lexeme":"memo",
+"noun":"memory, recollection, history, remembrance",
+"du":"recall, remember",
+"es":"recalled, remembered"
+#
+"lexeme":"asluta",
+"noun":"bitch, prostitute, whore, harlot, prostitute",
+"du":"to prostitute",
+"es":"to engage with prostitute"
+#
+"lexeme":"swino",
+"noun":"pig, swine, boar"
+#
+"lexeme":"lagal",
+"noun":"lizard, geko"
+#
+"lexeme":"kyni",
+"noun":"knee",
+"bi":"kneeled down, kneel down, sit on the knees"
+#
+"lexeme":"eskusa",
+"noun":"excuse",
+"du":"excuse, pardon",
+"es":"excused, pardoned"
+#
+"lexeme":"sytyl",
+"noun":"strip, band",
+"du":"stip, band",
+"es":"stripped, banded",
+"bi":"stripped, banded"
+#
+"lexeme":"wegi",
+"noun":"vegetable, herb"
+#
+"lexeme":"djoson",
+"noun":"direction, orientation, adaptation",
+"du":"to direct, to orient, to adapt",
+"es":"directed, oriented, conformed"
+#
+"lexeme":"angolo",
+"noun":"angle, corner, bend, crook, perspective",
+"du":"bend, angle",
+"es":"bent, angled",
+"bi":"bent, oriented",
+"se":"to orient oneself"
+#
+"lexeme":"tepa",
+"noun":"step, walk",
+"bi":"walk, step, go"
+#
+"lexeme":"tepa.tul",
+"noun":"footprint"
+#
+"lexeme":"silen",
+"noun":"silence, calm, quiet",
+"du":"omit, withhold, conceal",
+"es":"omitted, withholded, concealed",
+"bi":"silent, mute, quiet"
+#
+"lexeme":"meto",
+"noun":"metre"
+#
+"lexeme":"sekon",
+"noun":"second"
+#
+"lexeme":"lite",
+"noun":"liter"
+#
+"lexeme":"gepon",
+"noun":"kilogram"
+#
+"lexeme":"ladjan",
+"noun":"radiant (unit of measure)"
+#
+"lexeme":"abasal",
+"noun":"hug",
+"du":"embrace, hug",
+"es":"embraced, hugged"
+#
+"lexeme":"monson",
+"noun":"monsoon"
+#
+"lexeme":"winta",
+"noun":"winter"
+#
+"lexeme":"samel",
+"noun":"summer"
+#
+"lexeme":"pyntan",
+"noun":"spring (season)"
+#
+"lexeme":"autun",
+"noun":"autumn, fall (season)"
+#
+"lexeme":"danas",
+"noun":"curse, damn",
+"du":"damn, curse",
+"es":"damned, cursed"
+#
+"lexeme":"ytalbe",
+"noun":"establishment, institution",
+"du":"establish, institute",
+"es":"established, instituted",
+"bi":"established, instituted, settled",
+"se":"settle"
+#
+"lexeme":"delis",
+"noun":"delight, contentment, glee, pleasure, satisfaction",
+"du":"delight, pleasure, satisfy",
+"es":"delighted, pleasured, satisfied",
+"bi":"delighted, content, satisfied",
+"se":"to satisfy oneself, to delight"
+#
+"lexeme":"fiskjo",
+"noun":"whistle, blare, hiss",
+"du":"whistle, hiss",
+"es":"whistled, hissed"
+#
+"lexeme":"lemun",
+"noun":"prize, reward, award, accolade, benefit, bounty, bonus, premium, remuneration",
+"du":"reward, recompensate, requite",
+"es":"rewarded, prized, requited",
+"bi":"profitable, beneficial"
+#
+"lexeme":"genki",
+"noun":"health, spirit, strength",
+"du":"cure, heal, restore, repair",
+"es":"cured, healed, restored, repaired",
+"bi":"healthy, strong"
+#
+"lexeme":"genki-gwi",
+"noun":"medicine, tonic, potion"
+#
+"lexeme":"puan",
+"noun":"bread"
+#
+"lexeme":"puan-asai",
+"noun":"bakery"
+#
+"lexeme":"soluto",
+"noun":"solution, resolution, fix",
+"du":"solve, resolve, fix",
+"es":"solved, resolved, fixed"
+#
+"lexeme":"iskes",
+"noun":"joke, farce, humour, prank, pun",
+"du":"joke, kid, mock, banter",
+"es":"joked, mocked",
+"bi":"playful, humourous, funny"
+#
+"lexeme":"masal",
+"noun":"spice, seasoning, aroma, fragrance",
+"du":"spice up, season, dress",
+"es":"spiced up, seasoned, dressed",
+"bi":"spicy, aromatic, fragrant, tangy, tasty"
+#
+"lexeme":"folty",
+"du":"fry, cauterize, toast",
+"es":"fried, cauterized, toasted"
+#
+"lexeme":"seka",
+"noun":"desert, wasteland",
+"du":"dry, exsicate, dehydrate, desiccate",
+"es":"dried, exsicated, dehydrated, desiccated",
+"bi":"dry, withered, barren, desertic"
+#
+"lexeme":"seka-asai",
+"noun":"desert, wasteland"
+#
+"lexeme":"pasjon",
+"noun":"passion, affection, ardor, dedication, excitement",
+"du":"thrill, impassion, move",
+"es":"thrilled, impassioned, moved",
+"bi":"passionate, dedit, excited, enthusiast"
+#
+"lexeme":"luata",
+"noun":"loot, booty, spoils",
+"du":"win, gain, loot",
+"es":"won, gained, looted"
+#
+"lexeme":"sitas",
+"noun":"town, city, metropolis"
+#
+"lexeme":"woka",
+"noun":"pan, bedpan, wok"
+#
+"lexeme":"mauna",
+"noun":"morality, ethics, honesty, decency",
+"bi":"moral, ethical, honest, decent"
+#
+"lexeme":"balkon",
+"noun":"balcony, terrace, platform"
+#
+"lexeme":"tenpel",
+"noun":"temple, sanctuary"
+#
+"lexeme":"kolon",
+"noun":"column, pillar",
+"du":"sustain, support, maintain",
+"es":"sustained, supported, maintained"
+#
+"lexeme":"sjulda",
+"noun":"shoulder"
+#
+"lexeme":"ljota",
+"noun":"riot, revolt, turmoil, protest, uprising"
+#
+"lexeme":"selul",
+"noun":"cell, corpuscule"
+#
+"lexeme":"djuti",
+"noun":"task, duty, job, deed"
+#
+"lexeme":"djusta",
+"noun":"justice",
+"du":"justify, correct",
+"es":"justified, corrected",
+"bi":"just, right, correct"
+#
+"lexeme":"djusta.nyn",
+"noun":"judge"
+#
+"lexeme":"pugax",
+"noun":"filth, trash, garbage"
+#
+"lexeme":"kandel",
+"noun":"candle"
+#
+"lexeme":"ados",
+"noun":"dress, suit, appare, attire",
+"du":"dress, wear",
+"es":"dressed, worn"
+#
+"lexeme":"siun",
+"du":"loosen, untie, resolve, unbind, unchain",
+"es":"loose, untied, resolved, unbinded, unchained"
+#
+"lexeme":"guno",
+"noun":"knot, tie, chain",
+"du":"knot, tie, bind",
+"es":"knotted, tied, binded"
+#
+"lexeme":"tegan",
+"noun":"closure",
+"du":"close, lock",
+"es":"closed, locked",
+"bi":"closed"
+#
+"lexeme":"byle",
+"noun":"belief, faith, confidence",
+"du":"believe, think",
+"es":"believed, thought"
+#
+"lexeme":"kafe",
+"noun":"coffee"
+#
+"lexeme":"kafe-eima",
+"noun":"coffee machine, moka"
+#
+"lexeme":"bosja",
+"level":"1",
+"noun":"child, kid, boy, girl"
+#
+"lexeme":"enbjo",
+"noun":"embryo, faetus"
+#
+"lexeme":"alkol",
+"noun":"alcohol, booze"
+#
+"lexeme":"kwyso",
+"noun":"coherence, pertinence",
+"bi":"matter, relevant"
+#
+"lexeme":"ygen",
+"noun":"country, nature, field",
+"bi":"bucolic, natural, rural, rustical"
+#
+"lexeme":"kastel",
+"noun":"castle, fortress, fort"
+#
+"lexeme":"magus",
+"noun":"magic, prodige, spell, wizardry"
+#
+"lexeme":"magus-nyn",
+"noun":"wizard, magician, witch"
+#
+"lexeme":"euga",
+"noun":"availability, sufficiency, plenty",
+"bi":"enough, suffice, sufficient"
+#
+"lexeme":"wityn",
+"noun":"witness, observation, presence, proof",
+"du":"attend, testify, prove",
+"es":"attended, testified, proved"
+#
+"lexeme":"felys",
+"noun":"flexibility, elasticity",
+"du":"flect, lean, tilt",
+"es":"flected, leaned, tilted",
+"bi":"flexible, elastic"
+#
+"lexeme":"polen",
+"noun":"problem, complication, dilemma, issue, obstacle, question, trouble",
+"du":"complicate, touble, disturb, hassle",
+"es":"complicated, toubled, disturbed, hassled",
+"bi":"problematic, complicated, tricky"
+#
+"lexeme":"sofy",
+"noun":"software, program, algorithm",
+"du":"code, program",
+"es":"coded, programmed"
+#
+"lexeme":"aldy",
+"noun":"hardware",
+"du":"implement, concretize",
+"es":"implemented, concretized"
+#
+"lexeme":"bulba",
+"noun":"onion, bulb, garlic, leek"
+#
+"lexeme":"jetu",
+"noun":"launching, throw",
+"du":"throw, launch",
+"es":"thrown, launched"
+#
+"lexeme":"bolla",
+"noun":"bubble",
+"du":"boil",
+"es":"boiled",
+"bi":"boiling"
+#
+"lexeme":"alga",
+"noun":"seaweed, algae"
+#
+"lexeme":"gynu",
+"noun":"bitter"
+#
+"lexeme":"asido",
+"noun":"sourness, acidity, acrididty",
+"noun":"sour, acid, acrid"
+#
+"lexeme":"konsyil",
+"noun":"advice, suggestion",
+"du":"advice, suggest",
+"es":"adviced, suggested"
+#
+"lexeme":"konsyil-nyn",
+"noun":"lawyer, advocate, counsellor"
+#
+"lexeme":"isle",
+"noun":"island, isle",
+"du":"isolate, disconnect",
+"es":"isolated, disconnected",
+"bi":"isolated, lonely, detached, secluded, segregated"
+#
+"lexeme":"isle-ika",
+"noun":"isolation, confinement, segregation, seclusion, solitude"
+#
+"lexeme":"isle-upo",
+"noun":"archipelago"
+#
+"lexeme":"allos",
+"noun":"wrapping, bandage, bind, bundle, drape",
+"du":"wrap, band, bind, bundle, drape",
+"es":"wrapped, banded, binded, bundled, drapped"
+#
+"lexeme":"ensen",
+"noun":"collaboration, alliance, partnership",
+"du":"join, unite",
+"bi":"together, collaborate"
+#
+"lexeme":"ensen-nyn",
+"noun":"ally, collaborator, partner"
+#
+"lexeme":"teal",
+"noun":"theater, stage, arena, hall",
+"du":"play, act",
+"es":"played, acted"
+#
+"lexeme":"teal-nyn",
+"noun":"actor, actress"
+#
+"lexeme":"tewo",
+"level":"1",
+"noun":"sadness, grief, depression, melancholy, mourning, sorrow",
+"du":"sadden, grieve, depress",
+"es":"saddened, grieved, depressed",
+"bi":"sad, depressed, melancholic, mourning, sorrowful"
+#
+"lexeme":"maidin",
+"noun":"morning, dawn, sunrise, daybreak"
+#
+"lexeme":"wese",
+"noun":"evening, sundown, sunset, twilight"
+#
+"lexeme":"libe",
+"noun":"freedom, liberty",
+"du":"free, liberate, release, relieve, dismiss",
+"es":"freed, liberated, released, relieved, dismissed",
+"bi":"free, unrestricted, unrestrained"
+#
+"lexeme":"inpyl",
+"noun":"implication, deduction, derivation, conclusion",
+"du":"imply, deduce, derive, conclude",
+"es":"implied, deduced, derived, concluded"
+#
+"lexeme":"ekis",
+"noun":"expectation, forecast, prediction, estimate, outlook, prognosis, guess",
+"du":"expect, foresee, forecast, predict, esteem, guess",
+"es":"expected, foresee, forecasted, predicted, esteemed, guessed"
+#
+"lexeme":"kwasi",
+"noun":"approximation, nearness, resemblance",
+"du":"approximate, resemble",
+"es":"approximated, resembled",
+"bi":"almost, quasi, pseudo, near"
+#
+"lexeme":"uspas",
+"noun":"space, area, room, scope, slot, place",
+"bi":"spaced"
+#
+"lexeme":"side",
+"noun":"side, front, edge, border, sector"
+#
+"lexeme":"mondo",
+"noun":"world, universe"
+#
+"lexeme":"famya",
+"noun":"family, clan, tribe"
+#
+"lexeme":"gespe",
+"noun":"respect, deference, reverence",
+"du":"respect, revere",
+"es":"respected, revered",
+"bi":"respectful"
+#
+"lexeme":"isma",
+"du":"blunt, smooth, chamfer, round",
+"es":"blunted, smoothed, chamfered, rounded",
+"bi":"blunt, smooth, round"
+#
+"lexeme":"seku",
+"noun":"security, comfort, protection",
+"du":"secure, protect",
+"es":"secured, protected"
+#
+"lexeme":"agyl",
+"noun":"agreement, approval, appraisal",
+"du":"agree with, approve, appraise",
+"es":"approved, appraised"
+#
+"lexeme":"kype",
+"noun":"capture, prisoner",
+"du":"capture, emprison, jail",
+"es":"captured, emprisoned, jailed",
+"bi":"captured, emprisoned, jailed, captive"
+#
+"lexeme":"lista",
+"noun":"list, listing, catalog, dictionary, inventory, lineup",
+"du":"list, catalog",
+"es":"listed, catalogued"
+#
+"lexeme":"senpjo",
+"noun":"example, paradigm, pattern, case",
+"du":"exemplify",
+"es":"exemplified"
+#
+"lexeme":"beswyn",
+"noun":"need, requirement",
+"du":"need, require",
+"es":"needed, required"
+#
+"lexeme":"punto",
+"noun":"point, reference",
+"du":"point to, reference"
+#
+"lexeme":"disko",
+"noun":"disk, plate, platter, dish",
+"bi":"disk-shaped, circular"
+#
+"lexeme":"main",
+"bi":"main, principal, chief, central, fundamental"
+#
+"lexeme":"desky",
+"noun":"description, illustration",
+"du":"describe, convey, illustrate",
+"es":"described, conveyed, illustrated"
+#
+"lexeme":"belu",
+"noun":"bell, cymbal"
+#
+"lexeme":"ulagan",
+"noun":"hurricane, tempest, storm"
+#
+"lexeme":"sawon",
+"noun":"soap, detergent"
+#
+"lexeme":"lege",
+"noun":"rule, law, contract, standard, statute, method, policy, custom"
+#
+"lexeme":"fake",
+"noun":"lie, falsity, bullshit",
+"bi":"fake, false"
+#
+"lexeme":"ilwo",
+"noun":"involvement, affection, association, connession",
+"du":"involve, affect, apply, associate with, connect with",
+"es":"involved, affected, applied, associated with, connected with",
+"bi":"relevant, involved, applicable, pertinent, proper"
+#
+"lexeme":"ageil",
+"noun":"clay"
+#
+"lexeme":"koule",
+"noun":"colour, color, shade, tonality",
+"du":"colour",
+"es":"coloured",
+"bi":"colorful"
+#
+"lexeme":"mesaje",
+"noun":"message, communication, letter, report",
+"du":"report to, write to, send a message to"
+#
+"lexeme":"welbo",
+"noun":"word, utterance, expression"
+#
+"lexeme":"leas",
+"noun":"phrase, phrasing, locution, parlance, sentence, utterance"
+#
+"lexeme":"tase",
+"noun":"entrance, access, entry, entryway, passageway, ingress",
+"du":"come in, enter, open, enroll, commence"
+#
+"lexeme":"auty",
+"noun":"dichotomy, aut-aut"
+#
+"lexeme":"ganga",
+"noun":"reasonment, interpretation, ponderation",
+"du":"reason, think about, interpret, ponderate",
+"es":"reasoned, ponderated",
+"bi":"thinking, ponderating, meditative, reasonable"
+#
+"lexeme":"pune.apwa",
+"du":"study",
+"es":"studied"
+#
+"lexeme":"kufa",
+"noun":"cough",
+"bi":"cough, bark"
+#
+"lexeme":"olbo",
+"noun":"blindness",
+"du":"blind",
+"es":"blind",
+"bi":"blind"
+#
+"lexeme":"netau",
+"noun":"sordity",
+"du":"deafen",
+"es":"deafened",
+"bi":"deaf"
+#
+"lexeme":"danpen",
+"du":"dampen, dull, dime, weaken",
+"es":"dampened, dimmed, weakened",
+"bi":"dull, numb, weak"
+#
+"lexeme":"alowi",
+"noun":"allowance, permission, authorization, grant",
+"du":"allow, permit, authorize, grant",
+"es":"allowed, permitted, authorized, granted"
+#
+"lexeme":"bilan",
+"noun":"balance, equilibrium",
+"du":"balance",
+"es":"balanced",
+"bi":"balanced"
+#
+"lexeme":"dwis",
+"noun":"self, individuality, self-awareness"
+#
+"lexeme":"ulxa",
+"bi":"further, beyond"
+#
+"lexeme":"beda",
+"bi":"beautiful, handsome, nice, appealing, atttractive, charming, enticing, cute"
+#
+"lexeme":"bwinjo",
+"noun":"ear"
+#
+"lexeme":"muja",
+"noun":"mind, consciousness, psyche, sense, intelligence"
+#
+"lexeme":"fjutyl",
+"noun":"future"
+#
+"lexeme":"siste",
+"noun":"system"
+#
+"lexeme":"intima",
+"noun":"intimity, personality",
+"bi":"intimate, personal, private, characteristic"
+#
+"lexeme":"elon",
+"noun":"belonging, appartenance",
+"du":"belong to"
+#
+"lexeme":"litymo",
+"noun":"rhythm"
+#
+"lexeme":"kitos",
+"du":"thank"
+#
+"lexeme":"satisfy",
+"du":"satisfy, content, please"
+#
+"lexeme":"lymu",
+"noun":"complaint, criticism, gripe, lament",
+"du":"complain about, criticize, lament, denounce, disagree with",
+"es":"criticized, lamented, denounced",
+"bi":"mournful, querulous, plaintive"
+#
+"lexeme":"nude",
+"bi":"nude, naked"
+#
+"lexeme":"gyliwo",
+"noun":"slope, hillside, slant"
+#
+"lexeme":"byide",
+"noun":"body"
+#
+"lexeme":"gawi",
+"noun":"persuasion",
+"du":"persuade, convince, coax, incline, induce",
+"es":"persuaded, convinced, coaxed, inclined, induced"
+#
+"lexeme":"wogi",
+"noun":"will, intention, mind, resolution, decision, character, attitude",
+"du":"want, decide",
+"es":"wanted, decided"
+#
+"lexeme":"pelma",
+"noun":"permission, consent, approval",
+"du":"permit, let, approve",
+"es":"permitted, approved",
+"bi":"lecit"
+#
+"lexeme":"toa",
+"du":"touch, contact, grasp, handle, push",
+"es":"touched, grasped, handled, pushed"
+#
+"lexeme":"xunpa",
+"noun":"violation, outrage, rape",
+"du":"violate, outrage, rape",
+"es":"violated, outraged, raped"
+#
+"lexeme":"lili",
+"noun":"son"
+#
+"lexeme":"sako",
+"noun":"bag, sachet"
+#
+"lexeme":"mekan",
+"noun":"mechanism, machine"
+#
+"lexeme":"kunpy",
+"bi":"complex, difficult"
+#
+"lexeme":"kimika",
+"noun":"chemistry, alchemy",
+"bi":"chemical"
+#
+"lexeme":"xyde",
+"bi":"hide"
+#
+"lexeme":"asolu",
+"bi":"absolute"
+#
+"lexeme":"axwi",
+"noun":"acceptance",
+"du":"accept",
+"es":"accepted"
+#
+"lexeme":"enfax",
+"noun":"across, among"
+#
+"lexeme":"adex",
+"noun":"address"
+#
+"lexeme":"danno",
+"noun":"damage",
+"du":"damage, harm",
+"es":"damaged, harmed"
+#
+"lexeme":"onge",
+"du":"afford"
+#
+"lexeme":"xanse",
+"noun":"luck"
+#
+"lexeme":"masaxo",
+"noun":"massage"
+#
+"lexeme":"kamelja",
+"noun":"tea"
+#
+"lexeme":"mexo",
+"bi":"slim"
+#
+"lexeme":"tjabi",
+"bi":"fat, chubby"
+#
+"lexeme":"synpa",
+"bi":"pleasant, nice, sympathetic, likeable"
+#
+"lexeme":"foul",
+"bi":"foul, mad, crazy"
+#
+"lexeme":"xende",
+"bi":"trange, unusual"
+#
+"lexeme":"metal",
+"noun":"metal"
+#
+"lexeme":"silin",
+"noun":"cylinder"
+#
+"lexeme":"gona",
+"noun":"polygon"
+#
+"lexeme":"linea",
+"noun":"line, edge, border, contour"
+#
+"lexeme":"meskin",
+"noun":"poor man",
+"bi":"poor, meager, indigent, miserable, modest, weak"
+#
+"lexeme":"peku",
+"noun":"wealth, richness",
+"bi":"wealthy, rich, plentiful"
+#
+"lexeme":"byxta",
+"bi":"ugly, awful, horrid, unpleasant"
+#
+"lexeme":"ma",
+"noun":"something, some, one"
+#
+"lexeme":"basu",
+"bi":"bass, grave, low-pitched"
+#
+"lexeme":"texby",
+"bi":"treble, high-pitched"
+#
+"lexeme":"fonde",
+"du":"melt",
+"es":"melted"
+#
+"lexeme":"lisen",
+"noun":"license"
+#
+"lexeme":"mante.doas",
+"bi":"remain"
+#
+"lexeme":"xjul",
+"noun":"passage, transit",
+"du":"pass through, traverse, transit, cross, intersect",
+"es":"passed through, traversed, transited, crossed, intersected"
+#
+"lexeme":"xyma",
+"noun":"flu, cold, seasonal illness"
+#
+"lexeme":"wixi",
+"noun":"erasion, cancellation, deletion",
+"du":"erase, cancel, delete",
+"es":"erased, cancelled, deleted"
+#
+"lexeme":"dabax",
+"noun":"doubt"
+#
+"lexeme":"walide",
+"noun":"validity",
+"bi":"valid"
+#
+"lexeme":"suux",
+"bi":"sure, certain, true"
+#
+"lexeme":"baan",
+"bi":"white"
+#
+"lexeme":"duuf",
+"bi":"black"
+#
+"lexeme":"gyxis",
+"bi":"gray, grey"
+#
+"lexeme":"goute",
+"noun":"drop, rain",
+"bi":"rain, drip, spill"
+#
+"lexeme":"magen",
+"noun":"magenta"
+#
+"lexeme":"sjano",
+"noun":"cyan"
+#
+"lexeme":"sjano",
+"noun":"cyan"
+#
+"lexeme":"atax",
+"noun":"attack, aggression, harm",
+"du":"attack, harm",
+"es":"attacked, harmed",
+"bi":"attacking, aggressive, harmful"
+#
+"lexeme":"aopi",
+"du":"catch",
+"es":"catched"
+#
+"lexeme":"gutois",
+"du":"climb, mount, escalate"
+#
+"lexeme":"lewa",
+"du":"raise, lift, elevate"
+#
+"lexeme":"ynsja",
+"noun":"worry, anguish, anxiety",
+"du":"worry, unsettle, perturb",
+"es":"worried, unsettle, perturbed",
+"bi":"worried, anxious, anguished"
+#
+"lexeme":"syllwi",
+"noun":"service",
+"du":"serve",
+"es":"served"
+#
+"lexeme":"xein",
+"noun":"rain"
+#
+"lexeme":"nuax",
+"noun":"cloud"
+#
+"lexeme":"folgo",
+"noun":"thunder"
+#
+"lexeme":"ajyl",
+"noun":"away"
+#
+"lexeme":"lili.bubu",
+"noun" : "nephew"
+#
+"lexeme":"lili.bubu",
+"noun" : "nephew"
+#
+"lexeme":"bubu.papa",
+"noun" : "uncle, aunt, sibling of father"
+#
+"lexeme":"bubu.mama",
+"noun" : "uncle, aunt, sibling of mother"
+#
+"lexeme":"wexon",
+"noun" : "forgetfulness, oblivion",
+"du" : "forget",
+"es" : "forgotten"
+#
+"lexeme":"pooni",
+"noun" : "furniture, closet, cupboard, wardrobe",
+#
+"lexeme" : "suumi",
+"du" : "consume, use"
+#
+"lexeme" : "fiine",
+"du" : "finish, end, run out of"
+#
+"lexeme":"yxla",
+"noun": "flirting, avance",
+"du": "flirt with, approach, hit on"
+#
+"lexeme":"pillo",
+"noun": "pillow, cushion, hassock"
+

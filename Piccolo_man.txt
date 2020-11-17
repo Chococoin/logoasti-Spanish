@@ -1,0 +1,58 @@
+
+In generale, se una voce non ha una traduzione ovvia nella lingua di destinazione,
+te ne puoi fottere e ignorare la cosa. 
+
+Qui sotto la traduzione "essere amico di" l'ho lasciata come esempio,
+ma si poteva anche non metterla perchè in fondo in Italiano non c'è una
+parola singola che traduca la voce attiva di "essere amico di"... O perlomeno non mi viene in mente.
+
+"lexeme":"deka",
+"noun":"dieci",
+"bi":"dieci"
+#
+"lexeme":"amon",
+"noun":"amico",
+"du":"essere amico di"
+#
+"lexeme":"awa",
+"noun":"acqua",
+"du":"bagnare, irrigare",
+"es":"bagnato, irrigato",
+"bi":"bagnato"
+#
+"lexeme":"ben",
+"noun":"bene, bontà",
+"du":"dare beneficio",
+"es":"beneficiare, godere",
+"bi":"buono",
+#
+
+
+Di base, come dicevo, la voce "es" e la voce "bi" possono spesso prevedere la stessa traduzione. La differenza semantica sta nella valenza del verbo: la voce "es" prevede un agente, mentre la voce "bi" indica uno stato intransitivo. Eventuali traduzioni duplicate tra "es" e "bi" non sono un problema.
+Come indicazione generale, sotto a "bi" si trovano traduzioni che in Italiano, Inglese, Spagnolo etc verrebbero considerati come aggettivi, mentre sotto "es" ci si aspetta cose come participi passati o robe simili.
+La voce "du" è attiva, per cui si intende una azione che prevede un complemento oggetto.
+
+Un esempio con lela:
+
+"lexeme":"lela",
+"noun":"calma, tranquiliità",
+"du":"calmare, rilassare",
+"es":"calmato, rilassato",
+"bi":"calmo, rilassato",
+"se":"calmarsi, rilassarsi"
+
+=====================================================================================
+
+allora... in logoasti le parole che possono fungere da verbo non sono intrinsecamente
+transitive o intransitive.
+Lo stesso verbo può essere entrambe le cose. 
+Se usi "du" o "es" significa che lo stai usando in senso transitivo 
+(anche se non espliciti un complemento oggetto)
+
+es. pyju = paura
+mi du pyju = io faccio paura (a qualcuno)
+mi es pyju = io sono spaventato (da qualcosa)
+mi bi pyju = io sono spaventato (da nulla in particolare) => io sono pauroso
+in questo caso posso citare il marcatore "fa" che per il momento nel dizionario non c'è:
+mi fa pyju = io faccio paura (a nessuno in particolare) => io sono spaventoso
+du e es sono marcatori transitivi, bi e fa marcano invece voci intransitive

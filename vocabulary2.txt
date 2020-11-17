@@ -1,0 +1,8 @@
+"lexeme":"amon",
+"english":
+"noun":"friend",
+"du":"friend with",
+"spanish":
+"noun":"amigo, amiga, ",
+"du":"amigo de, ser amigo de",
+#

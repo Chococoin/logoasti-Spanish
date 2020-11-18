@@ -28,7 +28,6 @@ def traslate_to_memory(to_traslate):
     for words in to_traslate:
         wrd = words.strip().strip('"')
         wrd = wrd.lstrip(" ")
-        print("Next word: [{}] to translate as [{}]".format(wrd, token))
         if re.search(" ", wrd):
             manual_entry_mode(wrd)
         elif re.search(":", wrd):
@@ -66,6 +65,7 @@ def standard_process(wrd, t_json, t_txt):
                 from_English = json['meta']['lang'] == 'en'
                 match_word = re.search('^{}'.format(wrd), json['meta']['id'])
                 if  match_word and from_English and to_Spanish:
+                    print("Next word: [{}] to translate as [{}]".format(wrd, token))
                     print("Gramatical Token: {} / Functional Label: {}".format(token, json['fl']))
                     print("Proposed traduction: {}".format(json['shortdef']))
                     action = input("[0 + ENTER](add) | [. + ENTER](Manual Mode)| [ENTER](pass)\n->: ")
@@ -88,6 +88,8 @@ def standard_process(wrd, t_json, t_txt):
                         pass
                     if action == "PAUSE":
                         pause()
+                    else:
+                        os.system('clear')
             except TypeError:
                 print("From except Type error")
                 manual_entry_mode(wrd)
@@ -99,7 +101,6 @@ def standard_process(wrd, t_json, t_txt):
             except:
                 print("Fatal Error")
                 pass
-        manual_entry_mode(wrd)
 
 def pause():
     paused_line = open('last_line.txt', 'w')
@@ -155,7 +156,7 @@ while(source_new_line):
             try:
                 logoasti_Spanish.write('"notes:' + notes[1] + ": " + notes[2].strip() +'\n')
             except:
-                logoasti_Spanish.write('"notes:' + notes + '\n')
+                logoasti_Spanish.write('"notes:' + notes[0] + '\n')
             logoasti_Spanish.write('"special:' + source_new_line.split(":")[1].rstrip(',\n') +'\n')
             path = "./z_specials/" + lex.strip('"')
             if os.path.exists(path):

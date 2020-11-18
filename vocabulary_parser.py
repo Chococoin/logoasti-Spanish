@@ -152,7 +152,10 @@ while(source_new_line):
             notes = source_new_line.split(":")
             continue
         if special:
-            logoasti_Spanish.write('"notes:' + notes[1] + ": " + notes[2].strip() +'\n')
+            try:
+                logoasti_Spanish.write('"notes:' + notes[1] + ": " + notes[2].strip() +'\n')
+            except:
+                logoasti_Spanish.write('"notes:' + notes + '\n')
             logoasti_Spanish.write('"special:' + source_new_line.split(":")[1].rstrip(',\n') +'\n')
             path = "./z_specials/" + lex.strip('"')
             if os.path.exists(path):

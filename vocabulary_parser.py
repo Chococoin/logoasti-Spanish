@@ -3,21 +3,6 @@ import shutil
 import os
 import re
 
-token_definitions = { "pronoun":"noun",
-                      "noun":"noun",
-                      "plural noun":"noun",
-                      "masculine noun": "noun",
-                      "femenine noun": "noun",
-                      "geographical name": "noun",
-                      "verb":"bi",
-                      "intransitive verb":"bi",
-                      "auxiliary verb": "bi",
-                      "transitive verb":"du",
-                      "impersonal verb": "du",
-                      "reflessive verb": "se"
-                    }
-
-
 traslated_list = { "noun":"", "du":"", "es":"", "bi":"", "se":"" }
 
 def spanish_traslations(lsta):
@@ -59,9 +44,13 @@ def traslate_to_memory(to_traslate):
 
 def manual_entry_mode(wd):
     global traslated_list
-    traslated_list[token] += input("(*) Manual Entry Mode: [{}] as [{}]\n(*)-> ".format(wd, token))
-    # os.system('clear')
-    print(traslated_list[token])
+    intext = input("(*) Manual Entry Mode: [{}] as [{}]\n(*)-> ".format(wd, token))
+    if intext == "PAUSE":
+        pause()
+    else:
+        traslated_list[token] += intext 
+        os.system('clear')
+        print(traslated_list[token])
 
 
 def standard_process(wrd, t_json, t_txt):
@@ -75,50 +64,48 @@ def standard_process(wrd, t_json, t_txt):
             try:
                 to_Spanish = json['meta']['src'] == 'spanish'
                 from_English = json['meta']['lang'] == 'en'
-                same_definition = token_definitions[json['fl']] == token
                 match_word = re.search('^{}'.format(wrd), json['meta']['id'])
-                if  match_word and same_definition and from_English and to_Spanish:
+                if  match_word and from_English and to_Spanish:
                     print("Gramatical Token: {} / Functional Label: {}".format(token, json['fl']))
                     print("Proposed traduction: {}".format(json['shortdef']))
                     action = input("[0 + ENTER](add) | [. + ENTER](Manual Mode)| [ENTER](pass)\n->: ")
+                    print(action)
                     if action == '0':
                         t_txt.write(json['meta']['id']+ ": as (" + token + ")\n")
                         for definition in json['shortdef']:
                             t_txt.write("\t" + definition + "\n")
                             traslated_list[token] += definition.strip("\n") + ", "
                         os.system('clear')
-                        break
+                        pass
                     if action == ".":
                         manual_entry_mode(wrd)
                         os.system('clear')
-                        break
+                        pass
                     if  len(action) >= 3:
                         traslated_list[token] += action
                         os.system('clear')
                         print(traslated_list[token])
-                        break
+                        pass
                     if action == "PAUSE":
                         pause()
-                # else:
-                #     print("Insert Manually {}".format(token))
-                #     print(traslated_list[token])
-                #     manual_entry_mode(wrd)
             except TypeError:
                 print("From except Type error")
                 manual_entry_mode(wrd)
-                break                        
+                pass                        
             except KeyError:
-                # print("Exception: No 'fl' in json format.")
+                print("Exception: No 'fl' in json format.")
                 manual_entry_mode(wrd)                         
                 pass
             except:
                 print("Fatal Error")
                 pass
+        manual_entry_mode(wrd)
 
 def pause():
     paused_line = open('last_line.txt', 'w')
     paused_line.write(str(count_line_in_source))
     paused_line.close()
+    exit()
 
     
 logasti_English = open("vocabulary.txt", "r")

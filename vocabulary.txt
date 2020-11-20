@@ -357,10 +357,8 @@
 "es":"eaten, swallowed, ingested, devoured",
 "se":"eat oneself"
 #
-#
 "lexeme":"edo-eo",
 "noun":"food"
-#
 #
 "lexeme":"edo-syl",
 "noun":"food"
@@ -716,7 +714,7 @@
 "noun":"people, crowd, nation",
 "du":"reunite, gather, join",
 "es":"reunited, gathered, joined",
-"bi":"people, nation,",
+"bi":"people, nation",
 "se":"reunite, rejoin"
 #
 "lexeme":"poko",

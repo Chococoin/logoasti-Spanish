@@ -3,6 +3,782 @@
 "noun":"friend",
 "du":"friend with",
 "spanish":
-"noun":"amigo, amiga, ",
+"noun":"amigo",
 "du":"amigo de, ser amigo de",
+#
+"lexeme":"mi",
+"english":
+"noun":"me, we",
+"spanish":
+"noun":"me, mí, yo, nosotros, nosotras",
+#
+"lexeme":"ne",
+"english":
+"noun":"you",
+"spanish":
+"noun":"tú; vos —in some Latin American countries; ustedes; vosotros, vosotras, usted, ustedes, te, les (se before lo, la, los, las), os",
+#
+"lexeme":"sa",
+"english":
+"noun":"he, she, it",
+"spanish":
+"noun":"él, ella, eso, ello",
+#
+"lexeme":"ti",
+"english":
+"noun":"this, these",
+"spanish":
+"noun":"este/éste, esta/ésta, esto",
+#
+"lexeme":"ti-asai",
+"english":
+"noun":"here, hiter, hereabouts",
+"spanish":
+"noun":"aquí, por aquí",
+#
+"lexeme":"ti-dje",
+"english":
+"noun":"today",
+"spanish":
+"noun":"hoy, ",
+#
+"lexeme":"ta",
+"english":
+"noun":"those, that",
+"spanish":
+"noun":"aquellos, esos,ese/ése, esa/ésa, eso, aquel/aquél, aquella/aquélla, aquello, also moreover : además, ",
+#
+"lexeme":"ta-asai",
+"english":
+"noun":"there, over there",
+"spanish":
+"noun":"allá, por allá",
+#
+"lexeme":"ja",
+"english":
+"noun":"the, the one",
+"spanish":
+"noun":"el único",
+#
+"lexeme":"bax",
+"english":
+"noun":"no matter what",
+"spanish":
+"noun":"cualquiera, no importa que/cual",
+#
+"lexeme":"ke",
+"english":
+"notes:"Special word: sub-VP opener",
+"special:"s"
+#
+"lexeme":"wa",
+"english":
+"notes:"Special word: sub-VP/sub-NP close",
+"special:"s"
+#
+"lexeme":"kul",
+"english":
+"notes:"Special word: sub-NP opener",
+"special:"s"
+#
+"lexeme":"kwi",
+"english":
+"notes:"Special word: concise sub-VP opener",
+"special:"s"
+#
+"lexeme":"kja",
+"english":
+"noun":"as a matter of",
+"notes:"Preposition: evidentiality marker",
+"special:"p"
+"spanish":
+"noun":"como una cuestión de",
+#
+"lexeme":"lo",
+"english":
+"notes:"Preposition: subject marker",
+"special:"p"
+#
+"lexeme":"la",
+"english":
+"notes:"Preposition: direct object marker",
+"special:"p"
+#
+"lexeme":"as",
+"english":
+"notes:"Preposition: qualificative marker",
+"special:"p"
+#
+"lexeme":"di",
+"english":
+"notes:"Preposition: possessive marker",
+"special:"p"
+#
+"lexeme":"un",
+"english":
+"notes:"Preposition: specification marker",
+"special:"p"
+#"lexeme":"tu",
+"english":
+"noun":"to, towards",
+"notes:"Preposition: dative/allative marker",
+"special:"p"
+"spanish":
+"noun":"hacía",
+#
+"lexeme":"ko",
+"english":
+"noun":"with",
+"notes:"Preposition: comitative marker",
+"special:"p"
+"spanish":
+"noun":"con",
+#
+"lexeme":"xan",
+"english":
+"noun":"with, by",
+"notes:"Preposition: instrumental marker",
+"special:"p"
+"spanish":
+"noun":"con, por",
+#
+"lexeme":"pe",
+"english":
+"noun":"for, in order to",
+"notes:"Preposition: efficient/causal/benefactive marker",
+"special:"p"
+"spanish":
+"noun":"por, para, para que, a fin de",
+#
+"lexeme":"fo",
+"english":
+"noun":"for, because of",
+"notes:"Preposition: causal marker",
+"special:"p"
+"spanish":
+"noun":"por, debido a, por motivo de",
+#
+"lexeme":"ba",
+"english":
+"noun":"about",
+"notes:"Preposition: topic/ablative/oblique marker",
+"special:"p"
+"spanish":
+"noun":"acerca de, sobre (un tema)",
+#
+"lexeme":"in",
+"english":
+"noun":"in, on, at",
+"notes:"Preposition: locative/illative marker",
+"special:"p"
+"spanish":
+"noun":"dentro, en",
+#
+"lexeme":"ge",
+"english":
+"noun":"from, since",
+"notes:"Preposition: ablative marker",
+"special:"p"
+"spanish":
+"noun":"desde (un lugar)/(una fecha)",
+#
+"lexeme":"twe",
+"english":
+"noun":"with respect to, than, rather than",
+"notes:"Preposition: comparative marker",
+"special:"p"
+"spanish":
+"noun":"en comparación a, en vez de",
+#
+"lexeme":"sjy",
+"english":
+"noun":"like, as",
+"notes:"Preposition: semblative/equative marker",
+"special:"p"
+"spanish":
+"noun":"preferencia, gusto, similar a,como, ",
+#
+"lexeme":"du",
+"english":
+"notes:"Verbal introducer: active voice",
+"special:"vi"
+#
+"lexeme":"es",
+"english":
+"notes:"Verbal introducer: passive voice",
+"special:"vi"
+#
+"lexeme":"bi",
+"english":
+"notes:"Verbal introducer: intransitive voice",
+"special:"vi"
+#
+"lexeme":"se",
+"english":
+"notes:"Verbal introducer: reflexive voice",
+"special:"vi"
+#
+"lexeme":"pas",
+"english":
+"notes:"Verbal modifier: past tense marker",
+"special:"vm"
+#
+"lexeme":"wil",
+"english":
+"notes:"Verbal modifier: future tense marker",
+"special:"vm"
+#
+"lexeme":"len",
+"english":
+"notes:"Verbal modifier: imperfective aspect marker",
+"special:"vm"
+#
+"lexeme":"nes",
+"english":
+"noun":"going to, becoming",
+"notes:"Verbal modifier: inchoative marker",
+"special:"vm"
+"spanish":
+"noun":"ir, convertirse, trasformarse",
+#
+"lexeme":"mus",
+"english":
+"noun":"must",
+"notes:"Verbal modifier: modal necessity marker",
+"special:"vm"
+"spanish":
+"noun":"necesidad",
+#
+"lexeme":"kan",
+"english":
+"noun":"can, may",
+"notes:"Verbal modifier: modal possibility marker",
+"special:"vm"
+"spanish":
+"noun":"puede",
+#
+"lexeme":"dal",
+"english":
+"noun":"try to, dare to",
+"notes:"Verbal modifier: modal tentative marker",
+"special:"vm"
+"spanish":
+"noun":"intentarm, atreverse",
+#
+"lexeme":"foi",
+"english":
+"noun":"want to, like to",
+"notes:"Verbal modifier: modal volitive marker",
+"special:"vm"
+"spanish":
+"noun":"decear, gustar",
+#
+"lexeme":"no",
+"english":
+"noun":"not",
+"notes:"Verbal modifier: negative marker",
+"special:"vm"
+"spanish":
+"noun":"no",
+#
+"lexeme":"gon",
+"english":
+"noun":"again",
+"notes:"Verbal modifier: repetitive marker",
+"special:"vm"
+"spanish":
+"noun":"de nuevo, otra vez",
+#
+"lexeme":"pin",
+"english":
+"noun":"start to",
+"notes:"Verbal modifier: inceptive/ingressive aspect marker",
+"special:"vm"
+"spanish":
+"noun":"iniciar, empezar, comenzar",
+#
+"lexeme":"an",
+"english":
+"noun":"stop to",
+"notes:"Verbal modifier: terminative/cessative/pausative aspect marker",
+"special:"vm"
+"spanish":
+"noun":"detener",
+#
+"lexeme":"jo",
+"english":
+"noun":"still",
+"notes:"Verbal modifier: continuative aspect marker",
+"special:"vm"
+"spanish":
+"noun":"todavía, aún",
+#
+"lexeme":"je",
+"english":
+"noun":"already",
+"notes:"Verbal modifier: modal perfective marker",
+"special:"vm"
+"spanish":
+"noun":"ya",
+#
+"lexeme":"je",
+"english":
+"noun":"already",
+"notes:"Verbal modifier: modal perfective marker",
+"special:"vm"
+"spanish":
+"noun":"ya",
+#
+"lexeme":"e",
+"english":
+"notes:"Conjunction: main clause marker",
+"special:"c"
+#
+"lexeme":"sinke",
+"english":
+"noun":"since, because",
+"notes:"notes"
+"special:"c"
+"spanish":
+"noun":"desde que, ya que, puesto que, dado que, porque, por, a causa de, debido a, ",
+#
+"lexeme":"pite",
+"english":
+"noun":"despite, even if, albeit, although",
+"notes:"notes"
+"special:"c"
+"spanish":
+"noun":"a pesar de, aún con, incluso si, aunque,  a pesar de que, ",
+#
+"lexeme":"ulpa",
+"english":
+"notes:"Conjunction: absolute clause marker",
+"special:"c"
+#
+"lexeme":"ulpa",
+"english":
+"notes:"Conjunction: absolute clause marker",
+"special:"c"
+#
+"lexeme":"las",
+"english":
+"noun":"if, when",
+"notes:"notes"
+"special:"c"
+"spanish":
+"noun":"si, aunque, si bien,cuándo, en que",
+#
+"lexeme":"soden",
+"english":
+"noun":"so, then, therefore",
+"notes:"notes"
+"special:"c"
+"spanish":
+"noun":"por lo tanto, así que, de manera que,entonces, por lo tanto, por consiguiente, ",
+#
+"lexeme":"kai",
+"english":
+"noun":"and",
+"notes:"notes"
+"special:"c"
+"spanish":
+"noun":"y, además",
+#
+"lexeme":"deu",
+"english":
+"noun":"but",
+"notes:"notes"
+"special:"c"
+"spanish":
+"noun":"pero, no obstante, sin embargo, exepto, si no fuera por",
+#
+"lexeme":"ol",
+"english":
+"noun":"or",
+"notes:"notes"
+"special:"c"
+#"lexeme":"jaku",
+"english":
+"noun":"haste, speed, velocity",
+"du":"speed up, boost, accelerate, quicken",
+"es":"in a haste",
+"bi":"fast, quick",
+"se":"hurry, hustle, rush",
+"spanish":
+"du":"apurar, apresurar, promover, fomentarestimular, empujar",
+"es":"apresurado, empujado, promovido",
+"bi":"apresurado, estimulado",
+"se":"apresurarse, darse prisa, ajetrearse",
+#
+"lexeme":"al",
+"english":
+"noun":"all",
+"du":"do everything",
+"bi":"everything",
+"spanish":
+"noun":"todo, completamente, en total, completo, total",
+"du":"hacer todo",
+"bi":"absoluto, totalmente",
+#
+"lexeme":"al-asai",
+"english":
+"noun":"everywhere",
+"bi":"everywhere",
+"spanish":
+"noun":"en todas partes, por todas partes, dondequiera, ",
+#
+"lexeme":"alis",
+"english":
+"noun":"other, another",
+"du":"do something else",
+"spanish":
+"noun":"otro, los otros, los demás",
+"du":"hacer otra cosa",
+#
+"lexeme":"alis-asai",
+"english":
+"noun":"somewhere else",
+"bi":"somewhere else",
+"spanish":
+"noun":"en otro lugar",
+"bi":"en otro lugar",
+#
+"lexeme":"amon",
+"english":
+"noun":"friend",
+"du":"friend with",
+"spanish":
+"noun":"amigo, amiga",
+"du":"ser amigo de,
+#
+"lexeme":"awa",
+"english":
+"noun":"water",
+"du":"shower, drip water onto, wet",
+"es":"showered, wet",
+"bi":"watery",
+"spanish":
+"noun":"agua",
+"du":"mojar, regar, humedecer, vertir, gotear",
+"es":"mojado, húmedo, duchado, mojado, bañado",
+"bi":"acuoso, aguado, diluido",
+#
+"lexeme":"awa-syl",
+"english":
+"noun":"fountain",
+"spanish":
+"noun":"fuente, manantial",
+#
+"lexeme":"basta",
+"english":
+"noun":"stop, pause, interruption",
+"du":"stop, arrest, interrupt",
+"es":"stopped, blocked, arrested, interrupted, paused",
+"bi":"stopped, paused",
+"spanish":
+"noun":"parada, tapa, tapón, parada de autobús, área de descanso (en una carretera)pausa, interrupción, ",
+"du":"tapar, impedir, evitar, parar, detenerinterrumpir, ",
+"es":"detenido, blocado, pausadohacer una pausa, pararse (brevemente)",
+"bi":"parado, detenidoparar, detener",
+#
+"lexeme":"bia",
+"english":
+"noun":"way, path, style, street, avenue, road",
+"du":"stylize, conform",
+"es":"stylized, confomed",
+"spanish":
+"noun":"camino, vía, rutacalle, avenida, sendero, carretera",
+"du":"estilizar, adaptar, hacer encajar",
+"es":"estilizado, adaptado",
+#
+"lexeme":"ben",
+"english":
+"noun":"goodness, wellness",
+"du":"do good to, benefit",
+"es":"profit, benefit from",
+"bi":"good, beautiful",
+"se":"self-care, care about oneself",
+"spanish":
+"noun":"bondad, bien, bienestar",
+"du":"hacer el bien a, beneficiar, asistir",
+"es":"beneficio, beneficiarse de/por, utilidad",
+"bi":"bueno, hermoso, bondadoso, benévolo, de buen corazón, bello, bonito, guapo, , lindo",
+"se":"volverse bueno, volverse hermoso",
+#"lexeme":"deka",
+"english":
+"noun":"ten",
+"bi":"ten",
+"spanish":
+"noun":"diez, , decena",
+"bi":"diez",
+#
+"lexeme":"doas",
+"english":
+"noun":"being, presence, stand, existence",
+"bi":"existing, permanent, steady, settled",
+"spanish":
+"noun":"ser, estar, existir, presencia,estar de pie/parado, existir",
+"bi":"existir, permanecer, estar presente, de pie",
+#
+"lexeme":"die",
+"english":
+"noun":"day",
+"spanish":
+"noun":"día",
+#
+"lexeme":"dimen",
+"english":
+"noun":"dimension, size, measure",
+"du":"size",
+"es":"sized",
+"spanish":
+"noun":"dimensión, tamaño, medida, talla (de ropa), número (de zapatos)",
+"du":"evaluar, apreciar, medir",
+"es":"medido, clasificado",
+#
+"lexeme":"pyyn",
+"english":
+"noun":"thought, reflection, judgement",
+"du":"think, consider, judge",
+"spanish":
+"noun":"pensamiento, reflexión, juicio, raciocinio, discernimiento",
+"du":"pensar, juzgar, (recordar), (imaginar), (estimar), (evaluar)",
+#
+"lexeme":"pyyn-tul",
+"english":
+"noun":"idea, creation, formation, production, work",
+"spanish":
+"noun":"idea, creación, producción, trabajo, ",
+#
+"lexeme":"pyyn-asai",
+"english":
+"noun":"studio, atelier",
+"spanish":
+"noun":"estudio, 0",
+#
+"lexeme":"due",
+"english":
+"noun":"two",
+"du":"double, make twice",
+"es":"two, twice, doubled",
+"bi":"two",
+"spanish":
+"noun":"dos, ",
+"du":"doblar, duplicarduplicar, repetir, (verificar dos veces), (hacer doble clic)",
+"es":"ser copiado",
+"bi":"dos, ",
+#
+"lexeme":"ea",
+"english":
+"noun":"wind, air",
+"du":"blow",
+"bi":"windy",
+"spanish":
+"noun":"viento, aire",
+"du":"soplo",
+"bi":"ventoso,
+#
+"lexeme":"edo",
+"english":
+"noun":"nourishment, alimentation, diet",
+"du":"eat, swallow, ingest, devour",
+"es":"eaten, swallowed, ingested, devoured",
+"se":"eat oneself",
+"spanish":
+"noun":"nutrición, alimento, sustento, dieta, régimen alimenticio",
+"du":"comer, consumir, ingerir, deglutir, tragar, ingerir, devorar",
+"es":"comido, tragado, ingerido, devorado, (carcomido)",
+"se":"devorarse, comerse",
+#
+"lexeme":"edo-eo",
+"english":
+"noun":"food",
+"spanish":
+"noun":"comida, alimento, ",
+#
+"lexeme":"edo-syl",
+"english":
+"noun":"food",
+"spanish":
+"noun":"comida, alimento",
+#
+"lexeme":"edo-asai",
+"english":
+"noun":"dining room",
+"spanish":
+"noun":"comedor",
+#
+"lexeme":"ses",
+"english":
+"noun":"six",
+"bi":"six",
+"spanish":
+"noun":"seis, ",
+"bi":"seis, ",
+#
+"lexeme":"enpa",
+"english":
+"noun":"east",
+"spanish":
+"noun":"al este, este, del este, oriental, ",
+#
+"lexeme":"ete",
+"english":
+"noun":"seven",
+"bi":"seven",
+"spanish":
+"noun":"siete, ",
+"bi":"siete, ",
+#
+"lexeme":"este",
+"english":
+"noun":"being",
+"du":"be",
+"spanish":
+"noun":"ser, existencia, ente",
+"du":"serser",
+#
+"lexeme":"matyr",
+"english":
+"noun":"matter, substance, material",
+"spanish":
+"noun":"materia, sustancia, cuestión, situación, cosa, esencia",
+#
+"lexeme":"fex",
+"english":
+"noun":"making, doing",
+"du":"make, do, build, construct, engage in",
+"es":"made, built, constructed",
+"bi":"busy, engaged, occupied",
+"spanish":
+"noun":"elaboración, fabricación",
+"du":"hacer, fabricar, inventar",
+"es":"realizado, hecho, edificado, fabricado, construido",
+"bi":"ocupado, atareado, comprometido, (contratato)",
+#
+"lexeme":"fulawa",
+"english":
+"noun":"flower",
+"du":"make flourish",
+"es":"flourished",
+"bi":"flourish",
+"spanish":
+"noun":"flor",
+"es":"florecer, prosperar",
+"bi":"floritura, floreo, ",
+#
+"lexeme":"galda",
+"english":
+"noun":"sight, perception, view, vision",
+"du":"see, look at, stare, perceive, view",
+"es":"saw, looked at, stared, perceived, viewed",
+"bi":"attentive, aware",
+"se":"look at oneself",
+"spanish":
+"noun":"vista, percepción, visión, mirada",
+"du":"ver, mirar,percibir,observar, ",
+"es":"ser mirado, ser percibido, visto",
+"bi":"atento, despierto, consciente",
+"se":"mirarse"
+#
+"lexeme":"geo",
+"english":
+"noun":"earth, land, terrain",
+"du":"inter, bury, plant",
+"es":"interred, buried, planted",
+"spanish":
+"noun":"tierra, terreno, planicie",
+"du":"enterrar, inhumar, sepultar, plantar, sembrar",
+"es":"0enterrar, plantar, sembrar",
+#
+"lexeme":"gila",
+"english":
+"noun":"mate, partner",
+"du":"mate",
+"es":"mate",
+"bi":"aroused",
+"se":"masturbate",
+"spanish":
+"noun":"compañero, camarada",
+"du":"acompañar",
+"es":"acompañado",
+"bi":"agitado, exitado",
+"se":"masturbarse",
+#
+"lexeme":"jage",
+"english":
+"noun":"hunt, quest, chase, pursuit",
+"du":"hunt, chase, pursuit",
+"es":"hunted, chased",
+"spanish":
+"noun":"caza, busqueda, cacería, búsquedapersecución",
+"du":"cazar, buscar, perseguir",
+"es":"cazado, buscado, perseguido",
+#
+"lexeme":"jule",
+"english":
+"noun":"fabric, garment, dress, suit, robe, tissue, sheet",
+"du":"suit up, dress up",
+"es":"dressed",
+"bi":"dressed",
+"se":"suit up, dress up",
+"spanish":
+"noun":"tela, tejido, prenda, indumentaria, ropa, vestido, sábana",
+"du":"vestir"
+"bi":"vestido",
+"se":"vestirse",
+#
+"lexeme":"kaka",
+"english":
+"noun":"shit, poop, turd, excrement",
+"du":"shit, poo, defecate",
+"spanish":
+"noun":"caca, excremento, pupú",
+"du":"cagar, defecar",
+#
+"lexeme":"kaka-asai",
+"english":
+"noun":"wc, bathroom",
+"spanish":
+"noun":"sala de baño, poceta",
+#
+"lexeme":"kas",
+"english":
+"noun":"four",
+"bi":"four",
+"spanish":
+"noun":"cuatro, ",
+"bi":"cuatro, ",
+#
+"lexeme":"kilo",
+"english":
+"noun":"thousand",
+"spanish":
+"noun":"mil",
+#
+"lexeme":"dome",
+"english":
+"noun":"house, home",
+"du":"settle",
+"es":"settled",
+"bi":"settled, at home",
+"spanish":
+"noun":"casa, hogar, domicilio, sede",
+"du":"asentar",
+"es":"asentado",
+"bi":"asentado",
+#
+"lexeme":"keli",
+"english":
+"noun":"caring",
+"du":"care for, cherish, look after",
+"es":"cared for, looked after",
+"bi":"careful",
+"se":"careful",
+"spanish":
+"noun":"cariño, bondad, aprecio",
+"du":"cuidar, abrigar, atender",
+"es":"cuidado, abrigado, atendido",
+"bi":"cuidado", 
+"se":"cuidado",
 #

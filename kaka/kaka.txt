@@ -1,0 +1,2 @@
+defecate: as (du)
+	defecar

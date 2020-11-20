@@ -1,0 +1,6 @@
+idea: as (noun)
+	idea
+creation: as (noun)
+	creación
+production: as (noun)
+	producción

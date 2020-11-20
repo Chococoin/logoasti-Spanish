@@ -28,8 +28,11 @@ parola singola che traduca la voce attiva di "essere amico di"... O perlomeno no
 #
 
 
-Di base, come dicevo, la voce "es" e la voce "bi" possono spesso prevedere la stessa traduzione. La differenza semantica sta nella valenza del verbo: la voce "es" prevede un agente, mentre la voce "bi" indica uno stato intransitivo. Eventuali traduzioni duplicate tra "es" e "bi" non sono un problema.
-Come indicazione generale, sotto a "bi" si trovano traduzioni che in Italiano, Inglese, Spagnolo etc verrebbero considerati come aggettivi, mentre sotto "es" ci si aspetta cose come participi passati o robe simili.
+Di base, come dicevo, la voce "es" e la voce "bi" possono spesso prevedere la stessa traduzione.
+La differenza semantica sta nella valenza del verbo: la voce "es" prevede un agente, mentre la voce "bi" indica uno stato intransitivo.
+Eventuali traduzioni duplicate tra "es" e "bi" non sono un problema.
+Come indicazione generale, sotto a "bi" si trovano traduzioni che in Italiano, Inglese, Spagnolo etc verrebbero considerati come aggettivi,
+mentre sotto "es" ci si aspetta cose come participi passati o robe simili.
 La voce "du" è attiva, per cui si intende una azione che prevede un complemento oggetto.
 
 Un esempio con lela:

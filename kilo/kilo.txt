@@ -1,0 +1,2 @@
+thousand:1: as (noun)
+	mil

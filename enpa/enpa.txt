@@ -1,0 +1,4 @@
+east:1: as (noun)
+	al este
+east:2: as (noun)
+	este, del este, oriental

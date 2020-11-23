@@ -782,3 +782,75 @@
 "bi":"cuidado", 
 "se":"cuidado",
 #
+"lexeme":"keli-syl-asai",
+"english":
+"noun":"hospital, clinic",
+"spanish":
+"noun":"hospital, clínica, ",
+#
+"lexeme":"kosa",
+"english":
+"noun":"thing, stuff, fact, phenomenon, matter, subject",
+"du":"do",
+"es":"made a thing by",
+"spanish":
+"noun":"cosa, hecho, asunto, cuestión, sustancia, situación, fenómeno, sustancia, sujeto, tema",
+"du":"hacer, realizar, llevar a cabo, dedicarse a, trabajar en, (lío, alboroto), ",
+"es":"hacer algo por",
+#
+"lexeme":"komja",
+"english":
+"noun":"coming, arrival, occurrence, appearance",
+"du":"bring, deliver, conduct, trasmit",
+"es":"sent, delivered, transmitted",
+"bi":"arrive, occur, come, appear",
+"spanish":
+"noun":"siguiente, próximo, que viene, llegada, venida, arribo, acontecimiento, suceso, ocurrencia, aparición, presentación, comparecencia (ante un tribunal)",
+"du":"traer, llevar, entregar, repartir, guiar, conducir, dirigir, transmitir, propagar",
+"es":"entregado, trasmitido, enviado",
+"bi":"entregado (comprometido), (tener exito, triunfar), ocurrido",
+#
+"lexeme":"koelsu",
+"english":
+"noun":"business, commerce, market, shop",
+"du":"do business, sell, buy, haggle, bargain, deal, dicker",
+"lexeme":"koelsu",
+"english":
+"noun":"business, commerce, market, shop",
+"du":"do business, sell, buy, haggle, bargain, deal, dicker",
+"spanish":
+"noun":"negocio, comercio, (empresa, firma), (ocupación, oficio), (deber, responsabilidad), comercio, , tienda, mercado",
+"du":"hacer negocio, vender, compra, hacer negocio, hacer un acuerdo",
+#
+"lexeme":"koelsu-asai",
+"english":
+"noun":"market, marketplace",
+"spanish":
+"noun":"mercado",
+#
+"lexeme":"kute",
+"english":
+"noun":"knife, blade, cutter",
+"du":"cut, chop, slice",
+"es":"cut, chopped, sliced",
+"bi":"sharp, edgy, cutting",
+"se":"cut oneself",
+"spanish":
+"noun":"cuchillo, hojilla, cuchilla",
+"du":"cortar, picar, rebanar",
+"es":"cortado, picado, rebanado",
+"bi":"cortante, (afilado), ",
+"se":"cortarse a sí mismo",
+#
+"lexeme":"akumin",
+"english":
+"noun":"sharpness, edge, blade",
+"du":"acuminate, sharpen, strop",
+"es":"acuminated, sharpened, stropped",
+"bi":"sharp, acuminated",
+"spanish":
+"noun":"afilado, filoso, filo, ",
+"du":"afilar, aguzar",
+"es":"afilado",
+"bi":"afilado, penetrante",
+#

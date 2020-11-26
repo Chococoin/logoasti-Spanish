@@ -854,3 +854,504 @@
 "es":"afilado",
 "bi":"afilado, penetrante",
 #
+"lexeme":"kute-tul",
+"english":
+"noun":"slice, piece, steak, fillet",
+"spanish":
+"noun":"cortar, rebanada, tajada, lonjabistec, filete",
+#
+"lexeme":"kwanta",
+"english":
+"noun":"quantity, amount, quota, portion",
+"du":"quantify, measure, count",
+"es":"measured, quantified, counted",
+"spanish":
+"noun":"cantidad, equivaler a, significar, ascender (a), , monto, cuota, ",
+"du":"contar, (medir)",
+"es":"contado, (medido)",
+#
+"lexeme":"kwanta-ika",
+"english":
+"noun":"cardinality, size",
+"spanish":
+"noun":"cardinalidad, tamaño",
+#
+"lexeme":"lela",
+"english":
+"noun":"calm, tranquillity",
+"du":"release, relax",
+"es":"released, relaxed",
+"bi":"in peace, rest",
+"se":"relax, calm down, rest",
+"spanish":
+"noun":"calma, tranquilidad, sereno, sosiego",
+"du":"calmar, tranquilizar, sosegar",
+"es":"calmado, tranquilizado, sosegado, relajado",
+"bi":"calmado, relajado, sosegado, sereno",
+"se":"relajarse, relajarse, sosegarse, tranquilizarse",
+#
+"lexeme":"liwi",
+"english":
+"noun":"life, being",
+"du":"animate, bring life",
+"es":"animated, brought life",
+"bi":"alive, live",
+"se":"live one's life",
+"spanish":
+"noun":"vida, existir",
+"du":"animar",
+"es":"animado, avivado",
+"bi":"vivo",
+#
+"lexeme":"logo",
+"english":
+"noun":"talk, speech, language",
+"du":"say, speak, utter",
+"es":"said, spoke",
+"bi":"talkative, loquacious, eloquent",
+"spanish":
+"noun":"hablar, charlar, platicar, conversar, (discurso), lenguajediscurso",
+"du":"decir, hablar, gritar",
+"es":"decir, hablar",
+"bi":"locuaz, parlanchín, charlatán",
+#
+"lexeme":"logo-asai",
+"english":
+"noun":"auditorium",
+"spanish":
+"noun":"auditorio, sala, ",
+#
+"lexeme":"lube",
+"english":
+"noun":"love, affection, appreciation, fondness",
+"du":"love, appreciate",
+"es":"loved, appreciated",
+"spanish":
+"noun":"amor, afecto, cariño, apreciación, valoración, estimación",
+"du":"querer, amar, apreciar",
+"es":"amado, apreciado, querido",
+#
+"lexeme":"luke",
+"english":
+"noun":"light (visible radiation), brightness, luminescence",
+"du":"illuminate, light up",
+"es":"illuminated, lit up",
+"bi":"lit up",
+"spanish":
+"noun":"luz, luminosidad, brillantez, resplandor, brillo",
+"du":"iluminar, encencer, alumbrar",
+"es":"iluminado, encendido",
+"bi":"iluminado, encendido",
+#
+"lexeme":"luke-eima",
+"english":
+"noun":"torch, lamp, light bulb",
+"spanish":
+"noun":"antorcha, lámpara, bombilla",
+#
+"lexeme":"ludo",
+"english":
+"noun":"game, sport, videogame, match",
+"du":"play",
+"es":"played",
+"bi":"playful",
+"se":"play with oneself",
+"spanish":
+"noun":"juego, deporte, videojuego, partido",
+"du":"jugar",
+"es":"jugado",
+"bi":"juguetón",
+"se":"jugar consigo mismo",
+#
+"lexeme":"ludo-asai",
+"english":
+"noun":"stadium, gameplace",
+"spanish":
+"noun":"estadio",
+#
+"lexeme":"madol",
+"english":
+"noun":"chance, opportunity",
+"du":"make possible",
+"es":"made possible",
+"bi":"possible",
+"spanish":
+"noun":"casualidad, oportunidad, posibilidad",
+"du":"realizar",
+"es":"realizado",
+"bi":"posible",
+#
+"lexeme":"mal",
+"english":
+"noun":"evil, badness",
+"bi":"evil, misbehave, go astray, bad, malign, awful",
+"se":"hurt oneself",
+"spanish":
+"noun":"malvado, maligno, maléfico",
+"bi":"malo, maleducado, maligno",
+"se":"herirse"
+#
+"lexeme":"uman",
+"english":
+"noun":"human, man, woman",
+"spanish":
+"noun":"humano, hombre, mujer",
+#
+"lexeme":"uman-asai",
+"english":
+"noun":"settlement, village",
+"spanish":
+"noun":"asentamient, pueblo, aldea",
+#
+"lexeme":"mama",
+"english":
+"noun":"mother",
+"spanish":
+"noun":"madre, ",
+#
+"lexeme":"papa",
+"english":
+"noun":"father",
+"spanish":
+"noun":"padre",
+#
+"lexeme":"mapa",
+"english":
+"noun":"mother, father, parent",
+"spanish":
+"noun":"genitor",
+#
+"lexeme":"mapa.mapa",
+"english":
+"noun":"grandmother, grandfather, granny, granpa",
+"spanish":
+"noun":"abuelo, abuela",
+#
+"lexeme":"bubu",
+"english":
+"noun":"brother, sister",
+"spanish":
+"noun":"hermano, hermana",
+#
+"lexeme":"bubu.gila",
+"english":
+"noun":"brother in law, sister in law",
+"spanish":
+"noun":"hermanastro",
+#
+"lexeme":"multi",
+"english":
+"noun":"many, lots",
+"spanish":
+"noun":"varios, muchos",
+#
+"lexeme":"nali",
+"english":
+"noun":"sleep, snooze",
+"du":"deaden, send to sleep",
+"es":"deaden, sent to sleep",
+"bi":"sleep, doze, snooze",
+"se":"sleep, doze, snooze",
+"spanish":
+"noun":"dormir, adormecer, dormitar, siesta",
+"du":"dormir",
+"es":"adormentardo",
+"bi":"dormido",
+"se":"dormirse",
+#
+"lexeme":"name",
+"english":
+"noun":"name, word, label, sign, signature, term",
+"du":"name, call, label, sign, mention",
+"es":"named, called, named, labelled, signed, mentioned",
+"spanish":
+"noun":"nombre, palabra, etiqueta, signo, termino, descripción",
+"du":"nombrar, etiquetar, describir",
+"es":"nombrado, etiquetado, descrito"
+#
+"lexeme":"atjo",
+"english":
+"noun":"action",
+"du":"activate, turn on",
+"es":"activated, turned on",
+"bi":"active",
+"se":"wake up, recover, pull oneself back together",
+"spanish":
+"noun":"acción, acto, hecho",
+"du":"activar, encender",
+"es":"activado, encendido",
+"bi":"activo",
+"se":"activarse, recuperarse",
+#
+"lexeme":"nukel",
+"english":
+"noun":"center, nucleus, kernel, middle, heart",
+"du":"pull at center, put in the middle, insert, implant, inject",
+"es":"put at center, put in the middle, inserted, implanted, injected",
+"bi":"inside, in the middle",
+"se":"shut oneself away",
+"spanish":
+"noun":"centro, núcleo, meollo, medio, corazón",
+"du":"interpolar, intercalar, insertar, implantar, inyectar, ",
+"es":"insertado, introducido, puesto, metido, intercalado",
+"bi":"insertado, introducido, puesto, metido, intercalado",
+"se":"encerrarse"
+#
+"lexeme":"nolta",
+"english":
+"noun":"north",
+"spanish":
+"noun":"norte, del norte, norte, el Norte, ",
+#
+"lexeme":"nimal",
+"english":
+"noun":"animal, beast, creature",
+"du":"animate",
+"es":"animated",
+"bi":"an animal",
+"se":"animate oneself",
+"spanish":
+"noun":"animal, bestia, creatura",
+"du":"animar",
+"es":"animado, vivaz",
+"bi":"animado" 
+"se":"animarse",
+#
+"lexeme":"nin",
+"english":
+"noun":"nine",
+"bi":"nine",
+"spanish":
+"noun":"nueve",
+"bi":"nueve",
+#
+"lexeme":"nul",
+"english":
+"noun":"nothing, no, zero, null, absence",
+"du":"cancel, nullify, revoke",
+"es":"cancelled, nullified, revoked",
+"bi":"nothing, absent",
+"se":"nullify oneself",
+"spanish":
+"noun":"nada, no, ninguno, , no, cero, nulo, ausencia, carencia, falta",
+"du":"cancelar, anular, , invalidar, revocar, ",
+"es":"cancelado, invalidado, revocado",
+"bi":"cancelado, invalidado, revocado, anulado",
+"se":"anularse, ausentarse",
+#
+"lexeme":"nul-asai",
+"english":
+"noun":"nowhere",
+"spanish":
+"noun":"en ninguna parte, a ningún lado, ni con mucho, nada cerca, ninguna parte, de la nada, ",
+#
+"lexeme":"nul-geon",
+"english":
+"noun":"never",
+"spanish":
+"noun":"nunca, jamás, nunca más, nunca jamás",
+#
+"lexeme":"ofel",
+"english":
+"noun":"summit, peak, top",
+"du":"over, stand above, dominate",
+"es":"dominated",
+"bi":"summit, top, peak",
+"spanish":
+"noun":"cumbre, cimamáximo, , puntaparte superior",
+"du":"por encima, estar sobre, dominar",
+"es":"dominado, superado",
+"bi":"dominado, superado, cubierto, alcanzar su nivel máximo",
+#
+"lexeme":"olda",
+"english":
+"noun":"order, arrangement, alignment, classification, sequence",
+"du":"order, sort, arrange, align, classify",
+"es":"ordered, sorted, aligned, arranged, classified",
+"bi":"ordered, sorted",
+"se":"sort oneself up, fix oneself up",
+"spanish":
+"noun":"orden, arreglo, , sequenciaclasificación",
+"du":"organizar, arreglar, clasificar, poner en orden, alinear, clasificar, catalogar",
+"es":"organizado, arreglado, clasificado, ordenado, alineado, catalogado",
+"bi":"organizado, arreglado, clasificado, ordenado, alineado, catalogado",
+"se":"ordenarse, arreglarse",
+#
+"lexeme":"posa",
+"english":
+"noun":"position, place, collocation",
+"du":"position, place",
+"es":"positioned, placed",
+"bi":"in place",
+"se":"go in place",
+"spanish":
+"noun":"posición, lugar, colocación, hubicación",
+"du":"colocar, situar, ubicar, poner",
+"es":"colocado, situado, ubicado",
+"bi":"colocado, situado, ubicado",
+"se":"desplazarse",
+#
+"lexeme":"nei",
+"english":
+"noun":"status, condition, position, situation",
+"du":"put in condition",
+"es":"put in condition",
+"spanish":
+"noun":"condición, situación, estatus, posición",
+"du":"poner en condición, acondicionar",
+"es":"ponerse en condición",
+#
+"lexeme":"osta",
+"english":
+"noun":"west",
+"spanish":
+"noun":"al oeste, oeste, del oeste, occidental, oeste, el Oeste, el Occidente",
+#
+"lexeme":"oto",
+"english":
+"noun":"eight",
+"bi":"eight",
+"spanish":
+"noun":"ocho",
+"bi":"ocho",
+#
+"lexeme":"palla",
+"english":
+"noun":"ball, sphere, orb, globe, globule",
+"spanish":
+"noun":"pelota, bola, balón, bollo, esfera",
+#
+"lexeme":"palte",
+"english":
+"noun":"part, component, fragment",
+"du":"subdivide, partition chunk",
+"es":"subdivide, partitioned, chunked",
+"se":"fall apart, come apart, break up",
+"spanish":
+"noun":"parte, sección, fragmento, componente",
+"du":"seccionar, seccionar, diseccionar",
+"es":"dividir, subdividir",
+"se":"desmoronarse, romperse, digregarse, disolverse",
+#
+"lexeme":"dina",
+"english":
+"noun":"force, strength",
+"du":"strengthen, reinforce, brace, invigorate",
+"es":"strengthened, reinforced, braced, invigorated",
+"bi":"strong, forceful",
+"se":"get strong, get forceful",
+"spanish":
+"noun":"fuerza, vigor, poder",
+"du":"fortalecer, reforzar, intensificar, vigorizar",
+"es":"fortalecido, reforzado, animado, vigorizado",
+"bi":"fuerte, enérgico",
+"se":"fortalecerse, energizarse",
+#
+"lexeme":"elgo",
+"english":
+"noun":"energy, intensity",
+"du":"energize, recharge",
+"es":"energized, recharge",
+"bi":"energized",
+"se":"energize oneself, recharge oneself",
+"spanish":
+"noun":"energía, intensidad",
+"du":"energizar, recargar",
+"es":"energizado, recargado",
+"bi":"energizado",
+"se":"energizarse, recargarse",
+#
+"lexeme":"pawa",
+"english":
+"noun":"power",
+"du":"power up, make powered",
+"es":"powered up, powered",
+"bi":"powerful, strong",
+"se":"make oneself powerful",
+"spanish":
+"noun":"poder",
+"du":"potenciar, hacer poderoso",
+"es":"potenciado, poderoso",
+"bi":"poderoso, potente, fuerte",
+#
+"lexeme":"pen",
+"english":
+"noun":"five",
+"bi":"five",
+"spanish":
+"noun":"cinco, ",
+"bi":"cinco, ",
+#
+"lexeme":"jente",
+"english":
+"noun":"people, crowd, nation",
+"du":"reunite, gather, join",
+"es":"reunited, gathered, joined",
+"bi":"people, nation",
+"se":"reunite, rejoin",
+"spanish":
+"noun":"gente, personas, pueblo, ",
+"du":"reunir, juntar, reunir, unir",
+"es":"reunido, juntado, unido",
+"bi":"pueblo, personas, nación, pueblopueblo, nación",
+"se":"reunirse, unirse, integrarse",
+#
+"lexeme":"poko",
+"english":
+"noun":"scarcity, minority, shortness",
+"du":"make scarce, make few",
+"es":"made scarce, made few",
+"bi":"a little bit, few",
+"spanish":
+"noun":"escasez, minoría, brevedad",
+"du":"hacer escaso, disminuir",
+"es":"disminuido, menguado, encogido",
+"bi":"poco",
+#
+"lexeme":"puso",
+"english":
+"noun":"grace, thank, welcome, pleasure",
+"du":"thank, welcome, make grateful",
+"es":"made grateful",
+"bi":"grateful, complacent",
+"se":"grateful, complacent",
+"spanish":
+"noun":"gracia, complacencia",
+"du":"agradecer, darle (las) gracias (a alguien), darle la bienvenida a, recibir, ",
+"bi":"agradecido",
+"se":"grato, (contento), complacido",
+#
+"lexeme":"sama",
+"english":
+"noun":"sameness, alikeness",
+"du":"same, like",
+"es":"same, like",
+"bi":"constant, changeless, perpetual",
+"spanish":
+"noun":"semejanza, parecido, semejante",
+"du":"parecer, semejar",
+"es":"perecido, igualdad, similar",
+"bi":"constante, invariable, continuo, (fiel), eterno, perpetuo",
+#
+"lexeme":"sjati",
+"english":
+"noun":"place, spot, site, location",
+"du":"put, place",
+"es":"put, placed",
+"bi":"stand, in place",
+"spanish":
+"noun":"sitio, ubicación, lugar",
+"du":"poner, colocar, situar, ubicar, emplazar",
+"es":"colocado, hubicado",
+"bi":"colocado",
+#
+"lexeme":"seil",
+"english":
+"noun":"sky, firmament, empyrean",
+"bi":"be celestial, be astral, be cosmic",
+"se":"take flight",
+"spanish":
+"noun":"cielo, firmamento, empíreo",
+"bi":"ser celestial, ser astral, ser cósmico, (ser extraterrestre, alienigena)",
+"se":"elevarse",
+#

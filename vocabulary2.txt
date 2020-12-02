@@ -1353,5 +1353,174 @@
 "spanish":
 "noun":"cielo, firmamento, empíreo",
 "bi":"ser celestial, ser astral, ser cósmico, (ser extraterrestre, alienigena)",
-"se":"elevarse",
+"se":"escaparse, (elevarse)",
+#
+"lexeme":"some",
+"english":
+"noun":"bit, drop, dash, pinch",
+"du":"make some",
+"bi":"some",
+"spanish":
+"noun":"pedazo, trozo, gota, pizca",
+"du":"realizar un poco/(parcialmente),"
+"bi":"un poco, algo de",
+#
+"lexeme":"sono",
+"english":
+"noun":"sound, noise, tone, voice",
+"du":"play, produce, articulate",
+"es":"played, produced, articulated",
+"bi":"noisy",
+"spanish":
+"noun":"sonido, ruido, tono, voz",
+"du":"tocar un instrumento músical, producir (un sonido), articular (palabras)",
+"es":"tocado, producido, articulado",
+"bi":"ruidoso",
+#
+"lexeme":"susu",
+"english":
+"noun":"behaviour, interaction",
+"du":"interact with",
+"es":"interacted with",
+"bi":"behave",
+"spanish":
+"noun":"comportamiento, conducta, interacción, interrelación, ",
+"du":"interactuar",
+"es":"interactuado",
+"bi":"comportarse, portarse",
+#
+"lexeme":"suta",
+"english":
+"noun":"south",
+"spanish":
+"noun":"sur, del sur, ",
+#
+"lexeme":"taula",
+"english":
+"noun":"table, surface, bed",
+"du":"put on a surface, put on a table, put at bed",
+"es":"put on a surface",
+"se":"lay down, put oneself on a surface",
+"spanish":
+"noun":"mesa, superficie, cama, lecho, ",
+"du":"colocar sobre una superfcie",
+"es":"puesto sobre",
+"se":"apoyar",
+#
+"lexeme":"tala",
+"english":
+"noun":"travel, movement, journey, trajectory",
+"du":"transport, move, transfer, carry",
+"es":"moved, transferred, carried",
+"bi":"travel, move, go",
+"se":"travel, move, go",
+"spanish":
+"noun":"viajar, viaje, movimiento, viaje, trayectoria, ",
+"du":"transportar, acarrear, trasportar, mover, trasferir, mudar, ",
+"es":"movido, trasferido, llevado",
+"bi":"movido, transportado, ",
+"se":"desplazarse, moverse, transferirse, ",
+#
+"lexeme":"tel",
+"english":
+"noun":"three",
+"du":"triple",
+"es":"tripled",
+"bi":"three, triple",
+"spanish":
+"noun":"tres, ",
+"du":"triplicar, triplicar, ",
+"es":"triplicado",
+"bi":"tres, triple",
+#
+"lexeme":"tesi",
+"english":
+"noun":"tension, turbament, agitation, anxiety",
+"du":"perturb, upset, fluster",
+"es":"perturbed, upset",
+"bi":"upset",
+"se":"perturb oneself",
+"spanish":
+"noun":"tensión, agitación, inquietud, inquietud, perturbaciónansiedad, angustia, ",
+"du":"perturbar, inquietar, poner nervioso, aturdir, ",
+"es":"perturbado, inquieto, estresado, disgustado, ",
+"bi":"perturbado, inquieto, estresado, disgustado, ",
+"se":"perturbarse, preocuparse",
+#
+"lexeme":"ulla",
+"english":
+"noun":"hundred",
+"bi":"one hundred",
+"spanish":
+"noun":"cien, ciento",
+"bi":"cien",
+#
+"lexeme":"tenpo",
+"english":
+"noun":"time, moment, occasion",
+"bi":"time",
+"spanish":
+"noun":"tiempo, momento, vez, ocasión, (plazo), ",
+"bi":"tiempo, ",
+#
+"lexeme":"syson",
+"english":
+"noun":"season, period, age, era",
+"spanish":
+"noun":"estación (del año), temporada, periodo, era, siglo, época, ",
+#
+"lexeme":"ulko",
+"english":
+"noun":"clamor, yelling, noise",
+"du":"shout, yell",
+"es":"shouted, yelled",
+"bi":"make noise",
+"spanish":
+"noun":"grito, clamor, chillidoruido, ",
+"du":"gritar, vocear, chillar, ",
+"es":"gritado, (regañado)",
+"bi":"ruidoso",
+#
+"lexeme":"una",
+"english":
+"noun":"one",
+"bi":"one, unique",
+"spanish":
+"noun":"un, uno, una, ",
+"bi":"uno, ",
+#
+"lexeme":"unda",
+"english":
+"noun":"nether, bottom",
+"du":"lower, drop, put underneath",
+"es":"lowered, dropped",
+"bi":"under, beneath, below",
+"se":"descend, get off, go down, fall",
+"spanish":
+"noun":"más bajo, inferior, de abajo, , fondo, ",
+"du":"bajar, reducir, dejar caer, soltar, poner debajo",
+"bi":"estar abajo, debajo de, abajo de, debajo, bajo, abajo, por debajo de, ",
+"se":"descender, bajarse, caerse, ",
+#
+"lexeme":"use",
+"english":
+"noun":"use, application, usage",
+"du":"use",
+"es":"used",
+"bi":"useful, convenient, fruitful, good, handy, profitable",
+"spanish":
+"noun":"usar, utilizar, emplear, uso, empleo, utilización",
+"du":"usar, utilizar, emplear",
+"es":"usado, (de segunda mano)",
+"bi":"útil, práctico, rentable, lucrativo",
+#
+"lexeme":"we",
+"english":
+"noun":"hello, greeting, salutation",
+"du":"salute, greet",
+"es":"greeted, saluted",
+"spanish":
+"noun":"saludo, salutación",
+"du":"saludar, hacer un saludo",
+"es":"saludar",
 #

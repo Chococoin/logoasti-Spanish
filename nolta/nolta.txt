@@ -1,0 +1,5 @@
+north:2: as (noun)
+	norte, del norte
+north:3: as (noun)
+	norte
+	el Norte

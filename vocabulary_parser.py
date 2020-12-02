@@ -75,7 +75,7 @@ def standard_process(wrd, t_json, t_txt, to_trasl):
                         os.system('clear')
                         pass
                     if  len(action) >= 3 and action != "PAUSE":
-                        traslated_list[token] += action
+                        traslated_list[token] += action + ", "
                         os.system('clear')
                         print(traslated_list[token])
                         pass
@@ -108,7 +108,7 @@ def standard_process(wrd, t_json, t_txt, to_trasl):
         print("Next word: [{}] to translate as [{}]".format(wrd, token))
         print("Gramatical Token: {} / Functional Label: {}".format(token, json['fl']))
         print("Proposed traduction: {}".format(json['shortdef']))
-        manual_entry_mode(wrd)
+        # manual_entry_mode(wrd)
 
 def pause():
     paused_line = open('last_line.txt', 'w')

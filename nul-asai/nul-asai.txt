@@ -1,0 +1,6 @@
+nowhere:1: as (noun)
+	en ninguna parte, a ningún lado
+	ni con mucho, nada cerca
+nowhere:2: as (noun)
+	ninguna parte
+	de la nada

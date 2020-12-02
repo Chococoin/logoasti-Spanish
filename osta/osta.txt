@@ -1,0 +1,7 @@
+west:1: as (noun)
+	al oeste
+west:2: as (noun)
+	oeste, del oeste, occidental
+west:3: as (noun)
+	oeste
+	el Oeste, el Occidente

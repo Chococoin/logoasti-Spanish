@@ -1,0 +1,2 @@
+auditorium: as (noun)
+	auditorio, sala

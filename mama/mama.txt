@@ -1,0 +1,2 @@
+mother:2: as (noun)
+	madre

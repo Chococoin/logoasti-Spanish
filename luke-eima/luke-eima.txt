@@ -1,0 +1,4 @@
+torch: as (noun)
+	antorcha
+lamp: as (noun)
+	lámpara

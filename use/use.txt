@@ -1,0 +1,2 @@
+profitable: as (bi)
+	rentable, lucrativo

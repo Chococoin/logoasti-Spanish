@@ -1,0 +1,4 @@
+blush:1: as (se)
+	ruborizarse, sonrojarse, hacerse colorado
+blush:2: as (se)
+	rubor, sonrojo

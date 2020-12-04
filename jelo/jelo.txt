@@ -1,0 +1,2 @@
+yellow:3: as (bi)
+	amarillo

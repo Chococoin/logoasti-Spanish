@@ -1,0 +1,2 @@
+tomorrow:1: as (noun)
+	mañana

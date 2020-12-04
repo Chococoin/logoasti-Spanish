@@ -4,6 +4,7 @@ import os
 import re
 
 traslated_list = { "noun":"", "du":"", "es":"", "bi":"", "se":"" }
+no_pause = True
 
 def spanish_traslations(lsta):
     global traslated_list
@@ -111,9 +112,11 @@ def standard_process(wrd, t_json, t_txt, to_trasl):
         # manual_entry_mode(wrd)
 
 def pause():
+    global no_pause
     paused_line = open('last_line.txt', 'w')
     paused_line.write(str(last_lex_line))
     paused_line.close()
+    no_pause = False
     exit()
 
     
@@ -133,7 +136,7 @@ count_line_in_source = 0
 notes = False
 last_lex_line = 0
 
-while(source_incoming_new_line):
+while(source_incoming_new_line and no_pause):
     count_line_in_source += 1
     source_incoming_new_line = logasti_English.readline()
     if count_line_in_source >= last_line:
@@ -229,7 +232,6 @@ while(source_incoming_new_line):
                 spanish_traslations(traslated_list)
                 traslated_list = { "noun":"", "du":"", "es":"", "bi":"", "se":"" }
                 continue
-
         else:
             pass
 

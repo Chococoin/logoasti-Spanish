@@ -1524,3 +1524,216 @@
 "du":"saludar, hacer un saludo",
 "es":"saludar",
 #
+"lexeme":"abe",
+"english":
+"noun":"possession, ownership",
+"du":"have, own, carry",
+"es":"owned, carried",
+"spanish":
+"noun":"posesión, propiedad, ",
+"du":"tener, poseer, ser dueño de,, ",
+"es":"poseer, tener, ser dueño de",
+#
+"lexeme":"taime",
+"english":
+"noun":"tree",
+"spanish":
+"noun":"árbol, ",
+#
+"lexeme":"taime-upo",
+"english":
+"noun":"grove, wood",
+"spanish":
+"noun":"huerto, arboleda, bosquecillo, bosque, ",
+#
+"lexeme":"taime-asai",
+"english":
+"noun":"forest",
+"spanish":
+"noun":"bosque (en zonas templadas), selva (en zonas tropicales), ",
+#
+"lexeme":"beike",
+"english":
+"noun":"fruit, drupe, pome",
+"spanish":
+"noun":"fruta, fruto, drupa",
+#
+"lexeme":"patos",
+"english":
+"noun":"sorrow, pain",
+"du":"hurt, ache",
+"es":"feel pain in, feel bad for",
+"spanish":
+"noun":"pesar, dolor, pena, ",
+"du":"herir, lastimar, hacer daño a, hacer sufrir, ",
+"es":"adolorido, lastimado, herido, sentirse mal por algo/alguien",
+#
+"lexeme":"welte",
+"english":
+"noun":"green",
+"bi":"green",
+"spanish":
+"noun":"verde, ",
+#
+"lexeme":"bulu",
+"english":
+"noun":"blue",
+"bi":"blue",
+"spanish":
+"noun":"azul, ",
+#
+"lexeme":"jelo",
+"english":
+"noun":"yellow",
+"bi":"yellow",
+"spanish":
+"noun":"amarillo, ",
+"bi":"amarillo, ",
+#
+"lexeme":"xuse",
+"english":
+"noun":"red",
+"bi":"red",
+"se":"blush",
+"spanish":
+"noun":"red, ",
+"bi":"rojo, colorado",
+"se":"ruborizarse, sonrojarse, hacerse colorado",
+#
+"lexeme":"soil",
+"english":
+"noun":"soil, floor, ground",
+"du":"sustain keep up",
+"es":"sustained, kept up",
+"spanish":
+"noun":"suelo, piso, ",
+"es":"sostenido, mantenido",
+#
+"lexeme":"lufi",
+"english":
+"noun":"ceiling, roof",
+"du":"cover",
+"es":"covered",
+"spanish":
+"noun":"techo, cielo raso, tejado, techado, ",
+"du":"cubrir, tapar, ",
+"es":"cubierto, tapado",
+#
+"lexeme":"seina",
+"english":
+"noun":"wall",
+"du":"wall",
+"spanish":
+"noun":"pared, muro, barda, parapeto",
+"du":"amurallar, ",
+#
+"lexeme":"wanda",
+"english":
+"noun":"sink, pitcher, ewer",
+"spanish":
+"noun":"jarra, aguamanil",
+#
+"lexeme":"beilo",
+"english":
+"noun":"bowl, cup, pot, drinking glass",
+"spanish":
+"noun":"tazón, cuenco, bol, taza, olla, vaso",
+#
+"lexeme":"pjano",
+"english":
+"noun":"flat, plane",
+"du":"flatten, even out, spread out",
+"es":"flattened, evened out, spread out",
+"spanish":
+"noun":"plano, llano, ",
+"du":"aplanar, achatar, ",
+"es":"chato, aplanado",
+#
+"lexeme":"ante",
+"english":
+"noun":"lead, antecedent",
+"du":"precede, anticipate, forego",
+"es":"preceded, anticipated",
+"spanish":
+"noun":"antecedente, precedente, precursor, ",
+"du":"preceder a, anticipar, prever, ",
+"es":"precedido por, anticipado de",
+#
+"lexeme":"ante-ika",
+"english":
+"noun":"antecedence, anticipation, foregoing",
+"du":"innovate, lead",
+"es":"innovated, lead",
+"bi":"avant-garde",
+"spanish":
+"noun":"antecedencia, anticipación, adelanto",
+"du":"innovar, conducir, ",
+"es":"innovadoconducido, ",
+"bi":"vanguardista, ",
+#
+"lexeme":"ante-dje",
+"english":
+"noun":"yesterday",
+"spanish":
+"noun":"ayer, ",
+#
+"lexeme":"segwo",
+"english":
+"noun":"following",
+"du":"follow, ensue",
+"es":"followed, ensued",
+"spanish":
+"noun":"siguiente, después de, ",
+"du":"seguir (un camino, a una persona, etc.), seguir, ",
+"es":"seguido",
+#
+"lexeme":"segwo-ika",
+"english":
+"noun":"reaction, consequence, result",
+"du":"react to, follow",
+"es":"followed",
+"bi":"derivative",
+"spanish":
+"noun":"reacción, consecuencia, secuela, resultado, ",
+"du":"reaccionarseguir (un camino, a una persona, etc.), ",
+"es":"seguido",
+"bi":"derivado, ",
+#
+"lexeme":"segwo-dje",
+"english":
+"noun":"tomorrow",
+"spanish":
+"noun":"mañana, ",
+#
+"lexeme":"folka",
+"english":
+"noun":"fork",
+"du":"fork, pitchfork",
+"es":"forked, pitchforked",
+"spanish":
+"noun":"bifurcación, ramificación, ",
+"du":"ramificar, bifurcar, ",
+"es":"bífido, ahorquillado, ramificado",
+#
+"lexeme":"tage",
+"english":
+"noun":"take, picking",
+"du":"grab, pick",
+"es":"grabbed, picked",
+"spanish":
+"noun":"tomar, recoger",
+"du":"agarrar, , recoger, tomar, ",
+"es":"agarrado, tomado",
+#
+"lexeme":"giwe",
+"english":
+"noun":"giving, dealing, donation, endowement, offer",
+"du":"give, deal, donate, offer",
+"es":"given, dealt, donated, offered",
+"bi":"generous, fruitful, efficient, profitable",
+"spanish":
+"noun":"donación, regalo, oferta, repartición, dotación",
+"du":"dar, entregar, regalar, donar, repartir, ",
+"es":"dado, regalado, , entregado",
+"bi":"generoso, dadivoso, fructífero, provechoso, ",
+#

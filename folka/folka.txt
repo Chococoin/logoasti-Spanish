@@ -1,0 +1,2 @@
+forked: as (es)
+	bífido, ahorquillado

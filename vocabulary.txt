@@ -911,10 +911,9 @@
 "noun":"yesterday"
 #
 "lexeme":"segwo",
-"noun":"effect, result, outcome",
+"noun":"following",
 "du":"follow, ensue",
 "es":"followed, ensued",
-"noun":"following"
 #
 "lexeme":"segwo-ika",
 "noun":"reaction, consequence, result",

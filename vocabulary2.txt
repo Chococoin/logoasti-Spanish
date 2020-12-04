@@ -1703,7 +1703,7 @@
 "english":
 "noun":"tomorrow",
 "spanish":
-"noun":"mañana, ",
+"noun":"mañana",
 #
 "lexeme":"folka",
 "english":
@@ -1711,7 +1711,7 @@
 "du":"fork, pitchfork",
 "es":"forked, pitchforked",
 "spanish":
-"noun":"bifurcación, ramificación, ",
+"noun":"bifurcación, ramificación",
 "du":"ramificar, bifurcar, ",
 "es":"bífido, ahorquillado, ramificado",
 #
@@ -1722,7 +1722,7 @@
 "es":"grabbed, picked",
 "spanish":
 "noun":"tomar, recoger",
-"du":"agarrar, , recoger, tomar, ",
+"du":"agarrar, recoger, tomar",
 "es":"agarrado, tomado",
 #
 "lexeme":"giwe",
@@ -1733,7 +1733,80 @@
 "bi":"generous, fruitful, efficient, profitable",
 "spanish":
 "noun":"donación, regalo, oferta, repartición, dotación",
-"du":"dar, entregar, regalar, donar, repartir, ",
+"du":"dar, entregar, regalar, donar, repartir",
 "es":"dado, regalado, , entregado",
-"bi":"generoso, dadivoso, fructífero, provechoso, ",
+"bi":"generoso, dadivoso, fructífero, provechoso",
+#
+"lexeme":"giwe-ika",
+"english":
+"noun":"generosity, goodness, altruism",
+"bi":"generous, altruistic",
+"spanish":
+"noun":"generosidad, bondad, altruismo",
+"bi":"generoso, dadivoso, altruista",
+#
+"lexeme":"obeu",
+"english":
+"noun":"obedience, compliance, observation",
+"du":"obey, comply to, observe",
+"es":"obeyed, observed",
+"bi":"obedient, compliant, observant",
+"spanish":
+"noun":"obediencia, conformidad, observación",
+"du":"obedecer",
+"es":"obedecido",
+"bi":"obediente",
+#
+"lexeme":"obeu-ika",
+"english":
+"noun":"submission, obedience, slavery",
+"du":"submit to, obey to",
+"es":"obeyed",
+"bi":"submitted, slave",
+"spanish":
+"noun":"sumisión, obediencia, esclavitud",
+"es":"obedecido",
+"bi":"sometido, esclavo",
+#
+"lexeme":"piko",
+"english":
+"noun":"smallness",
+"du":"make smaller",
+"es":"made smaller",
+"bi":"small, tiny, little",
+"se":"get smaller",
+"spanish":
+"noun":"pequeñez, insignificancia",
+"du":"empequeñecer, reducir",
+"es":"empequeñecido, reducido",
+"bi":"pequeño, chico, insignificante, diminuto, minúsculo",
+"se":"reducirse, empequeñecerse",
+#
+"lexeme":"naine",
+"english":
+"noun":"female, woman",
+"bi":"feminine, female, woman",
+"spanish":
+"noun":"hembra, mujer",
+"bi":"femenino, hembra, mujer",
+#
+"lexeme":"wiku",
+"english":
+"noun":"male, man",
+"bi":"masculine, male, man",
+"spanish":
+"noun":"varón, hombre",
+"bi":"masculino, varón, hombre",
+#
+"lexeme":"juna",
+"english":
+"noun":"young man, freshman, newbie",
+"du":"renew",
+"es":"renewed",
+"bi":"young, unexperienced",
+"spanish":
+"noun":"joven, muchacho, estudiante de primer año universitario, novato",
+"du":"renovar",
+"es":"renovado",
+"bi":"joven, inexperto",
 #

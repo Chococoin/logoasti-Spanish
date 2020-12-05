@@ -1810,3 +1810,115 @@
 "es":"renovado",
 "bi":"joven, inexperto",
 #
+"lexeme":"juna-ika",
+"english":
+"noun":"novelty, modernity",
+"bi":"new, modern",
+"spanish":
+"noun":"novedad, modernidad, ",
+"bi":" nuevo, moderno, ",
+#
+"lexeme":"pese",
+"english":
+"noun":"fish",
+"spanish":
+"noun":"pez (vivo), pescado (para comer), ",
+#
+"lexeme":"waso",
+"english":
+"noun":"bird",
+"spanish":
+"noun":"pájaro, ave, ",
+#
+"lexeme":"elde",
+"english":
+"noun":"old man, old thing",
+"bi":"old, ancient, aged",
+"spanish":
+"noun":"viejo (persona o cosa)",
+"bi":"viejo, antiguo, anciano, de edad avanzada, vetusto, ",
+#
+"lexeme":"lunpo",
+"english":
+"noun":"break, fracture, crack",
+"du":"break, fracture",
+"es":"broken, fractured",
+"bi":"broken, fractured",
+"se":"break",
+"spanish":
+"noun":"rotura, fractura",
+"du":"romper, quebrar, fracturar",
+"es":"roto, fracturado, quebrado",
+"bi":"roto, fracturado, quebrado, quegrarse, romperse, fracturarse",
+#
+"lexeme":"lunga",
+"english":
+"noun":"length, span",
+"du":"lenghten, stretch",
+"es":"lenghtened, stretched",
+"bi":"long, enduring, elongated",
+"se":"stretch",
+"spanish":
+"noun":"longitud, largo, largueza",
+"du":"alargar, estirar(extender, desplegar)",
+"es":"alargado, estirado, (extendido, desplegado)",
+"bi":"largo, alargado, amplio",
+"se":"alargarse, estirarse"
+#
+"lexeme":"lunga-ika",
+"english":
+"noun":"alongside, beside, perimeter",
+"du":"go beside, go alonside",
+"bi":"long, follow, digress",
+"spanish":
+"noun":"al costado, al lado, junto a, perímetro, ",
+"bi":"prolongado, (continuado), (continuo), ",
+#
+"lexeme":"alta",
+"english":
+"noun":"highness, altitude",
+"bi":"high, tall",
+"spanish":
+"noun":"alto, alteza, altitud, altura, ",
+"bi":"alto, ",
+#
+"lexeme":"kiska",
+"english":
+"noun":"shortness, narrowness, smallness, brevity",
+"du":"shorten",
+"es":"shortened",
+"bi":"short, brief, concise",
+"spanish":
+"noun":"brevedad, breve, corto, pequeño, estrecho, estrechez, angosto, pequeñez",
+"du":"acortar, recortar, reducir, empequeñecer",
+"es":"acortado, recortado, empaqueñecido",
+"bi":"corto, pequeño, estrecho, breve, conciso, (bajo [de estatura]),"
+#
+"lexeme":"gupo",
+"english":
+"noun":"group, set, association, collection, class, category, aggregation",
+"du":"group, collect, aggregate",
+"es":"grouped, collected, aggregated",
+"bi":"together, united, conjoint",
+"spanish":
+"noun":"grupo, colección, categoría, clase, conjunto, agrupación",
+"du":"agrupar, juntar, reunir, conglomerar",
+"es":"coleccionado, sumado, agrupado, (clasificado)",
+"bi":"clasificado, perteneciente a un grupo, estar junto a, unido, formar parte de",
+#
+"lexeme":"wesil",
+"english":
+"noun":"flag, herald, blazon",
+"spanish":
+"noun":"bandera, pabellón, estandarte, ",
+#
+"lexeme":"ekwa",
+"english":
+"noun":"equal, identity, is, equality",
+"du":"equal to, be, identical to, indistinguishable from",
+"es":"equal to, be, identical to, indistinguishable from",
+"spanish":
+"noun":"igualdad, identidad, ",
+"du":"igual a, ser identico a, indistinguible de, ",
+"es":"ser identico a, ",
+#

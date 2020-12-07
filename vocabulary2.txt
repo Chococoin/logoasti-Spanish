@@ -40,13 +40,13 @@
 "english":
 "noun":"today",
 "spanish":
-"noun":"hoy, ",
+"noun":"hoy",
 #
 "lexeme":"ta",
 "english":
 "noun":"those, that",
 "spanish":
-"noun":"aquellos, esos,ese/ése, esa/ésa, eso, aquel/aquél, aquella/aquélla, aquello, also moreover : además, ",
+"noun":"aquellos, esos,ese/ése, esa/ésa, eso, aquel/aquél, aquella/aquélla, aquello, además",
 #
 "lexeme":"ta-asai",
 "english":
@@ -196,7 +196,7 @@
 "notes:"Preposition: semblative/equative marker",
 "special:"p"
 "spanish":
-"noun":"preferencia, gusto, similar a,como, ",
+"noun":"preferencia, gusto, similar a,como",
 #
 "lexeme":"du",
 "english":
@@ -340,7 +340,7 @@
 "notes:"notes"
 "special:"c"
 "spanish":
-"noun":"desde que, ya que, puesto que, dado que, porque, por, a causa de, debido a, ",
+"noun":"desde que, ya que, puesto que, dado que, porque, por, a causa de, debido a",
 #
 "lexeme":"pite",
 "english":
@@ -348,7 +348,7 @@
 "notes:"notes"
 "special:"c"
 "spanish":
-"noun":"a pesar de, aún con, incluso si, aunque,  a pesar de que, ",
+"noun":"a pesar de, aún con, incluso si, aunque,  a pesar de que",
 #
 "lexeme":"ulpa",
 "english":
@@ -374,7 +374,7 @@
 "notes:"notes"
 "special:"c"
 "spanish":
-"noun":"por lo tanto, así que, de manera que,entonces, por lo tanto, por consiguiente, ",
+"noun":"por lo tanto, así que, de manera que,entonces, por lo tanto, por consiguiente",
 #
 "lexeme":"kai",
 "english":
@@ -425,7 +425,7 @@
 "noun":"everywhere",
 "bi":"everywhere",
 "spanish":
-"noun":"en todas partes, por todas partes, dondequiera, ",
+"noun":"en todas partes, por todas partes, dondequiera",
 #
 "lexeme":"alis",
 "english":
@@ -476,8 +476,8 @@
 "es":"stopped, blocked, arrested, interrupted, paused",
 "bi":"stopped, paused",
 "spanish":
-"noun":"parada, tapa, tapón, parada de autobús, área de descanso (en una carretera)pausa, interrupción, ",
-"du":"tapar, impedir, evitar, parar, detenerinterrumpir, ",
+"noun":"parada, tapa, tapón, parada de autobús, área de descanso (en una carretera)pausa, interrupción",
+"du":"tapar, impedir, evitar, parar, detenerinterrumpir",
 "es":"detenido, blocado, pausadohacer una pausa, pararse (brevemente)",
 "bi":"parado, detenidoparar, detener",
 #
@@ -509,7 +509,7 @@
 "noun":"ten",
 "bi":"ten",
 "spanish":
-"noun":"diez, , decena",
+"noun":"diez, decena",
 "bi":"diez",
 #
 "lexeme":"doas",
@@ -548,7 +548,7 @@
 "english":
 "noun":"idea, creation, formation, production, work",
 "spanish":
-"noun":"idea, creación, producción, trabajo, ",
+"noun":"idea, creación, producción, trabajo",
 #
 "lexeme":"pyyn-asai",
 "english":
@@ -563,10 +563,10 @@
 "es":"two, twice, doubled",
 "bi":"two",
 "spanish":
-"noun":"dos, ",
+"noun":"dos",
 "du":"doblar, duplicarduplicar, repetir, (verificar dos veces), (hacer doble clic)",
 "es":"ser copiado",
-"bi":"dos, ",
+"bi":"dos",
 #
 "lexeme":"ea",
 "english":
@@ -594,7 +594,7 @@
 "english":
 "noun":"food",
 "spanish":
-"noun":"comida, alimento, ",
+"noun":"comida, alimento",
 #
 "lexeme":"edo-syl",
 "english":
@@ -613,22 +613,22 @@
 "noun":"six",
 "bi":"six",
 "spanish":
-"noun":"seis, ",
-"bi":"seis, ",
+"noun":"seis",
+"bi":"seis",
 #
 "lexeme":"enpa",
 "english":
 "noun":"east",
 "spanish":
-"noun":"al este, este, del este, oriental, ",
+"noun":"al este, este, del este, oriental",
 #
 "lexeme":"ete",
 "english":
 "noun":"seven",
 "bi":"seven",
 "spanish":
-"noun":"siete, ",
-"bi":"siete, ",
+"noun":"siete",
+"bi":"siete",
 #
 "lexeme":"este",
 "english":
@@ -665,7 +665,7 @@
 "spanish":
 "noun":"flor",
 "es":"florecer, prosperar",
-"bi":"floritura, floreo, ",
+"bi":"floritura, floreo",
 #
 "lexeme":"galda",
 "english":
@@ -676,7 +676,7 @@
 "se":"look at oneself",
 "spanish":
 "noun":"vista, percepción, visión, mirada",
-"du":"ver, mirar,percibir,observar, ",
+"du":"ver, mirar,percibir,observar",
 "es":"ser mirado, ser percibido, visto",
 "bi":"atento, despierto, consciente",
 "se":"mirarse"
@@ -747,8 +747,8 @@
 "noun":"four",
 "bi":"four",
 "spanish":
-"noun":"cuatro, ",
-"bi":"cuatro, ",
+"noun":"cuatro",
+"bi":"cuatro",
 #
 "lexeme":"kilo",
 "english":
@@ -786,7 +786,7 @@
 "english":
 "noun":"hospital, clinic",
 "spanish":
-"noun":"hospital, clínica, ",
+"noun":"hospital, clínica",
 #
 "lexeme":"kosa",
 "english":
@@ -795,7 +795,7 @@
 "es":"made a thing by",
 "spanish":
 "noun":"cosa, hecho, asunto, cuestión, sustancia, situación, fenómeno, sustancia, sujeto, tema",
-"du":"hacer, realizar, llevar a cabo, dedicarse a, trabajar en, (lío, alboroto), ",
+"du":"hacer, realizar, llevar a cabo, dedicarse a, trabajar en, (lío, alboroto)",
 "es":"hacer algo por",
 #
 "lexeme":"komja",
@@ -819,7 +819,7 @@
 "noun":"business, commerce, market, shop",
 "du":"do business, sell, buy, haggle, bargain, deal, dicker",
 "spanish":
-"noun":"negocio, comercio, (empresa, firma), (ocupación, oficio), (deber, responsabilidad), comercio, , tienda, mercado",
+"noun":"negocio, comercio, (empresa, firma), (ocupación, oficio), (deber, responsabilidad), comercio, tienda, mercado",
 "du":"hacer negocio, vender, compra, hacer negocio, hacer un acuerdo",
 #
 "lexeme":"koelsu-asai",
@@ -839,7 +839,7 @@
 "noun":"cuchillo, hojilla, cuchilla",
 "du":"cortar, picar, rebanar",
 "es":"cortado, picado, rebanado",
-"bi":"cortante, (afilado), ",
+"bi":"cortante, (afilado)",
 "se":"cortarse a sí mismo",
 #
 "lexeme":"akumin",
@@ -849,7 +849,7 @@
 "es":"acuminated, sharpened, stropped",
 "bi":"sharp, acuminated",
 "spanish":
-"noun":"afilado, filoso, filo, ",
+"noun":"afilado, filoso, filo",
 "du":"afilar, aguzar",
 "es":"afilado",
 "bi":"afilado, penetrante",
@@ -866,7 +866,7 @@
 "du":"quantify, measure, count",
 "es":"measured, quantified, counted",
 "spanish":
-"noun":"cantidad, equivaler a, significar, ascender (a), , monto, cuota, ",
+"noun":"cantidad, equivaler a, significar, ascender (a), monto, cuota",
 "du":"contar, (medir)",
 "es":"contado, (medido)",
 #
@@ -919,7 +919,7 @@
 "english":
 "noun":"auditorium",
 "spanish":
-"noun":"auditorio, sala, ",
+"noun":"auditorio, sala",
 #
 "lexeme":"lube",
 "english":
@@ -1007,7 +1007,7 @@
 "english":
 "noun":"mother",
 "spanish":
-"noun":"madre, ",
+"noun":"madre",
 #
 "lexeme":"papa",
 "english":
@@ -1092,7 +1092,7 @@
 "se":"shut oneself away",
 "spanish":
 "noun":"centro, núcleo, meollo, medio, corazón",
-"du":"interpolar, intercalar, insertar, implantar, inyectar, ",
+"du":"interpolar, intercalar, insertar, implantar, inyectar",
 "es":"insertado, introducido, puesto, metido, intercalado",
 "bi":"insertado, introducido, puesto, metido, intercalado",
 "se":"encerrarse"
@@ -1101,7 +1101,7 @@
 "english":
 "noun":"north",
 "spanish":
-"noun":"norte, del norte, norte, el Norte, ",
+"noun":"norte, del norte, norte, el Norte",
 #
 "lexeme":"nimal",
 "english":
@@ -1133,8 +1133,8 @@
 "bi":"nothing, absent",
 "se":"nullify oneself",
 "spanish":
-"noun":"nada, no, ninguno, , no, cero, nulo, ausencia, carencia, falta",
-"du":"cancelar, anular, , invalidar, revocar, ",
+"noun":"nada, no, ninguno, no, cero, nulo, ausencia, carencia, falta",
+"du":"cancelar, anular, invalidar, revocar",
 "es":"cancelado, invalidado, revocado",
 "bi":"cancelado, invalidado, revocado, anulado",
 "se":"anularse, ausentarse",
@@ -1143,7 +1143,7 @@
 "english":
 "noun":"nowhere",
 "spanish":
-"noun":"en ninguna parte, a ningún lado, ni con mucho, nada cerca, ninguna parte, de la nada, ",
+"noun":"en ninguna parte, a ningún lado, ni con mucho, nada cerca, ninguna parte, de la nada",
 #
 "lexeme":"nul-geon",
 "english":
@@ -1158,7 +1158,7 @@
 "es":"dominated",
 "bi":"summit, top, peak",
 "spanish":
-"noun":"cumbre, cimamáximo, , puntaparte superior",
+"noun":"cumbre, cimamáximo, puntaparte superior",
 "du":"por encima, estar sobre, dominar",
 "es":"dominado, superado",
 "bi":"dominado, superado, cubierto, alcanzar su nivel máximo",
@@ -1171,7 +1171,7 @@
 "bi":"ordered, sorted",
 "se":"sort oneself up, fix oneself up",
 "spanish":
-"noun":"orden, arreglo, , sequenciaclasificación",
+"noun":"orden, arreglo, sequenciaclasificación",
 "du":"organizar, arreglar, clasificar, poner en orden, alinear, clasificar, catalogar",
 "es":"organizado, arreglado, clasificado, ordenado, alineado, catalogado",
 "bi":"organizado, arreglado, clasificado, ordenado, alineado, catalogado",
@@ -1279,8 +1279,8 @@
 "noun":"five",
 "bi":"five",
 "spanish":
-"noun":"cinco, ",
-"bi":"cinco, ",
+"noun":"cinco",
+"bi":"cinco",
 #
 "lexeme":"jente",
 "english":
@@ -1290,7 +1290,7 @@
 "bi":"people, nation",
 "se":"reunite, rejoin",
 "spanish":
-"noun":"gente, personas, pueblo, ",
+"noun":"gente, personas, pueblo",
 "du":"reunir, juntar, reunir, unir",
 "es":"reunido, juntado, unido",
 "bi":"pueblo, personas, nación, pueblopueblo, nación",
@@ -1317,7 +1317,7 @@
 "se":"grateful, complacent",
 "spanish":
 "noun":"gracia, complacencia",
-"du":"agradecer, darle (las) gracias (a alguien), darle la bienvenida a, recibir, ",
+"du":"agradecer, darle (las) gracias (a alguien), darle la bienvenida a, recibir",
 "bi":"agradecido",
 "se":"grato, (contento), complacido",
 #
@@ -1384,7 +1384,7 @@
 "es":"interacted with",
 "bi":"behave",
 "spanish":
-"noun":"comportamiento, conducta, interacción, interrelación, ",
+"noun":"comportamiento, conducta, interacción, interrelación",
 "du":"interactuar",
 "es":"interactuado",
 "bi":"comportarse, portarse",
@@ -1393,7 +1393,7 @@
 "english":
 "noun":"south",
 "spanish":
-"noun":"sur, del sur, ",
+"noun":"sur, del sur",
 #
 "lexeme":"taula",
 "english":
@@ -1402,7 +1402,7 @@
 "es":"put on a surface",
 "se":"lay down, put oneself on a surface",
 "spanish":
-"noun":"mesa, superficie, cama, lecho, ",
+"noun":"mesa, superficie, cama, lecho",
 "du":"colocar sobre una superfcie",
 "es":"puesto sobre",
 "se":"apoyar",
@@ -1415,11 +1415,11 @@
 "bi":"travel, move, go",
 "se":"travel, move, go",
 "spanish":
-"noun":"viajar, viaje, movimiento, viaje, trayectoria, ",
-"du":"transportar, acarrear, trasportar, mover, trasferir, mudar, ",
+"noun":"viajar, viaje, movimiento, viaje, trayectoria",
+"du":"transportar, acarrear, trasportar, mover, trasferir, mudar",
 "es":"movido, trasferido, llevado",
-"bi":"movido, transportado, ",
-"se":"desplazarse, moverse, transferirse, ",
+"bi":"movido, transportado",
+"se":"desplazarse, moverse, transferirse",
 #
 "lexeme":"tel",
 "english":
@@ -1428,8 +1428,8 @@
 "es":"tripled",
 "bi":"three, triple",
 "spanish":
-"noun":"tres, ",
-"du":"triplicar, triplicar, ",
+"noun":"tres",
+"du":"triplicar, triplicar",
 "es":"triplicado",
 "bi":"tres, triple",
 #
@@ -1441,10 +1441,10 @@
 "bi":"upset",
 "se":"perturb oneself",
 "spanish":
-"noun":"tensión, agitación, inquietud, inquietud, perturbaciónansiedad, angustia, ",
-"du":"perturbar, inquietar, poner nervioso, aturdir, ",
-"es":"perturbado, inquieto, estresado, disgustado, ",
-"bi":"perturbado, inquieto, estresado, disgustado, ",
+"noun":"tensión, agitación, inquietud, inquietud, perturbaciónansiedad, angustia",
+"du":"perturbar, inquietar, poner nervioso, aturdir",
+"es":"perturbado, inquieto, estresado, disgustado",
+"bi":"perturbado, inquieto, estresado, disgustado",
 "se":"perturbarse, preocuparse",
 #
 "lexeme":"ulla",
@@ -1460,14 +1460,14 @@
 "noun":"time, moment, occasion",
 "bi":"time",
 "spanish":
-"noun":"tiempo, momento, vez, ocasión, (plazo), ",
-"bi":"tiempo, ",
+"noun":"tiempo, momento, vez, ocasión, (plazo)",
+"bi":"tiempo",
 #
 "lexeme":"syson",
 "english":
 "noun":"season, period, age, era",
 "spanish":
-"noun":"estación (del año), temporada, periodo, era, siglo, época, ",
+"noun":"estación (del año), temporada, periodo, era, siglo, época",
 #
 "lexeme":"ulko",
 "english":
@@ -1476,8 +1476,8 @@
 "es":"shouted, yelled",
 "bi":"make noise",
 "spanish":
-"noun":"grito, clamor, chillidoruido, ",
-"du":"gritar, vocear, chillar, ",
+"noun":"grito, clamor, chillidoruido",
+"du":"gritar, vocear, chillar",
 "es":"gritado, (regañado)",
 "bi":"ruidoso",
 #
@@ -1486,8 +1486,8 @@
 "noun":"one",
 "bi":"one, unique",
 "spanish":
-"noun":"un, uno, una, ",
-"bi":"uno, ",
+"noun":"un, uno, una",
+"bi":"uno",
 #
 "lexeme":"unda",
 "english":
@@ -1497,10 +1497,10 @@
 "bi":"under, beneath, below",
 "se":"descend, get off, go down, fall",
 "spanish":
-"noun":"más bajo, inferior, de abajo, , fondo, ",
+"noun":"más bajo, inferior, de abajo, fondo",
 "du":"bajar, reducir, dejar caer, soltar, poner debajo",
-"bi":"estar abajo, debajo de, abajo de, debajo, bajo, abajo, por debajo de, ",
-"se":"descender, bajarse, caerse, ",
+"bi":"estar abajo, debajo de, abajo de, debajo, bajo, abajo, por debajo de",
+"se":"descender, bajarse, caerse",
 #
 "lexeme":"use",
 "english":
@@ -1530,27 +1530,27 @@
 "du":"have, own, carry",
 "es":"owned, carried",
 "spanish":
-"noun":"posesión, propiedad, ",
-"du":"tener, poseer, ser dueño de,, ",
+"noun":"posesión, propiedad",
+"du":"tener, poseer, ser dueño de,",
 "es":"poseer, tener, ser dueño de",
 #
 "lexeme":"taime",
 "english":
 "noun":"tree",
 "spanish":
-"noun":"árbol, ",
+"noun":"árbol",
 #
 "lexeme":"taime-upo",
 "english":
 "noun":"grove, wood",
 "spanish":
-"noun":"huerto, arboleda, bosquecillo, bosque, ",
+"noun":"huerto, arboleda, bosquecillo, bosque",
 #
 "lexeme":"taime-asai",
 "english":
 "noun":"forest",
 "spanish":
-"noun":"bosque (en zonas templadas), selva (en zonas tropicales), ",
+"noun":"bosque (en zonas templadas), selva (en zonas tropicales)",
 #
 "lexeme":"beike",
 "english":
@@ -1564,8 +1564,8 @@
 "du":"hurt, ache",
 "es":"feel pain in, feel bad for",
 "spanish":
-"noun":"pesar, dolor, pena, ",
-"du":"herir, lastimar, hacer daño a, hacer sufrir, ",
+"noun":"pesar, dolor, pena",
+"du":"herir, lastimar, hacer daño a, hacer sufrir",
 "es":"adolorido, lastimado, herido, sentirse mal por algo/alguien",
 #
 "lexeme":"welte",
@@ -1573,22 +1573,22 @@
 "noun":"green",
 "bi":"green",
 "spanish":
-"noun":"verde, ",
+"noun":"verde",
 #
 "lexeme":"bulu",
 "english":
 "noun":"blue",
 "bi":"blue",
 "spanish":
-"noun":"azul, ",
+"noun":"azul",
 #
 "lexeme":"jelo",
 "english":
 "noun":"yellow",
 "bi":"yellow",
 "spanish":
-"noun":"amarillo, ",
-"bi":"amarillo, ",
+"noun":"amarillo",
+"bi":"amarillo",
 #
 "lexeme":"xuse",
 "english":
@@ -1596,7 +1596,7 @@
 "bi":"red",
 "se":"blush",
 "spanish":
-"noun":"red, ",
+"noun":"red",
 "bi":"rojo, colorado",
 "se":"ruborizarse, sonrojarse, hacerse colorado",
 #
@@ -1606,7 +1606,7 @@
 "du":"sustain keep up",
 "es":"sustained, kept up",
 "spanish":
-"noun":"suelo, piso, ",
+"noun":"suelo, piso",
 "es":"sostenido, mantenido",
 #
 "lexeme":"lufi",
@@ -1615,8 +1615,8 @@
 "du":"cover",
 "es":"covered",
 "spanish":
-"noun":"techo, cielo raso, tejado, techado, ",
-"du":"cubrir, tapar, ",
+"noun":"techo, cielo raso, tejado, techado",
+"du":"cubrir, tapar",
 "es":"cubierto, tapado",
 #
 "lexeme":"seina",
@@ -1625,7 +1625,7 @@
 "du":"wall",
 "spanish":
 "noun":"pared, muro, barda, parapeto",
-"du":"amurallar, ",
+"du":"amurallar",
 #
 "lexeme":"wanda",
 "english":
@@ -1645,8 +1645,8 @@
 "du":"flatten, even out, spread out",
 "es":"flattened, evened out, spread out",
 "spanish":
-"noun":"plano, llano, ",
-"du":"aplanar, achatar, ",
+"noun":"plano, llano",
+"du":"aplanar, achatar",
 "es":"chato, aplanado",
 #
 "lexeme":"ante",
@@ -1655,8 +1655,8 @@
 "du":"precede, anticipate, forego",
 "es":"preceded, anticipated",
 "spanish":
-"noun":"antecedente, precedente, precursor, ",
-"du":"preceder a, anticipar, prever, ",
+"noun":"antecedente, precedente, precursor",
+"du":"preceder a, anticipar, prever",
 "es":"precedido por, anticipado de",
 #
 "lexeme":"ante-ika",
@@ -1667,15 +1667,15 @@
 "bi":"avant-garde",
 "spanish":
 "noun":"antecedencia, anticipación, adelanto",
-"du":"innovar, conducir, ",
-"es":"innovadoconducido, ",
-"bi":"vanguardista, ",
+"du":"innovar, conducir",
+"es":"innovadoconducido",
+"bi":"vanguardista",
 #
 "lexeme":"ante-dje",
 "english":
 "noun":"yesterday",
 "spanish":
-"noun":"ayer, ",
+"noun":"ayer",
 #
 "lexeme":"segwo",
 "english":
@@ -1683,8 +1683,8 @@
 "du":"follow, ensue",
 "es":"followed, ensued",
 "spanish":
-"noun":"siguiente, después de, ",
-"du":"seguir (un camino, a una persona, etc.), seguir, ",
+"noun":"siguiente, después de",
+"du":"seguir (un camino, a una persona, etc.), seguir",
 "es":"seguido",
 #
 "lexeme":"segwo-ika",
@@ -1694,10 +1694,10 @@
 "es":"followed",
 "bi":"derivative",
 "spanish":
-"noun":"reacción, consecuencia, secuela, resultado, ",
-"du":"reaccionarseguir (un camino, a una persona, etc.), ",
+"noun":"reacción, consecuencia, secuela, resultado",
+"du":"reaccionarseguir (un camino, a una persona, etc.)",
 "es":"seguido",
-"bi":"derivado, ",
+"bi":"derivado",
 #
 "lexeme":"segwo-dje",
 "english":
@@ -1712,7 +1712,7 @@
 "es":"forked, pitchforked",
 "spanish":
 "noun":"bifurcación, ramificación",
-"du":"ramificar, bifurcar, ",
+"du":"ramificar, bifurcar",
 "es":"bífido, ahorquillado, ramificado",
 #
 "lexeme":"tage",
@@ -1734,7 +1734,7 @@
 "spanish":
 "noun":"donación, regalo, oferta, repartición, dotación",
 "du":"dar, entregar, regalar, donar, repartir",
-"es":"dado, regalado, , entregado",
+"es":"dado, regalado, entregado",
 "bi":"generoso, dadivoso, fructífero, provechoso",
 #
 "lexeme":"giwe-ika",
@@ -1815,20 +1815,20 @@
 "noun":"novelty, modernity",
 "bi":"new, modern",
 "spanish":
-"noun":"novedad, modernidad, ",
-"bi":" nuevo, moderno, ",
+"noun":"novedad, modernidad",
+"bi":" nuevo, moderno",
 #
 "lexeme":"pese",
 "english":
 "noun":"fish",
 "spanish":
-"noun":"pez (vivo), pescado (para comer), ",
+"noun":"pez (vivo), pescado (para comer)",
 #
 "lexeme":"waso",
 "english":
 "noun":"bird",
 "spanish":
-"noun":"pájaro, ave, ",
+"noun":"pájaro, ave",
 #
 "lexeme":"elde",
 "english":
@@ -1836,7 +1836,7 @@
 "bi":"old, ancient, aged",
 "spanish":
 "noun":"viejo (persona o cosa)",
-"bi":"viejo, antiguo, anciano, de edad avanzada, vetusto, ",
+"bi":"viejo, antiguo, anciano, de edad avanzada, vetusto",
 #
 "lexeme":"lunpo",
 "english":
@@ -1871,16 +1871,16 @@
 "du":"go beside, go alonside",
 "bi":"long, follow, digress",
 "spanish":
-"noun":"al costado, al lado, junto a, perímetro, ",
-"bi":"prolongado, (continuado), (continuo), ",
+"noun":"al costado, al lado, junto a, perímetro",
+"bi":"prolongado, (continuado), (continuo)",
 #
 "lexeme":"alta",
 "english":
 "noun":"highness, altitude",
 "bi":"high, tall",
 "spanish":
-"noun":"alto, alteza, altitud, altura, ",
-"bi":"alto, ",
+"noun":"alto, alteza, altitud, altura",
+"bi":"alto",
 #
 "lexeme":"kiska",
 "english":
@@ -1910,7 +1910,7 @@
 "english":
 "noun":"flag, herald, blazon",
 "spanish":
-"noun":"bandera, pabellón, estandarte, ",
+"noun":"bandera, pabellón, estandarte",
 #
 "lexeme":"ekwa",
 "english":
@@ -1918,7 +1918,212 @@
 "du":"equal to, be, identical to, indistinguishable from",
 "es":"equal to, be, identical to, indistinguishable from",
 "spanish":
-"noun":"igualdad, identidad, ",
-"du":"igual a, ser identico a, indistinguible de, ",
-"es":"ser identico a, ",
+"noun":"igualdad, identidad",
+"du":"igual a, ser identico a, indistinguible de",
+"es":"ser identico a",
+#
+"lexeme":"doge",
+"english":
+"noun":"dog, hound",
+"spanish":
+"noun":"perro, sabueso",
+#
+"lexeme":"neko",
+"english":
+"noun":"cat, feline, kitten",
+"spanish":
+"noun":"gato, felino",
+#
+"lexeme":"laus",
+"english":
+"noun":"louse",
+"spanish":
+"noun":"piojo",
+#
+"lexeme":"pune",
+"english":
+"noun":"work, job, occupation",
+"du":"work on, do",
+"es":"worked",
+"bi":"work, busy, engaged, occupied",
+"spanish":
+"noun":"trabajo, empleo, ocupación",
+"du":"hacer, trabajar en",
+"es":"trabajado",
+"bi":"trabajando, ocupado, empeñado, atareado",
+#
+"lexeme":"pune-no-dje",
+"english":
+"noun":"free-day, vacation",
+"spanish":
+"noun":"día libre, vacaciones",
+#
+"lexeme":"mante",
+"english":
+"noun":"keeping, maintenance, conservation, preservation",
+"du":"keep, mantain, hold",
+"es":"kept, mantained, held",
+"se":"maintain oneself, sustain oneself",
+"spanish":
+"noun":"mantenimiento, conserva, conservación, preserva, preservación",
+"du":"mantener, sostener, aguantar",
+"es":"mantenido, sostenido, soportado",
+"se":"mantenerse, sostenerse, soportarse",
+#
+"lexeme":"oida",
+"english":
+"noun":"knowledge, wisdom, culture, sapience",
+"du":"know, recognize, see, have experience in",
+"es":"known, recognized",
+"bi":"wise, a savant",
+"se":"know oneself",
+"spanish":
+"noun":"conocimiento, sabiduría, cultura",
+"du":"saber, reconocer, comprender, experimentar",
+"es":"conocido, (comprendido)reconocido",
+"bi":"sabio, conocedor",
+"se":"conocerse, reconocerse",
+#
+"lexeme":"oida-ika",
+"english":
+"noun":"theory, hypothesis",
+"du":"hypothesize, speculate, cogitate",
+"spanish":
+"noun":"teoría, hipótesis",
+"du":"hipotizar, suponer, preguntarse, hacer conjeturas, especular",
+#
+"lexeme":"oida-nyn",
+"english":
+"noun":"sage, philosopher, theorist",
+"spanish":
+"noun":"sabio, filósofo, teórico",
+#
+"lexeme":"busko",
+"english":
+"noun":"search, examination, inquiry, research, pursuit",
+"du":"search, examine, inquiry, research, pursuit",
+"es":"searched, examined, inquired, researched, pursuit",
+"spanish":
+"noun":"búsqueda, inspección, investigación, inquisición, pesquisa, investigación",
+"du":"buscar, examinar, investigar",
+"es":"buscado, examinado, inspeccionado, investigado, examinado",
+#
+"lexeme":"busko-nyn",
+"english":
+"noun":"researcher, investigator",
+"spanish":
+"noun":"investigador",
+#
+"lexeme":"jalyi",
+"english":
+"noun":"departure, shipping, transmission",
+"du":"send, transmit, deliver",
+"es":"sent, transmitted, delivered",
+"bi":"depart, go",
+"spanish":
+"noun":"salida, envío, transmisión",
+"du":"enviar, transmitir, entregar",
+"es":"entregado, transmitido, enviado",
+"bi":"andado, marchado",
+#
+"lexeme":"seme",
+"english":
+"noun":"seed, grain, nut",
+"du":"plant, inseminate",
+"es":"planted, inseminated",
+"spanish":
+"noun":"semilla, pepita (de una fruta), grano, nuez",
+"du":"plantar, sembrar, inseminar",
+"es":"plantado, inseminado",
+#
+"lexeme":"seme-ika",
+"english":
+"noun":"origin, source",
+"du":"inseminate, fecundate",
+"es":"inseminated, fecundated",
+"bi":"gravid, pregnant",
+"spanish":
+"noun":"origen, raíz, fuente",
+"du":"inseminar, fecundar",
+"es":"inseminado, fecundado",
+"bi":"encinta, mujer embarazada",
+#
+"lexeme":"leto",
+"english":
+"noun":"leaf, page, sheet",
+"du":"write down, take notes about",
+"es":"written down as a note",
+"spanish":
+"noun":"hoja (de plantas o libros), página, (sábana)",
+"du":"escribir, tomar notas",
+"es":"anotado, apunte",
+#
+"lexeme":"sengo",
+"english":
+"noun":"root, base",
+"du":"plant",
+"es":"planted",
+"se":"take roots",
+"spanish":
+"noun":"origen, raíz, fundamento",
+"du":"plantar, sembrar",
+"es":"plantado, sembrado",
+"se":"enraizarse, arraigarse"
+#
+"lexeme":"fasa",
+"english":
+"noun":"skin, coating, membrane",
+"du":"coat, put skin",
+"es":"coated",
+"spanish":
+"noun":"piel, capa, revestimiento, membrana",
+"du":"cubrir, revestir, abrigar",
+"es":"cubierto, abrigado, revestido",
+#
+"lexeme":"kalne",
+"english":
+"noun":"flesh, meat",
+"bi":"fleshy, meaty, meat",
+"spanish":
+"noun":"carne, (pulpa)",
+"bi":"carnoso, ",
+#
+"lexeme":"uto",
+"english":
+"noun":"what",
+"notes":"Used in interrogative sentences"
+"spanish":
+"noun":"cómo, qué",
+#
+"lexeme":"abyyl",
+"english":
+"noun":"bee, wasp, insect",
+"spanish":
+"noun":"abeja, avispa, insecto",
+#
+"lexeme":"bugo",
+"english":
+"noun":"bug, beetle, insect",
+"spanish":
+"noun":"bicho, escarabajo, insecto",
+#
+"lexeme":"mega",
+"english":
+"noun":"greatness, size",
+"du":"enlarge, magnify, expand",
+"es":"enlarged, magnified, expanded",
+"bi":"big, huge, great",
+"se":"grow up",
+"spanish":
+"noun":"grandeza, de tamaño muy grande, extra largo",
+"du":"ampliar, agrandar, extender, alargado, extendido, agrandado",
+"es":"alargado, extendido, agrandado",
+"bi":"grande, inmenso, enorme",
+"se":"crecer",
+#
+"lexeme":"mega-ika",
+"english":
+"noun":"dimension, size, relevance",
+"spanish":
+"noun":"dimensión, extensión, medida",
 #

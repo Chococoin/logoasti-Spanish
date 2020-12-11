@@ -2127,3 +2127,300 @@
 "spanish":
 "noun":"dimensión, extensión, medida",
 #
+"lexeme":"damu",
+"english":
+"noun":"blood",
+"bi":"bleed",
+"spanish":
+"noun":"sangre",
+"bi":"sangrar",
+#
+"lexeme":"osto",
+"english":
+"noun":"bone",
+"spanish":
+"noun":"hueso",
+#
+"lexeme":"osto-ika",
+"english":
+"noun":"infrastructure, framework, skeleton",
+"du":"frame, give structure to",
+"es":"framed",
+"spanish":
+"noun":"infraestructura, marco, esqueleto, armazón, ",
+"du":"formular, elaborar, enmarcar, encuadrar, ",
+"es":"formulado, enmarcado, encuadrado",
+#
+"lexeme":"feto",
+"english":
+"noun":"fat, grease",
+"du":"put grease on, grease, lubrificate",
+"es":"greased, lubrificated",
+"bi":"oily, viscid, lubrificated",
+"spanish":
+"noun":"grasa",
+"du":"engrasar, lubricar",
+"es":"lubrificado",
+"bi":"grasoso, lubrificado",
+#
+"lexeme":"owo",
+"english":
+"noun":"egg, cell",
+"spanish":
+"noun":"huevo, célula, óvulo",
+#
+"lexeme":"kolna",
+"english":
+"noun":"horn",
+"du":"gore, pierce with a horn",
+"es":"gored, pierced with a horn",
+"bi":"horn-like",
+"spanish":
+"noun":"cuerno, (bocina), ",
+"du":"cornear, ",
+"es":"corneado, atravezado por un cuerno",
+"bi":"tener forma alargada, tener forma de cuerno",
+#
+
+"lexeme":"koda",
+"english":
+"noun":"end, tail, coda, ending",
+"bi":"last, closing",
+"spanish":
+"noun":"extremo final, cola, rabo, ",
+"bi":"estar en último lugar, por último, concluir, ",
+#
+"lexeme":"musa",
+"english":
+"noun":"music, composition, piece, track",
+"du":"play, compose",
+"es":"played, composed",
+"bi":"play music, do music",
+"spanish":
+"noun":"música, composición, , canción",
+"du":"interpretar (una pieza músical), componer (una pieza músical), ",
+"es":"tocado (una pieza músical), composición musical",
+#
+"lexeme":"poesa",
+"english":
+"noun":"lyric, poem, rhyme, poetry, composition",
+"du":"write, compose",
+"es":"written, composed",
+"bi":"do poetry",
+"spanish":
+"noun":"lírica, poema, poesía, rima, (verso), composición",
+"du":"escribir un poema/composición/ensayo",
+"es":"escrito, compuesto",
+"bi":"crear/escribir poesía",
+#
+"lexeme":"poesa-nyn",
+"english":
+"noun":"poet, bard",
+"spanish":
+"noun":"poeta, bardo, ",
+#
+"lexeme":"opela",
+"english":
+"noun":"operation, work, job",
+"du":"operate, work, do",
+"es":"operated, worked, done",
+"bi":"operational, busy, engaged, occupied",
+"spanish":
+"noun":"operación, trabajo, empleo, labor, tarea, ",
+"du":"hacer, realizar, llevar a cabo, ",
+"es":"operado, trabajado, empleado, atareado",
+"bi":"operativo, empeñado, ocupado, atareado",
+#
+"lexeme":"leje",
+"english":
+"noun":"reading, lecture, text, content, document",
+"du":"read, study",
+"es":"read, studied",
+"bi":"read",
+"spanish":
+"noun":"lectura, texto, contenido, documento, ",
+"du":"leer,, estudiar, ",
+"es":"leido, (lector), estudiado, (estudiante), leido, estudiado, ",
+#
+"lexeme":"leje-nyn",
+"english":
+"noun":"reader, announcer, lector, lecturer",
+"spanish":
+"noun":"lector, anunciador, comentarista, locutor, ",
+#
+"lexeme":"fiede",
+"english":
+"noun":"feather, fringe, plume",
+"spanish":
+"noun":"pluma, fleco, ",
+#
+"lexeme":"pilu",
+"english":
+"noun":"hair, fiber, fur",
+"spanish":
+"noun":"pelo, fibra, pelaje, ",
+#
+"lexeme":"kapo",
+"english":
+"noun":"head, skull, attic, apex, heading",
+"spanish":
+"noun":"cabeza, cabecera, encabezado, cráneo, calavera, atico, ",
+#
+"lexeme":"udi",
+"english":
+"noun":"hearing",
+"du":"hear, listen",
+"es":"heard, listened",
+"spanish":
+"noun":"escucha, oír",
+"du":"oír, escuchar, (prestar atención a, hacer caso de (algo), hacerle caso (a alguien)), ",
+"es":"escuchado, oído",
+#
+"lexeme":"eima",
+"english":
+"noun":"tool, instrument, device, machine",
+"du":"use a tool on",
+"es":"worked on with a tool",
+"bi":"work",
+"spanish":
+"noun":"herramienta, instrumento, dispositivo, aparato, mecanismo, máquina, aparato",
+"du":"aplicar el uso de una herramieta/instrumento",
+"es":"hacer funcionar algo con una herramienta",
+"bi":"(trabajoso, maquinoso)",
+#
+"lexeme":"mila",
+"english":
+"noun":"aim, objective, target, destination, purpose",
+"du":"aim, target, mark",
+"es":"aimed, targeted, marked",
+"spanish":
+"noun":"objetivo, propósito, meta, destino, propósito, ",
+"du":"dirigir, proponer, destinar, dirigir, ",
+"es":"dirigido, propuesto, destinado",
+#
+"lexeme":"miljon",
+"english":
+"noun":"one million",
+"bi":"one million",
+"spanish":
+"noun":"millón, un millón",
+"bi":"millón, (millonario)",
+#
+"lexeme":"toko",
+"english":
+"noun":"hour, part of day",
+"spanish":
+"noun":"hora, horario, sección del día",
+#
+"lexeme":"leipo",
+"english":
+"noun":"region, zone, area, country, field, locality",
+"spanish":
+"noun":"región, zona, área, campo, sector, localidad",
+#
+"lexeme":"polwe",
+"english":
+"noun":"dust, dirt, grime, powder, sand, scatter, dredge",
+"du":"pulverize, scatter",
+"es":"pulverized, scattered",
+"spanish":
+"noun":"polvo, suciedad, mugre, porquería, arena",
+"du":"pulverizar, esparcir, desparramar",
+"es":"pulverizado, esparcido, desparramado",
+#
+"lexeme":"poxe",
+"english":
+"noun":"process, development, course, evolution",
+"du":"process, develop, evolve",
+"es":"processed, developed, evolved",
+"bi":"progressed, evolute",
+"spanish":
+"noun":"proceso, desarrollo, curso, evolución",
+"du":"procesar, desarrollar, evollucionar",
+"es":"procesado, desarrollado, evolucionado",
+"bi":"procesado, evolucionado",
+#
+"lexeme":"pexu",
+"english":
+"noun":"disappointment, dissatisfaction, discontent, frustration",
+"du":"disappoint, dissatisfy, discontent, frustrate",
+"es":"disappointed, dissatisfied, discontented, frustrated",
+"bi":"disappointing, dissatisfying, discontenting, frustrating",
+"spanish":
+"noun":"decepción, desilusión, chasco, descontento, insatisfacción, frustración",
+"du":"decepcionar, defraudar, fallar",
+"es":"descontento, frustrado, insatisfecho, decepcionado",
+"bi":"descontento, frustrado, insatisfecho, decepcionado",
+#
+"lexeme":"tulos",
+"english":
+"noun":"result, conclusion, outcome, production",
+"du":"conclude, produce",
+"es":"concluded, produced",
+"spanish":
+"noun":"resultado, conclusión, consecuencia, desenlace, producto, producción",
+"du":"concluir, finalizar, terminar, ",
+"es":"concluido, finalizado, acabado",
+#
+"lexeme":"kyndis",
+"english":
+"noun":"condition, circumstance, parameter, situation, status, term",
+"du":"condition, accustom, force",
+"es":"conditioned, forced by",
+"spanish":
+"noun":"situación, condición, estatus, parametro",
+"du":"condicionar, determinar, acondicionar, forzar",
+"es":"condicionado, forzado",
+#
+"lexeme":"ljae",
+"english":
+"noun":"ice, frost, freeze",
+"du":"frost, freeze",
+"es":"frosted, freezed",
+"bi":"cold, frosted, freezed",
+"spanish":
+"noun":"hielo, , helado, (helada), congelación, congelamiento, ",
+"du":"helar, congelar, ",
+"es":"congelado",
+"bi":"helado, congelado, ",
+#
+"lexeme":"kuni",
+"english":
+"noun":"cave, cavern, cavity",
+"du":"dig",
+"es":"dug",
+"bi":"cavernous, hollow",
+"spanish":
+"noun":"cueva, caverna, cavidad, ",
+"du":"cavar, excavar, ",
+"es":"excavado",
+"bi":"cavernoso, hueco, ",
+#
+"lexeme":"mojo",
+"english":
+"noun":"heart, nucleus, core, center, middle, kernel",
+"spanish":
+"noun":"corazón, centro, núcleo, centro, meollo, ",
+#
+"lexeme":"ponka",
+"english":
+"noun":"too small amount, scarcity",
+"du":"make scarce",
+"es":"made scarce",
+"bi":"too few, too little, scarce",
+"spanish":
+"noun":"escasez, escaso",
+"bi":"",
+#
+"lexeme":"lees",
+"english":
+"noun":"inferiority, deficience",
+"du":"make inferior",
+"es":"made inferior",
+"bi":"less, less than",
+"spanish":
+"noun":"inferioridad, deficiencia",
+"du":"hacer inferior, desmejorar",
+"es":"desmejorado",
+"bi":"menos que",
+#

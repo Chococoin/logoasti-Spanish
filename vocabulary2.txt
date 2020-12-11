@@ -2424,3 +2424,143 @@
 "es":"desmejorado",
 "bi":"menos que",
 #
+"lexeme":"maas",
+"english":
+"noun":"superiority, advantage",
+"du":"surpass",
+"es":"surpassed",
+"bi":"more, superior",
+"spanish":
+"noun":"superioridad, ventaja",
+"du":"superar, exceder, rebasar, sobrepasar",
+"es":"sobresasado, superado, rebasado, excedido",
+"bi":"más, aventajado, superior",
+#
+"lexeme":"topo",
+"english":
+"noun":"surplus, too big amount",
+"bi":"too much, too many",
+"spanish":
+"noun":"excedente, sobrante, superávit",
+"bi":"mucho, demasiado",
+#
+"lexeme":"seo",
+"english":
+"noun":"early time",
+"bi":"soon, early, come before",
+"spanish":
+"noun":"temprano",
+"bi":"pronto, dentro de poco, en anticipo, tempranero",
+#
+"lexeme":"lae",
+"english":
+"noun":"late time",
+"bi":"late, come later, come after",
+"spanish":
+"noun":"tarde",
+"bi":"atrasado, tardío",
+#
+"lexeme":"mano",
+"english":
+"noun":"hand",
+"du":"hold, take, use, handle",
+"es":"held, taken, used, handled",
+"spanish":
+"noun":"mano, ",
+"du":"agarrar, manipular, ",
+"es":"sostenido, manipulado, agarrado",
+#
+"lexeme":"bilo",
+"english":
+"noun":"arm, limb, brace",
+"spanish":
+"noun":"brazo, miembro, extremidad",
+#
+"lexeme":"ganba",
+"english":
+"noun":"leg, limb, brace",
+"bi":"walk",
+"spanish":
+"noun":"pierna, pata (de un animal, de muebles), ",
+"bi":"caminar, ",
+#
+"lexeme":"tolso",
+"english":
+"noun":"torso, trunk, stalk",
+"bi":"stand, stay erect",
+"spanish":
+"noun":"torso, tronco, tallo, ",
+"bi":"estar de pie, estar parado, ",
+#
+"lexeme":"selebu",
+"english":
+"noun":"brain, intellect, head, cerebrum, wit",
+"du":"think",
+"es":"thought",
+"spanish":
+"noun":"cerebro, intelecto, cabeza, ingenio, ",
+"du":"pensar, ",
+"es":"pensado",
+#
+"lexeme":"pede",
+"english":
+"noun":"foot, hoof, paw, base, bottom, foundation",
+"du":"kick",
+"es":"kicked",
+"bi":"walk",
+"spanish":
+"noun":"pie, pezuña, pata, zarpa, base,  fundamento, ",
+"du":"patear, ",
+"es":"pateado",
+"bi":"caminado, recorrido, ",
+#
+"lexeme":"pis",
+"english":
+"noun":"plus (arithmetic operator), addition",
+"du":"add",
+"es":"added",
+"spanish":
+"noun":"súma, adición (operador aritmético)",
+"du":"agregar, añadir, ",
+"es":"añadido, agredado",
+#
+"lexeme":"minus",
+"english":
+"noun":"minus (arithmetic operator), subtraction",
+"du":"subtract",
+"es":"subtracted",
+"spanish":
+"noun":"resta, sustracción (operador aritmético)",
+"du":"restar, sustraer, ",
+"es":"restado, sustraido",
+#
+"lexeme":"times",
+"english":
+"noun":"times (arithmetic operator)",
+"du":"multiply",
+"es":"multiplid",
+"spanish":
+"noun":"multiplicación (operador aritmético)",
+"du":"multiplicar, ",
+"es":"multiplicado",
+#
+"lexeme":"deile",
+"english":
+"noun":"over (arithmetic operator)",
+"du":"divide, split",
+"es":"divided, splitted",
+"spanish":
+"noun":"divición (operador operador aritmético)",
+"du":"dividir, repartir, ",
+"es":"dividido, repartido",
+#
+"lexeme":"gwifo",
+"english":
+"noun":"writing, letter, symbol",
+"du":"write, compose",
+"es":"written, composed",
+"spanish":
+"noun":"escritura, escrito, ",
+"du":"escribir, redactar, ",
+"es":"escrito, redactado",
+#

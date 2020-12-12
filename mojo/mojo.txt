@@ -1,0 +1,2 @@
+nucleus: as (noun)
+	núcleo

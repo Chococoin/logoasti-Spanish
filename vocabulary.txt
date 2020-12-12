@@ -1400,7 +1400,7 @@
 "es":"seem, resemble, look like"
 #
 "lexeme":"sean-ika",
-"noun":"similarity, siimilitude, alikeness, affinity, resemblance, comparison, analogy, sameness"
+"noun":"similarity, similitude, alikeness, affinity, resemblance, comparison, analogy, sameness"
 #
 "lexeme":"difel",
 "noun":"difference",

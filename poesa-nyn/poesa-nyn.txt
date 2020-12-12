@@ -1,0 +1,4 @@
+poet: as (noun)
+	poeta
+bard: as (noun)
+	bardo

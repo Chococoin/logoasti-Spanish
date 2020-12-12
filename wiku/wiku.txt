@@ -1,0 +1,2 @@
+masculine: as (bi)
+	masculino

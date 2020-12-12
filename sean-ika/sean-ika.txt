@@ -1,0 +1,4 @@
+similarity: as (noun)
+	semejanza, parecido
+affinity: as (noun)
+	afinidad

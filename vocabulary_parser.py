@@ -40,6 +40,8 @@ def manual_entry_mode(wd):
     intext = input("(*) Manual Entry Mode: [{}] as [{}]\n(*)-> ".format(wd, token))
     if intext == "PAUSE":
         pause()
+    if intext == "BRK":
+        return "break"  
     else:
         traslated_list[token] += intext
     os.system('clear')
@@ -109,7 +111,6 @@ def standard_process(wrd, t_json, t_txt, to_trasl):
         print("Next word: [{}] to translate as [{}]".format(wrd, token))
         print("Gramatical Token: {} / Functional Label: {}".format(token, json['fl']))
         print("Proposed traduction: {}".format(json['shortdef']))
-        # manual_entry_mode(wrd)
 
 def pause():
     global no_pause

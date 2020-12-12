@@ -2359,7 +2359,7 @@
 "es":"concluded, produced",
 "spanish":
 "noun":"resultado, conclusión, consecuencia, desenlace, producto, producción",
-"du":"concluir, finalizar, terminar, ",
+"du":"concluir, finalizar, terminar",
 "es":"concluido, finalizado, acabado",
 #
 "lexeme":"kyndis",
@@ -2379,10 +2379,10 @@
 "es":"frosted, freezed",
 "bi":"cold, frosted, freezed",
 "spanish":
-"noun":"hielo, , helado, (helada), congelación, congelamiento, ",
-"du":"helar, congelar, ",
+"noun":"hielo, , helado, (helada), congelación, congelamiento",
+"du":"helar, congelar",
 "es":"congelado",
-"bi":"helado, congelado, ",
+"bi":"helado, congelado",
 #
 "lexeme":"kuni",
 "english":
@@ -2391,16 +2391,16 @@
 "es":"dug",
 "bi":"cavernous, hollow",
 "spanish":
-"noun":"cueva, caverna, cavidad, ",
-"du":"cavar, excavar, ",
+"noun":"cueva, caverna, cavidad",
+"du":"cavar, excavar",
 "es":"excavado",
-"bi":"cavernoso, hueco, ",
+"bi":"cavernoso, hueco",
 #
 "lexeme":"mojo",
 "english":
 "noun":"heart, nucleus, core, center, middle, kernel",
 "spanish":
-"noun":"corazón, centro, núcleo, centro, meollo, ",
+"noun":"corazón, centro, núcleo, centro, meollo",
 #
 "lexeme":"ponka",
 "english":
@@ -2410,7 +2410,9 @@
 "bi":"too few, too little, scarce",
 "spanish":
 "noun":"escasez, escaso",
-"bi":"",
+"du":"crear escasez",
+"es":"escaso",
+"bi":"demasiado poco, demasiado pequeño, escaso",
 #
 "lexeme":"lees",
 "english":
@@ -2467,7 +2469,7 @@
 "es":"held, taken, used, handled",
 "spanish":
 "noun":"mano, ",
-"du":"agarrar, manipular, ",
+"du":"agarrar, manipular",
 "es":"sostenido, manipulado, agarrado",
 #
 "lexeme":"bilo",
@@ -2482,15 +2484,15 @@
 "bi":"walk",
 "spanish":
 "noun":"pierna, pata (de un animal, de muebles), ",
-"bi":"caminar, ",
+"bi":"caminar",
 #
 "lexeme":"tolso",
 "english":
 "noun":"torso, trunk, stalk",
 "bi":"stand, stay erect",
 "spanish":
-"noun":"torso, tronco, tallo, ",
-"bi":"estar de pie, estar parado, ",
+"noun":"torso, tronco, tallo",
+"bi":"estar de pie, estar parado",
 #
 "lexeme":"selebu",
 "english":
@@ -2498,8 +2500,8 @@
 "du":"think",
 "es":"thought",
 "spanish":
-"noun":"cerebro, intelecto, cabeza, ingenio, ",
-"du":"pensar, ",
+"noun":"cerebro, intelecto, cabeza, ingenio",
+"du":"pensar",
 "es":"pensado",
 #
 "lexeme":"pede",
@@ -2509,10 +2511,10 @@
 "es":"kicked",
 "bi":"walk",
 "spanish":
-"noun":"pie, pezuña, pata, zarpa, base,  fundamento, ",
-"du":"patear, ",
+"noun":"pie, pezuña, pata, zarpa, base,  fundamento",
+"du":"patear",
 "es":"pateado",
-"bi":"caminado, recorrido, ",
+"bi":"caminado, recorrido",
 #
 "lexeme":"pis",
 "english":
@@ -2521,7 +2523,7 @@
 "es":"added",
 "spanish":
 "noun":"súma, adición (operador aritmético)",
-"du":"agregar, añadir, ",
+"du":"agregar, añadir",
 "es":"añadido, agredado",
 #
 "lexeme":"minus",
@@ -2531,7 +2533,7 @@
 "es":"subtracted",
 "spanish":
 "noun":"resta, sustracción (operador aritmético)",
-"du":"restar, sustraer, ",
+"du":"restar, sustraer",
 "es":"restado, sustraido",
 #
 "lexeme":"times",
@@ -2541,7 +2543,7 @@
 "es":"multiplid",
 "spanish":
 "noun":"multiplicación (operador aritmético)",
-"du":"multiplicar, ",
+"du":"multiplicar",
 "es":"multiplicado",
 #
 "lexeme":"deile",
@@ -2551,7 +2553,7 @@
 "es":"divided, splitted",
 "spanish":
 "noun":"divición (operador operador aritmético)",
-"du":"dividir, repartir, ",
+"du":"dividir, repartir",
 "es":"dividido, repartido",
 #
 "lexeme":"gwifo",
@@ -2560,7 +2562,110 @@
 "du":"write, compose",
 "es":"written, composed",
 "spanish":
-"noun":"escritura, escrito, ",
-"du":"escribir, redactar, ",
+"noun":"escritura, escrito",
+"du":"escribir, redactar",
 "es":"escrito, redactado",
+#
+"lexeme":"desin",
+"english":
+"noun":"drawing, painting",
+"du":"draw, paint",
+"es":"drawn, painted",
+"bi":"be a drawing, be a painting",
+"spanish":
+"noun":"dibujo, pintura (cuadro artistico)",
+"du":"dibujar, pintar",
+"es":"dibujado, pintado",
+#
+"lexeme":"punjo",
+"english":
+"noun":"combat, fight, battle, challenge",
+"du":"fight, attack, battle, challenge",
+"es":"fought, attacked, battled, challenged",
+"bi":"combat, in a fight",
+"spanish":
+"noun":"combate, lucha, pelea, disputa, batalla",
+"du":"luchar, cobatir, pelear, atacar, agredir",
+"es":"peleado, combatido, atacado, agredido",
+"bi":"combativo, combatiente",
+#
+"lexeme":"fule",
+"english":
+"noun":"full, charged",
+"du":"fill, charge, load",
+"es":"filled, charged, loaded",
+"bi":"full, busy, unavailable",
+"spanish":
+"noun":"completo, pleno",
+"du":"llenar, cargar",
+"es":"lleno, cargado, completado",
+"bi":"completo, ocupado, cargado",
+#
+"lexeme":"woide",
+"english":
+"noun":"void, empty, barren, emptied, drained, hollow",
+"du":"empty, clear, deplete, drain",
+"es":"emptied, cleared, depletet, drained",
+"bi":"empty, void",
+"spanish":
+"noun":"vacio, hueco",
+"du":"vaciar, drenar",
+"es":"vaciado",
+"bi":"vacio, hueco",
+#
+"lexeme":"palja",
+"english":
+"noun":"protection, cover, defense, armor",
+"du":"defend, protect",
+"es":"defended, protected",
+"bi":"safe",
+"spanish":
+"noun":"protección, cubierta, resguardo, defensa, escudo",
+"du":"defender, proteger",
+"es":"defendido, protegido",
+"bi":"seguro, protegido",
+#
+"lexeme":"kolge",
+"english":
+"noun":"collection, meeting",
+"du":"collect, gather",
+"es":"collected, gathered",
+"spanish":
+"noun":"colección, colecta, grupo (de personas)",
+"du":"recojer, reunir, juntar, coleccionar",
+"es":"recojido, reunido, coleccionado",
+#
+"lexeme":"sean",
+"english":
+"noun":"similitude, resemblance",
+"du":"seem, resemble, look like",
+"es":"seem, resemble, look like",
+"spanish":
+"noun":"similitud, parecido",
+"du":"parecer a, ser similar a",
+"es":"parecido, ",
+#
+"lexeme":"sean-ika",
+"english":
+"noun":"similarity, siimilitude, alikeness, affinity, resemblance, comparison, analogy, sameness",
+"spanish":
+"noun":"semejanza, parecido, afinidad, comparasión, analogía, ",
+#
+"lexeme":"difel",
+"english":
+"noun":"difference",
+"du":"differ",
+"es":"differ",
+"bi":"different, alien",
+"spanish":
+"noun":"diferencia, ",
+"du":"discrepar, diferir, no estar de acuerdo, ",
+"es":"diferenciado, diferente, ",
+"bi":"distinto, diferente, ",
+#
+"lexeme":"difel-ika",
+"english":
+"noun":"difference, contraposition, contrast",
+"spanish":
+"noun":"diferencia, contraposición, contraste",
 #

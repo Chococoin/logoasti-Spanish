@@ -2669,3 +2669,111 @@
 "spanish":
 "noun":"diferencia, contraposición, contraste",
 #
+"lexeme":"kalo",
+"english":
+"noun":"car, vehicle, automobile, bus, cab, jeep, truck",
+"du":"drive, conduct",
+"es":"driven, conducted",
+"spanish":
+"noun":"automóvil, carro, coche, vehículo, auto, ",
+"du":"manejar, conducir, ",
+"es":"conducido, manejado",
+#
+"lexeme":"intea",
+"english":
+"noun":"interior, inner, indoor, innards",
+"du":"go inside",
+"bi":"inside, in",
+"spanish":
+"noun":"interior, interno, bajo techo, ",
+"du":"ir dentro de",
+"bi":"adentro, dentro, ",
+#
+"lexeme":"fyla",
+"english":
+"noun":"out, outside, exterior",
+"du":"go outside",
+"bi":"outside, out",
+"spanish":
+"noun":"afuera, externo, exterior, ",
+"du":"ir afuera, salir de",
+"bi":"fuera, afuera",
+#
+"lexeme":"sito",
+"english":
+"noun":"chair, bench, nest, refuge",
+"du":"sit on",
+"bi":"sit, sitted",
+"se":"sit",
+"spanish":
+"noun":"silla, banco, escaño, banca, nido, refugio, ",
+"bi":"sentarse, posarse, sentado, posado",
+"se":"sentarse, posarse, ",
+#
+"lexeme":"pifo",
+"english":
+"noun":"softness, tenderness",
+"du":"soften",
+"es":"softened",
+"bi":"soft, weak, fluffy, comfortable, mellow",
+"se":"melt, dissolve",
+"spanish":
+"noun":"blandura, blando, suavidad, ternura, tierno",
+"du":"ablandar, suavizar, ",
+"bi":"suave, blando, esponjoso, cómodo, confortable, apacible, ",
+"se":"derretirse, disolverse, ablandarse, ",
+#
+"lexeme":"dago",
+"english":
+"noun":"strenght, force, sturdyness, solidity",
+"du":"strenghten, reinforce",
+"es":"strenghtened, reinforced",
+"bi":"hard, solid, strong, sturdy, dense",
+"se":"strenghten oneself, reinforce oneself",
+"spanish":
+"noun":"fuerza, resistencia, solidez, robustez",
+"du":"fortalecer, reforzar",
+"es":"fortalecido",
+"bi":"duro, solido, fuerte, robusto, denso, ",
+"se":"fortalecerse, reforzarse",
+#
+"lexeme":"botel",
+"english":
+"noun":"bottle, jar, jug",
+"du":"bottle",
+"es":"bottled",
+"spanish":
+"noun":"botella, frasco, ",
+"du":"embotellar, envasar, ",
+"es":"embotellado, envasado",
+#
+"lexeme":"fwio",
+"english":
+"noun":"cold, freeze, chill, cool, crisp",
+"du":"freeze",
+"es":"freezed",
+"bi":"cold",
+"spanish":
+"noun":"frío, helado, congelado, congelación, congelamiento, enfriamiento, fresco",
+"du":"helar, congelar, enfriar, refrescar",
+"es":"congelado, enfriado, refrescado, helado",
+"bi":"congelado, enfriado, refrescado, helado",
+#
+"lexeme":"fwio-eima",
+"english":
+"noun":"fridge, icebox",
+"spanish":
+"noun":"nevera, refrigeradora, heladera, frigo",
+#
+"lexeme":"kaldo",
+"english":
+"noun":"heat, calor",
+"du":"heat up",
+"es":"heaten up",
+"bi":"hot",
+"spanish":
+"noun":"calor, bochorno",
+"du":"calentar",
+"es":"calentado",
+"bi":"caliente",
+#

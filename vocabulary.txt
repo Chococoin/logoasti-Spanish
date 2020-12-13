@@ -1440,7 +1440,7 @@
 "se":"melt, dissolve"
 #
 "lexeme":"dago",
-"noun":"strenght, force, sturdyness, solidity",
+"noun":"strength, force, sturdyness, solidity",
 "du":"strenghten, reinforce",
 "es":"strenghtened, reinforced",
 "bi":"hard, solid, strong, sturdy, dense",

@@ -2777,3 +2777,95 @@
 "es":"calentado",
 "bi":"caliente",
 #
+"lexeme":"kaldo-ika",
+"english":
+"noun":"temperature, hotness, fever",
+"spanish":
+"noun":"temperatura, calentura, fiebre, ",
+#
+"lexeme":"latjo",
+"english":
+"noun":"relation, correspondence, ratio",
+"du":"relate with, correspond to",
+"es":"related with, correspond to",
+"spanish":
+"noun":"relación, correspondencia, proporción, ",
+"du":"relacionar, correlacionar",
+"es":"relacionado, correspondido",
+#
+"lexeme":"usjo",
+"english":
+"noun":"infinity, unlimitedness",
+"bi":"infinite, eternal, unlimited, unbounded",
+"spanish":
+"noun":"infinito, ilimitado, ",
+"bi":"infinito, sin límites, eterno, interminable, ilimitado, ",
+#
+"lexeme":"isi",
+"english":
+"noun":"beginning, incipit, start",
+"du":"start, begin",
+"es":"started, beginned",
+"spanish":
+"noun":"inicio, comienzo, origen, principio, ",
+"du":"comenzar, iniciar, originar, ",
+"es":"inizado, comenzado, originado",
+#
+"lexeme":"sulto",
+"english":
+"noun":"shake, swing, whip, wave",
+"du":"shake, whip",
+"es":"shaked, whipped",
+"spanish":
+"noun":"agitamiento, sacudida, temblor, ",
+"du":"sacudir, agitar, hacer temblar, ",
+"es":"agitado, sacudido, (temoroso)sacudirse, agitarse",
+#
+"lexeme":"kalpes",
+"english":
+"noun":"carpet, pavement, floor",
+"du":"step on, stomp, tread upon",
+"es":"stomped, stepped on, treaded upon",
+"spanish":
+"noun":"alfombra, pavimento, empedrado, suelo, piso, ",
+"du":"pisotear, caminar sobre",
+"es":"pisado, pisoteado",
+#
+"lexeme":"kuko",
+"english":
+"noun":"baking, cooking",
+"du":"cook, bake",
+"es":"cooked, baked",
+"spanish":
+"noun":"hornear",
+"du":"cocinar, hornear, ",
+"es":"cocinado, horneado",
+#
+"lexeme":"baton",
+"english":
+"noun":"stick, wand, crook, bat",
+"du":"club, hit with a stick",
+"es":"club, hitted with a stick",
+"spanish":
+"noun":"vara, báculo, bate, garrote",
+"du":"aporrear, dar garrotazos a",
+"es":"aporreado, apaleado",
+#
+"lexeme":"fussa",
+"english":
+"noun":"sweep, brush, broom, mop, besom",
+"du":"sweep, brush",
+"es":"sweeped, broomed",
+"spanish":
+"noun":"barrido, cepillo, brocha, pincel",
+"du":"barrer, mopear, cepillar",
+"es":"barrido, cepillado",
+#
+"lexeme":"wine",
+"english":
+"noun":"wine, liquor, booze",
+"bi":"drink wine",
+"spanish":
+"noun":"vino, licor, ",
+"bi":"beber vino/licor",
+#

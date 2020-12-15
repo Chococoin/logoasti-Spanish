@@ -2869,3 +2869,106 @@
 "noun":"vino, licor, ",
 "bi":"beber vino/licor",
 #
+"lexeme":"piwo",
+"english":
+"noun":"beer, lager, ale, booze",
+"bi":"drink beer",
+"spanish":
+"noun":"cerveza, licor",
+"bi":"beber cerveza/licor",
+#
+"lexeme":"open",
+"english":
+"noun":"opening, aperture, gap",
+"du":"open",
+"es":"opened",
+"bi":"open",
+"spanish":
+"noun":"apertura, brecha, rendija",
+"du":"abrir, ",
+"es":"abierto",
+"bi":"abierto, ",
+#
+"lexeme":"open-eima",
+"english":
+"noun":"key, screw, opener",
+"spanish":
+"noun":"llave, destapador, abrelatas, abridor, (tornillo), ",
+#
+"lexeme":"bale",
+"english":
+"noun":"barrel, can",
+"du":"tu barrel, put ina can",
+"es":"barreled, put in a can",
+"bi":"barreled, canned",
+"spanish":
+"noun":"barril, tonel, lata, envase",
+"du":"embarrilar, empacar, enlatar",
+"es":"embarrilado, empacado, enlatado",
+"bi":"embarrilado, empacado, enlatado",
+#
+"lexeme":"kolpo",
+"english":
+"noun":"hit, blow, punch, bang",
+"du":"hit, punch, bang",
+"es":"hit, punched, banged",
+"spanish":
+"noun":"golpe, impacto (de un arma)",
+"du":"golpear, impactar",
+"es":"golpeado, impactado",
+#
+"lexeme":"dynsa",
+"english":
+"noun":"dance, brawl, jive",
+"du":"dance at",
+"es":"danced at",
+"bi":"dance, brawl, jive",
+"spanish":
+"noun":"baile, danza, pelea, combate",
+"du":"bailar",
+"es":"bailar",
+"bi":"bailar, pelear",
+#
+"lexeme":"algu",
+"english":
+"noun":"argument, discuss",
+"du":"argue about, discuss",
+"es":"discussed",
+"bi":"discuss, argue",
+"spanish":
+"noun":"discusión, debate",
+"du":"discutir, debatir",
+"es":"discutido, debatido",
+"bi":"discutido, debatido",
+#
+"lexeme":"findo",
+"english":
+"noun":"find, acquisition, discovery",
+"du":"find, acquire, discover, get",
+"es":"found, acquired, discovered",
+"spanish":
+"noun":"hallazgo, adquisición, descubrimiento, ",
+"du":"encontrar, adquirir, descubrir, obtener, ",
+"es":"encontrado, adquirido, descubierto, obtenido",
+#
+"lexeme":"laito",
+"english":
+"noun":"milk",
+"du":"lactate",
+"es":"lactated",
+"spanish":
+"noun":"leche, ",
+"du":"lactar, amamantar",
+"es":"amamantada",
+#
+"lexeme":"gaden",
+"english":
+"noun":"garden",
+"du":"do gardening",
+"spanish":
+"noun":"jardín, ",
+"du":"hacer jardinería",
+#
+"lexeme":"lesto",
+"english":
+"noun":"ready",

@@ -1527,7 +1527,7 @@
 #
 "lexeme":"bale",
 "noun":"barrel, can",
-"du":"tu barrel, put ina can",
+"du":"to barrel, put ina can",
 "es":"barreled, put in a can",
 "bi":"barreled, canned"
 #

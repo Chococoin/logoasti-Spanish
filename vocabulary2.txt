@@ -4,19 +4,25 @@
 "du":"friend with",
 "spanish":
 "noun":"amigo",
-"du":"amigo de, ser amigo de",
+"du":"amigo de",
+#
+"italian":
+"noun":"amico",
+"du":"amico di"
 #
 "lexeme":"mi",
 "english":
 "noun":"me, we",
 "spanish":
 "noun":"me, mí, yo, nosotros, nosotras",
+"italian":
+"noun":"",
 #
 "lexeme":"ne",
 "english":
 "noun":"you",
 "spanish":
-"noun":"tú; vos —in some Latin American countries; ustedes; vosotros, vosotras, usted, ustedes, te, les (se before lo, la, los, las), os",
+"noun":"tú", "vos", "ustedes", "vosotros", "vosotras", "usted", "ustedes", "te", "les", "la", "los", "las", "os",
 #
 "lexeme":"sa",
 "english":
@@ -1205,7 +1211,7 @@
 "english":
 "noun":"west",
 "spanish":
-"noun":"al oeste, oeste, del oeste, occidental, oeste, el Oeste, el Occidente",
+"noun":"al oeste, oeste, del oeste, occidental, oeste, el Oeste, (el Occidente)",
 #
 "lexeme":"oto",
 "english":
@@ -2972,3 +2978,302 @@
 "lexeme":"lesto",
 "english":
 "noun":"ready",
+"du":"prepare, make ready, organize",
+"es":"prepared, made ready, organized",
+"bi":"ready, accessible, apt, organized",
+"spanish":
+"noun":"listo, preparado, confeccionado*, ",
+"du":"preparar, organizar, arreglar, poner en orden, ",
+"es":"preparado, organizado, listo, prepararse, organizarse",
+"bi":"listo, accesible, apto, preparado",
+#
+"lexeme":"bais",
+"english":
+"noun":"kiss",
+"du":"kiss",
+"es":"kissed",
+"spanish":
+"noun":"beso, ",
+"du":"besar, ",
+"es":"besado",
+#
+"lexeme":"danbo",
+"english":
+"noun":"stupidity, foolishness, idiocy",
+"bi":"stupid, dull, dumb, fool",
+"spanish":
+"noun":"tontería, estupidez, idiotez, ",
+"bi":"tonto, idiota, estúpido, bobo, gafo, ",
+#
+"lexeme":"espa",
+"english":
+"noun":"desire, hope, wish",
+"du":"desire, hope, wish, want",
+"es":"desired, wanted, coveted",
+"bi":"hopeful, desiderable",
+"spanish":
+"noun":"deseo, esperanza, anhelo",
+"du":"desear, esperar, querer, anhelar",
+"es":"querido, deseado, anhelado, esperado, codiciado",
+"bi":"esperanzador, deseable",
+#
+"lexeme":"kanbja",
+"english":
+"noun":"change, adjustment",
+"du":"change, modify, adjust",
+"es":"changed, modified, adjusted",
+"spanish":
+"noun":"cambio, ajuste, modifica, ",
+"du":"cambiar, modificar, ajustar, ",
+"es":"cambiado, ajustado, modificado",
+#
+"lexeme":"lenjo",
+"english":
+"noun":"wood (material)",
+"spanish":
+"noun":"madera",
+#
+"lexeme":"sole",
+"english":
+"noun":"sun",
+"spanish":
+"noun":"sol, ",
+#
+"lexeme":"mense",
+"english":
+"noun":"moon",
+"spanish":
+"noun":"luna, ",
+#
+"lexeme":"una-dje",
+"english":
+"noun":"monday",
+"spanish":
+"noun":"lunes",
+#
+"lexeme":"due-dje",
+"english":
+"noun":"tuesday",
+"spanish":
+"noun":"martes",
+#
+"lexeme":"tel-dje",
+"english":
+"noun":"wednesday",
+"spanish":
+"noun":"miércoles",
+#
+"lexeme":"kas-dje",
+"english":
+"noun":"thursday",
+"spanish":
+"noun":"jueves",
+#
+"lexeme":"pen-dje",
+"english":
+"noun":"friday",
+"spanish":
+"noun":"viernes",
+#
+"lexeme":"ses-dje",
+"english":
+"noun":"saturday",
+"spanish":
+"noun":"sabado",
+#
+"lexeme":"ete-dje",
+"english":
+"noun":"sunday",
+"spanish":
+"noun":"domingo",
+#
+"lexeme":"pyntan.isi",
+"english":
+"noun":"march (month)",
+"spanish":
+"noun":"marzo",
+#
+"lexeme":"pyntan.nukel",
+"english":
+"noun":"april",
+"spanish":
+"noun":"abril",
+#
+"lexeme":"pyntan.koda",
+"english":
+"noun":"may (month)",
+"spanish":
+"noun":"mayo",
+#
+"lexeme":"samel.isi",
+"english":
+"noun":"june",
+"spanish":
+"noun":"junio",
+#
+"lexeme":"samel.nukel",
+"english":
+"noun":"july",
+"spanish":
+"noun":"julio",
+#
+"lexeme":"samel.koda",
+"english":
+"noun":"august",
+"spanish":
+"noun":"agosto",
+#
+"lexeme":"autun.isi",
+"english":
+"noun":"september",
+"spanish":
+"noun":"septiembre",
+#
+"lexeme":"autun.nukel",
+"english":
+"noun":"october",
+"spanish":
+"noun":"octubre",
+#
+"lexeme":"autun.koda",
+"english":
+"noun":"november",
+"spanish":
+"noun":"noviembre",
+#
+"lexeme":"winta.isi",
+"english":
+"noun":"december",
+"spanish":
+"noun":"diciembre",
+#
+"lexeme":"winta.nukel",
+"english":
+"noun":"january",
+"spanish":
+"noun":"enero",
+#
+"lexeme":"winta.koda",
+"english":
+"noun":"february",
+"spanish":
+"noun":"febrero",
+#
+"lexeme":"massa",
+"english":
+"noun":"mass, weight",
+"du":"weight",
+"es":"weighted",
+"bi":"weight, burden",
+"se":"weight oneself",
+"spanish":
+"noun":"masa, mole, volumen, ",
+#
+"lexeme":"folma",
+"english":
+"noun":"shape, mould, form, model",
+"du":"give shape, forge, form, model",
+"es":"given shape, forgotten, formed, modelled",
+"spanish":
+"noun":"forma, figura, modelo, (molde), ",
+"du":"modelar, formar, forjar , ",
+"es":"modelado, formado, (olvidado)",
+#
+"lexeme":"folma-ika",
+"english":
+"noun":"formula, equation, form",
+"du":"formulate",
+"es":"formulated",
+"spanish":
+"noun":"fórmula, ecuación, (formulario), ",
+"du":"formular, ",
+"es":"formulado",
+#
+"lexeme":"bamo",
+"english":
+"noun":"branch, ramification",
+"du":"ramify, ramificate",
+"es":"ramified",
+"bi":"ramified",
+"spanish":
+"noun":"rama, ramificación, ",
+"du":"ramificar, bifurcar, PASS",
+"es":"ramificado",
+"bi":"bifurcado",
+#
+"lexeme":"fumo",
+"english":
+"noun":"smoke",
+"du":"smoke",
+"es":"smoked",
+"bi":"smoking",
+"spanish":
+"noun":"humo, ",
+"du":"echar humo, humear, fumar, ahumar(carne), ",
+"es":"fumado, (ahumado), ",
+"bi":"humo",
+#
+"lexeme":"naso",
+"english":
+"noun":"nose, beak",
+"du":"smell",
+"es":"smelled",
+"spanish":
+"noun":"nariz, hocico, olfato, (sentido del olfato), pico",
+"du":"oler, olfatear",
+"es":"olido, olfateado",
+#
+"lexeme":"wiso",
+"english":
+"noun":"face, visage",
+"spanish":
+"noun":"cara, rostro",
+#
+"lexeme":"faga",
+"english":
+"noun":"front, facade",
+"du":"in front of",
+"es":"in front of",
+"spanish":
+"noun":"frente, fachada, ",
+"du":"al frente de",
+"es":"al frente de",
+#
+"lexeme":"duko",
+"english":
+"noun":"guide, conduction, leadership",
+"du":"guide, conduct, lead",
+"es":"guided, conducted, lead",
+"spanish":
+"noun":"guía, conducción, mando, liderazgo",
+"du":"guiar, dirigir, conducir, orientar, (aconsejar), ",
+"es":"guiado, conducido, orientado",
+#
+"lexeme":"duko-nyn",
+"english":
+"noun":"leader, chief, director, head, boss, captain, conductor",
+"spanish":
+"noun":"líder, jefe, dirigente, gobernante, principal, director, capitán, ",
+#
+"lexeme":"kenna",
+"english":
+"noun":"teaching, advice, education",
+"du":"teach, advise, educate",
+"es":"taught, advised, educated",
+"spanish":
+"noun":"enseñanza, consejo, educación, recomendación",
+"du":"enseñar, aconsejar, educar, recomendar, asesorar",
+"es":"enseñado, educadoaconsejado",
+#
+"lexeme":"gito",
+"english":
+"noun":"ripping, stripping, removal, detachment",
+"du":"rip, strip, remove, take away, detach",
+"es":"ripped, stripped, removed, detached",
+"bi":"bare",
+"spanish":
+"noun":"rasgónrotura, extracción, separación, eliminación, ",
+"du":"rasgar, arrancar, desgarrar, remover, quitar, desprender, ",
+"es":"rasgado, arrancado, desgarrado, removido, desprendido, quitado",
+"bi":"desnudo, descubierto, sin protección, ",
+#

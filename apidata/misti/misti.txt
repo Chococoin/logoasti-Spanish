@@ -1,0 +1,4 @@
+arcane: as (bi)
+	arcano, secreto, misterioso
+miraculous: as (bi)
+	milagroso

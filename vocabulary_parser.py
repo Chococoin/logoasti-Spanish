@@ -17,8 +17,8 @@ def spanish_traslations(lsta):
 
 
 def traslate_to_memory(to_traslate):
-    to_json = open("./"+lex.strip('"') + "/" +(lex.strip('"') + ".json"), 'w')
-    to_txt  = open("./"+lex.strip('"') + "/" +(lex.strip('"') + ".txt"), 'w')
+    to_json = open("./apidata/"+lex.strip('"') + "/" +(lex.strip('"') + ".json"), 'w')
+    to_txt  = open("./apidata/"+lex.strip('"') + "/" +(lex.strip('"') + ".txt"), 'w')
     for words in to_traslate:
         wrd = words.strip().strip('"')
         wrd = wrd.lstrip(" ")

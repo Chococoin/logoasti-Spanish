@@ -1,0 +1,2 @@
+difficult: as (bi)
+	difícil

@@ -1,0 +1,5 @@
+outside:1: as (bi)
+	fuera, afuera
+outside:2: as (bi)
+	exterior, externo
+	remote : remoto

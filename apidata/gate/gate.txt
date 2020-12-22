@@ -1,0 +1,2 @@
+gate: as (noun)
+	portón, verja, puerta

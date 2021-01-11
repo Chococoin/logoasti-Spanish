@@ -3359,4 +3359,66 @@
 "du":"embotellar, envasar",
 "es":"ebotellado, envasado"
 #
-
+"lexeme":"fwio",
+"english":
+"noun":"cold, freeze, chill, cool, crisp",
+"du":"freeze",
+"es":"freezed",
+"bi":"cold",
+"spanish":
+"noun":"frío, helado, congelado, congelación, congelamiento, gélido",
+"du":"congelar, helar",
+"bi":"helado, congelado, frío",
+#
+"lexeme":"fwio-eima",
+"english":
+"noun":"fridge, icebox",
+"spanish":
+"noun":"nevera, frigorifero",
+#
+"lexeme":"kaldo",
+"english":
+"noun":"heat, calor",
+"du":"heat up",
+"es":"heaten up",
+"bi":"hot",
+"spanish":
+"noun":"calor, calefacción",
+"du":"calentar",
+"es":"calentado",
+"bi":"calentar",
+#
+"lexeme":"kaldo-ika",
+"english":
+"noun":"temperature, hotness, fever",
+"spanish":
+"noun":"temperatura, calentura, fiebre",
+#
+"lexeme":"latjo",
+"english":
+"noun":"relation, correspondence, ratio",
+"du":"relate with, correspond to",
+"es":"related with, correspond to",
+"spanish":
+"noun":"correspondencia, proporción, relación",
+"du":"relacionado a, correspondiente a",
+"es":"relativo a, correspectivo a",
+#
+"lexeme":"usjo",
+"english":
+"noun":"infinity, unlimitedness",
+"bi":"infinite, eternal, unlimited, unbounded",
+"spanish":
+"noun":"infinito, infinidad, inlimitado",
+"bi":"infitino, eterno, ilimitado, interminable",
+#
+"lexeme":"isi",
+"english":
+"noun":"beginning, incipit, start",
+"du":"start, begin",
+"es":"started, beginned",
+"spanish":
+"noun":"principio, comienzo",
+"du":"iniciar, empezar, comenzar",
+"es":"iniciado, empezado, comenzado",
+#

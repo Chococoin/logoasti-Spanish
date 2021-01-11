@@ -3167,7 +3167,11 @@
 "bi":"weight, burden",
 "se":"weight oneself",
 "spanish":
-"noun":"masa, mole, volumen, ",
+"noun":"masa, mole, volumen",
+"du":"***",
+"es":"***",
+"bi":"***",
+"se":"***",
 #
 "lexeme":"folma",
 "english":
@@ -3175,8 +3179,8 @@
 "du":"give shape, forge, form, model",
 "es":"given shape, forgotten, formed, modelled",
 "spanish":
-"noun":"forma, figura, modelo, (molde), ",
-"du":"modelar, formar, forjar , ",
+"noun":"forma, figura, modelo, (molde)",
+"du":"modelar, formar, forjar",
 "es":"modelado, formado, (olvidado)",
 #
 "lexeme":"folma-ika",
@@ -3185,7 +3189,7 @@
 "du":"formulate",
 "es":"formulated",
 "spanish":
-"noun":"fórmula, ecuación, (formulario), ",
+"noun":"fórmula, ecuación, (formulario)",
 "du":"formular, ",
 "es":"formulado",
 #
@@ -3196,8 +3200,8 @@
 "es":"ramified",
 "bi":"ramified",
 "spanish":
-"noun":"rama, ramificación, ",
-"du":"ramificar, bifurcar, PASS",
+"noun":"rama, ramificación",
+"du":"ramificar, bifurcar",
 "es":"ramificado",
 "bi":"bifurcado",
 #
@@ -3209,7 +3213,7 @@
 "bi":"smoking",
 "spanish":
 "noun":"humo, ",
-"du":"echar humo, humear, fumar, ahumar(carne), ",
+"du":"echar humo, humear, fumar, ahumar(carne)",
 "es":"fumado, (ahumado), ",
 "bi":"humo",
 #
@@ -3235,7 +3239,7 @@
 "du":"in front of",
 "es":"in front of",
 "spanish":
-"noun":"frente, fachada, ",
+"noun":"frente, fachada",
 "du":"al frente de",
 "es":"al frente de",
 #
@@ -3246,14 +3250,14 @@
 "es":"guided, conducted, lead",
 "spanish":
 "noun":"guía, conducción, mando, liderazgo",
-"du":"guiar, dirigir, conducir, orientar, (aconsejar), ",
+"du":"guiar, dirigir, conducir, orientar, (aconsejar)",
 "es":"guiado, conducido, orientado",
 #
 "lexeme":"duko-nyn",
 "english":
 "noun":"leader, chief, director, head, boss, captain, conductor",
 "spanish":
-"noun":"líder, jefe, dirigente, gobernante, principal, director, capitán, ",
+"noun":"líder, jefe, dirigente, gobernante, principal, director, capitán",
 #
 "lexeme":"kenna",
 "english":
@@ -3272,8 +3276,87 @@
 "es":"ripped, stripped, removed, detached",
 "bi":"bare",
 "spanish":
-"noun":"rasgónrotura, extracción, separación, eliminación, ",
-"du":"rasgar, arrancar, desgarrar, remover, quitar, desprender, ",
+"noun":"rasgón, rotura, extracción, separación, eliminación",
+"du":"rasgar, arrancar, desgarrar, remover, quitar, desprender",
 "es":"rasgado, arrancado, desgarrado, removido, desprendido, quitado",
 "bi":"desnudo, descubierto, sin protección, ",
 #
+"lexeme":"kalo",
+"english":
+"noun":"car, vehicle, automobile, bus, cab, jeep, truck",
+"du":"drive, conduct",
+"es":"driven, conducted",
+"spanish":
+"noun":"automóvil, carro, coche, vehículo', auto, autobús, camión, jeep, ",
+"du":"manejar, conducir, ",
+"es":"manejado, conducido",
+#
+"lexeme":"intea",
+"english":
+"noun":"interior, inner, indoor, innards",
+"du":"go inside",
+"bi":"inside, in",
+"spanish":
+"noun":"interior, interno, (entrañas, tripas)",
+"bi":"adentro, dentro",
+#
+"lexeme":"fyla",
+"english":
+"noun":"out, outside, exterior",
+"du":"go outside",
+"bi":"outside, out",
+"spanish":
+"noun":"fuera, afuera, para afuera, externo, exterior', ",
+"du":"salir",
+"bi":"afuera, salido, ",
+#
+"lexeme":"sito",
+"english":
+"noun":"chair, bench, nest, refuge",
+"du":"sit on",
+"bi":"sit, sitted",
+"se":"sit",
+"spanish":
+"noun":"silla, sillón, butaca, banco, escaño, banca, nido, refugio",
+"bi":"sentado",
+"se":"sentarse",
+#
+"lexeme":"pifo",
+"english":
+"noun":"softness, tenderness",
+"du":"soften",
+"es":"softened",
+"bi":"soft, weak, fluffy, comfortable, mellow",
+"se":"melt, dissolve",
+"spanish":
+"noun":"blandura, suavidad, ternura, cariñoso",
+"du":"suavizar, ablandar, ",
+"es":"ablandado, suavisado, amortiguado",
+"bi":"aflojado, confortable, ",
+"se":"ablandarse, ",
+#
+"lexeme":"dago",
+"english":
+"noun":"strength, force, sturdyness, solidity",
+"du":"strenghten, reinforce",
+"es":"strenghtened, reinforced",
+"bi":"hard, solid, strong, sturdy, dense",
+"se":"strenghten oneself, reinforce oneself",
+"spanish":
+"noun":"fuerza,  poder, fuerza, fortaleza, robustez",
+"du":"fortalecer, reforzar",
+"es":"fortalecido, renforzado",
+"bi":"fuerte, solido, duro, denso, robusto, macizo",
+"se":"fortalecerse, renforzarse",
+#
+"lexeme":"botel",
+"english":
+"noun":"bottle, jar, jug",
+"du":"bottle",
+"es":"bottled",
+"spanish":
+"noun":"botella, envase, botella, frasco, tarro, bote, pote, jarra, jarro, cántaro",
+"du":"embotellar, envasar",
+"es":"ebotellado, envasado"
+#
+

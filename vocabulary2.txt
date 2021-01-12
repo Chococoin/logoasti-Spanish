@@ -403,7 +403,8 @@
 "noun":"or",
 "notes:"notes"
 "special:"c"
-#"lexeme":"jaku",
+#
+"lexeme":"jaku",
 "english":
 "noun":"haste, speed, velocity",
 "du":"speed up, boost, accelerate, quicken",
@@ -2823,9 +2824,9 @@
 "du":"shake, whip",
 "es":"shaked, whipped",
 "spanish":
-"noun":"agitamiento, sacudida, temblor, ",
-"du":"sacudir, agitar, hacer temblar, ",
-"es":"agitado, sacudido, (temoroso)sacudirse, agitarse",
+"noun":"sacudida, agitamiento, temblor, sacudida, balanceo, azote, chasqueo, ondeo, agitación",
+"du":"sacudir, agitar, hacer temblar, balancear, azotar, chasquear, hacer restallar (un látigo), ondear",
+"es":"sacudido, agitado, azotado, (temeroso),",
 #
 "lexeme":"kalpes",
 "english":
@@ -3280,145 +3281,4 @@
 "du":"rasgar, arrancar, desgarrar, remover, quitar, desprender",
 "es":"rasgado, arrancado, desgarrado, removido, desprendido, quitado",
 "bi":"desnudo, descubierto, sin protección, ",
-#
-"lexeme":"kalo",
-"english":
-"noun":"car, vehicle, automobile, bus, cab, jeep, truck",
-"du":"drive, conduct",
-"es":"driven, conducted",
-"spanish":
-"noun":"automóvil, carro, coche, vehículo', auto, autobús, camión, jeep, ",
-"du":"manejar, conducir, ",
-"es":"manejado, conducido",
-#
-"lexeme":"intea",
-"english":
-"noun":"interior, inner, indoor, innards",
-"du":"go inside",
-"bi":"inside, in",
-"spanish":
-"noun":"interior, interno, (entrañas, tripas)",
-"bi":"adentro, dentro",
-#
-"lexeme":"fyla",
-"english":
-"noun":"out, outside, exterior",
-"du":"go outside",
-"bi":"outside, out",
-"spanish":
-"noun":"fuera, afuera, para afuera, externo, exterior', ",
-"du":"salir",
-"bi":"afuera, salido, ",
-#
-"lexeme":"sito",
-"english":
-"noun":"chair, bench, nest, refuge",
-"du":"sit on",
-"bi":"sit, sitted",
-"se":"sit",
-"spanish":
-"noun":"silla, sillón, butaca, banco, escaño, banca, nido, refugio",
-"bi":"sentado",
-"se":"sentarse",
-#
-"lexeme":"pifo",
-"english":
-"noun":"softness, tenderness",
-"du":"soften",
-"es":"softened",
-"bi":"soft, weak, fluffy, comfortable, mellow",
-"se":"melt, dissolve",
-"spanish":
-"noun":"blandura, suavidad, ternura, cariñoso",
-"du":"suavizar, ablandar, ",
-"es":"ablandado, suavisado, amortiguado",
-"bi":"aflojado, confortable, ",
-"se":"ablandarse, ",
-#
-"lexeme":"dago",
-"english":
-"noun":"strength, force, sturdyness, solidity",
-"du":"strenghten, reinforce",
-"es":"strenghtened, reinforced",
-"bi":"hard, solid, strong, sturdy, dense",
-"se":"strenghten oneself, reinforce oneself",
-"spanish":
-"noun":"fuerza,  poder, fuerza, fortaleza, robustez",
-"du":"fortalecer, reforzar",
-"es":"fortalecido, renforzado",
-"bi":"fuerte, solido, duro, denso, robusto, macizo",
-"se":"fortalecerse, renforzarse",
-#
-"lexeme":"botel",
-"english":
-"noun":"bottle, jar, jug",
-"du":"bottle",
-"es":"bottled",
-"spanish":
-"noun":"botella, envase, botella, frasco, tarro, bote, pote, jarra, jarro, cántaro",
-"du":"embotellar, envasar",
-"es":"ebotellado, envasado"
-#
-"lexeme":"fwio",
-"english":
-"noun":"cold, freeze, chill, cool, crisp",
-"du":"freeze",
-"es":"freezed",
-"bi":"cold",
-"spanish":
-"noun":"frío, helado, congelado, congelación, congelamiento, gélido",
-"du":"congelar, helar",
-"bi":"helado, congelado, frío",
-#
-"lexeme":"fwio-eima",
-"english":
-"noun":"fridge, icebox",
-"spanish":
-"noun":"nevera, frigorifero",
-#
-"lexeme":"kaldo",
-"english":
-"noun":"heat, calor",
-"du":"heat up",
-"es":"heaten up",
-"bi":"hot",
-"spanish":
-"noun":"calor, calefacción",
-"du":"calentar",
-"es":"calentado",
-"bi":"calentar",
-#
-"lexeme":"kaldo-ika",
-"english":
-"noun":"temperature, hotness, fever",
-"spanish":
-"noun":"temperatura, calentura, fiebre",
-#
-"lexeme":"latjo",
-"english":
-"noun":"relation, correspondence, ratio",
-"du":"relate with, correspond to",
-"es":"related with, correspond to",
-"spanish":
-"noun":"correspondencia, proporción, relación",
-"du":"relacionado a, correspondiente a",
-"es":"relativo a, correspectivo a",
-#
-"lexeme":"usjo",
-"english":
-"noun":"infinity, unlimitedness",
-"bi":"infinite, eternal, unlimited, unbounded",
-"spanish":
-"noun":"infinito, infinidad, inlimitado",
-"bi":"infitino, eterno, ilimitado, interminable",
-#
-"lexeme":"isi",
-"english":
-"noun":"beginning, incipit, start",
-"du":"start, begin",
-"es":"started, beginned",
-"spanish":
-"noun":"principio, comienzo",
-"du":"iniciar, empezar, comenzar",
-"es":"iniciado, empezado, comenzado",
 #

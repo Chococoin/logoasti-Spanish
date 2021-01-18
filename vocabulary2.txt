@@ -3695,9 +3695,9 @@
 "bi":"dubious, curious",
 "spanish":
 "noun":"pregunta, cuestión, ",
-"du":"preguntar, cuestionar, indagar, investigar, ",
+"du":"preguntar, cuestionar, indagar, investigar",
 "es":"preguntado, interrogado, (pedido)",
-"bi":"dudoso, indeciso, , curioso, ",
+"bi":"dudoso, indeciso, curioso",
 #
 "lexeme":"tuje",
 "english":
@@ -3712,6 +3712,54 @@
 "noun":"laugh",
 "bi":"laugh",
 "spanish":
-"noun":"risa, ",
+"noun":"risa",
 "bi":"reír, ",
+#
+"lexeme":"isu",
+"english":
+"noun":"smile",
+"bi":"smile",
+"spanish":
+"noun":"sonrisa",
+"bi":"sonreír",
+#
+"lexeme":"wopa",
+"english":
+"noun":"jump, hop, leap",
+"du":"jump over, jump across",
+"bi":"jump, leap, spring, bounce",
+"spanish":
+"noun":"salto, brinco",
+"du":"saltar, brincar",
+"bi":"saltado, brincado, rebotado",
+#
+"lexeme":"epas",
+"english":
+"noun":"prayer, worship",
+"du":"pray, worship",
+"es":"prayed, worshipped",
+"bi":"pray, worship",
+"spanish":
+"noun":"rezo, rezador, adoración, culto",
+"du":"rezar, rogar, adorar, venerar",
+"es":"rezado, adorado, venerado",
+"bi":"rezado, venerado",
+#
+"lexeme":"kilas",
+"english":
+"noun":"caress",
+"du":"fondle, caress, cuddle",
+"spanish":
+"noun":"caricia, ",
+"du":"acariciar,  acurrucar, ",
+#
+"lexeme":"apwa",
+"english":
+"noun":"discovery, learning",
+"du":"learn, get, discover",
+"es":"learnt, discovered",
+"spanish":
+"noun":"descubrimiento, erudición, saber",
+"du":"aprender, adquirir, descubrir",
+"es":"aprendido, descubierto",
 #

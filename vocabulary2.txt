@@ -3763,3 +3763,194 @@
 "du":"aprender, adquirir, descubrir",
 "es":"aprendido, descubierto",
 #
+"lexeme":"futi",
+"english":
+"noun":"vigilation, awareness, consciousness",
+"du":"wake up, rise, soar",
+"bi":"attentive, aware, conscious",
+"spanish":
+"noun":"vigilia, despertar, conciencia, conocimiento",
+"du":"despertar, levantarse",
+"bi":"atento, consciente",
+#
+"lexeme":"ume",
+"english":
+"noun":"emotion, feeling, sentiment",
+"du":"feel",
+"es":"felt",
+"bi":"emotional, sentimental",
+"spanish":
+"noun":"emoción, sentimiento, sensación, sensibilidad",
+"du":"sentir",
+"es":"sentido",
+"bi":"emocional, afectivo, emotivo, sensible, conmovedor, sentimental",
+#
+"lexeme":"oljo",
+"english":
+"noun":"oil",
+"du":"oil",
+"es":"oiled",
+"bi":"viscid",
+"spanish":
+"noun":"aceite, , petróleo, ",
+"du":"lubricar, engrasar, aceitar",
+"es":"lubrificado, aceitado",
+"bi":"viscoso",
+#
+"lexeme":"bjuna",
+"english":
+"noun":"pression",
+"du":"push, press, squeeze",
+"es":"pushed, pressed",
+"spanish":
+"noun":"presión",
+"du":"empujar, prensar, apretar, exprimir",
+"es":"empujado, apretado",
+#
+"lexeme":"isa",
+"english":
+"noun":"lure, attraction",
+"du":"pull, lure, drag, attract",
+"es":"pulled, lured, dragged, attracted",
+"spanish":
+"noun":"atracción, atractivo",
+"du":"atraer, tirar, arrastar",
+"es":"jalado, atraido, arrastrado, tirado",
+#
+"lexeme":"olko",
+"english":
+"noun":"order, arrangement, classification, regulation",
+"du":"organize, manage, arrange, classify, regulate",
+"es":"organized, managed, arranged, classified, regulated",
+"spanish":
+"noun":"orden, arreglo, clasificación, regulación, (norma), ",
+"du":"organizar, arreglar, poner en orden, clasificar, regular",
+"es":"organizado, arreglado, ordenado, regulado, clasificado",
+#
+"lexeme":"mules",
+"english":
+"noun":"mouse, roditor",
+"spanish":
+"noun":"ratón, roedor",
+#
+"lexeme":"sypa",
+"english":
+"noun":"soup, stew, broth",
+"spanish":
+"noun":"sopa, guiso, caldo, estofado",
+#
+"lexeme":"falno",
+"english":
+"noun":"flour, crumble, grate",
+"spanish":
+"noun":"harina, migaja, ",
+#
+"lexeme":"sipe",
+"english":
+"noun":"drink, beverage",
+"du":"sip, swallow",
+"es":"sipped, swallowed",
+"spanish":
+"noun":"bebida, ",
+"du":"sorber, tragar, ",
+"es":"sorbido, tragado",
+#
+"lexeme":"pjanta",
+"english":
+"noun":"plant, bush, vegetable",
+"du":"plant",
+"es":"planted",
+"spanish":
+"noun":"planta, arbusto, vegetal, mata, ",
+"du":"plantar, ",
+"es":"plantado, sembrado",
+#
+"lexeme":"pjanta-asai",
+"english":
+"noun":"forest, wilderness",
+"spanish":
+"noun":"bosque, selva, foresta",
+#
+"lexeme":"eguni",
+"english":
+"noun":"fire, flame",
+"du":"to burn, to put on fire",
+"es":"burned",
+"bi":"burning, ardent",
+"spanish":
+"noun":"fuego, flama, llama",
+"du":"quemar, hacer arder",
+"es":"quemado",
+"bi":"quemado, ardiente, fogoso",
+#
+"lexeme":"toten",
+"english":
+"noun":"death",
+"du":"kill, assassinate",
+"es":"die, killed, assassinated",
+"bi":"dead",
+"se":"commit suicide, kill oneself",
+"spanish":
+"noun":"muerte, fallecimiento, muerto, ",
+"du":"matar, asesinar, ",
+"es":"muerto, asesinado",
+"bi":"muerto, fallecido, ",
+"se":"suicidarse",
+#
+"lexeme":"maska",
+"english":
+"noun":"mask, camouflage, disguise, conceal",
+"du":"mask, disguise, conceal",
+"es":"masked, disguised, concealed",
+"bi":"hidden, concealed",
+"spanish":
+"noun":"máscara, camuflaje, disfraz, disimulo",
+"du":"enmascarar, ocultar, cubrir, disfrazar, encubrir, disimular",
+"es":"enmascarado, encubierto, disfrazado, disimulado",
+"bi":"oculto, escondido",
+#
+"lexeme":"maska-ika",
+"english":
+"noun":"hoax, subterfuge",
+"du":"conceal, dissimulate",
+"es":"concealed, dissimulated",
+"bi":"concealed, dissimulated",
+"spanish":
+"noun":"engaño, embauque, subterfugio",
+"du":"disimular",
+"es":"escondido, oculto, disimulado",
+"bi":"escondido, disimulado",
+#
+"lexeme":"poa",
+"english":
+"noun":"breath, respiration",
+"du":"breath",
+"es":"breathed",
+"bi":"breath",
+"spanish":
+"noun":"aliento, respiro, respiración",
+"du":"respirar",
+"es":"respirado",
+#
+"lexeme":"nage",
+"english":
+"bi":"swim",
+"spanish":
+"bi":"bañado",
+#
+"lexeme":"usun",
+"english":
+"noun":"depth",
+"bi":"deep, abysmal, bottomless",
+"se":"sink, plow",
+"spanish":
+"noun":"profundidad, ",
+"bi":"hundir, aprofundir, profundizar, ",
+"se":"hundirse, ",
+#
+"lexeme":"usun-asai",
+"english":
+"noun":"abyss, depth, void, chasm",
+"spanish":
+"noun":"abismo, profundidad, vacío, ",
+#

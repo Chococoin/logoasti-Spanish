@@ -3944,13 +3944,113 @@
 "bi":"deep, abysmal, bottomless",
 "se":"sink, plow",
 "spanish":
-"noun":"profundidad, ",
-"bi":"hundir, aprofundir, profundizar, ",
-"se":"hundirse, ",
+"noun":"profundidad",
+"bi":"hundir, aprofundir, profundizar",
+"se":"hundirse",
 #
 "lexeme":"usun-asai",
 "english":
 "noun":"abyss, depth, void, chasm",
 "spanish":
-"noun":"abismo, profundidad, vacío, ",
+"noun":"abismo, profundidad, vacío",
+#
+"lexeme":"tiko",
+"english":
+"noun":"finger, denotation",
+"du":"finger, denote",
+"es":"fingered, denoted",
+"bi":"finger",
+"spanish":
+"noun":"dedo, denotación",
+"du":"señalar, denotar",
+"es":"señalado, indicado, denotado",
+"bi":"(dedo)",
+#
+"lexeme":"sele",
+"english":
+"noun":"sale",
+"du":"sell",
+"es":"sold",
+"spanish":
+"noun":"venta, ",
+"du":"vender, ",
+"es":"vendido",
+#
+"lexeme":"bojo",
+"english":
+"noun":"buying",
+"du":"buy",
+"es":"bought",
+"spanish":
+"noun":"compra",
+"du":"comprar, ",
+"es":"comprado",
+#
+"lexeme":"nosko",
+"english":
+"noun":"acquaintance",
+"du":"know, meet",
+"es":"known, met",
+"bi":"known, familiar",
+"spanish":
+"noun":"conocido (persona), ",
+"du":"conocer, encontrar, ",
+"es":"conocido, presentado, conocido, presentado",
+"bi":"conocido, familiar, ",
+#
+"lexeme":"njamu",
+"english":
+"noun":"taste, aroma",
+"du":"taste",
+"es":"tasted",
+"spanish":
+"noun":"sabor, gusto, aroma",
+"du":"degustar, catar, probar (alimentos), saborear",
+"es":"saboreado, probado",
+#
+"lexeme":"konbe",
+"english":
+"noun":"attachment, combination",
+"du":"attach, combine",
+"es":"attached, combined",
+"spanish":
+"noun":"accesorio, combinación",
+"du":"juntar, adjuntar, combinar, aunar",
+"es":"adjunto, sujeto, atado, combinado",
+#
+"lexeme":"tala.jaku",
+"english":
+"bi":"run",
+"spanish":
+"bi":"corrido*",
+#
+"lexeme":"este-ika",
+"english":
+"noun":"truth",
+"du":"make true",
+"es":"made true",
+"bi":"true",
+"spanish":
+"noun":"verdad",
+"du":"realizar",
+"es":"realizado",
+"bi":"real",
+#
+"lexeme":"nul-ika",
+"english":
+"noun":"falsity",
+"du":"make false",
+"es":"made false",
+"bi":"false",
+"spanish":
+"noun":"falsedad",
+"du":"falsear",
+"es":"falsificado",
+"bi":"falso, (postizo)",
+#
+"lexeme":"selea",
+"english":
+"noun":"cereal, grain, rice",
+"spanish":
+"noun":"cereal, grano, arroz",
 #

@@ -917,7 +917,7 @@
 "es":"said, spoke",
 "bi":"talkative, loquacious, eloquent",
 "spanish":
-"noun":"hablar, charlar, platicar, conversar, (discurso), lenguajediscurso",
+"noun":"hablar, charlar, platicar, conversar, (discurso), lenguaje, discurso",
 "du":"decir, hablar, gritar",
 "es":"decir, hablar",
 "bi":"locuaz, parlanchín, charlatán",
@@ -3281,4 +3281,437 @@
 "du":"rasgar, arrancar, desgarrar, remover, quitar, desprender",
 "es":"rasgado, arrancado, desgarrado, removido, desprendido, quitado",
 "bi":"desnudo, descubierto, sin protección, ",
+#
+"lexeme":"buka",
+"english":
+"noun":"hole",
+"du":"dig, excavate, perforate",
+"es":"dug, excavated, perforated",
+"bi":"hollow",
+"spanish":
+"noun":"agujero, hoyo, ",
+"du":"cavar, excavar, excavar, perforar, ",
+"es":"escavado, perforado, excavado",
+"bi":"hueco, perforado, escavado",
+#
+"lexeme":"misti",
+"english":
+"noun":"mystery, miracle",
+"bi":"arcane, mystic, miraculous",
+"spanish":
+"noun":"misterio, milagro, ",
+"bi":"arcano, secreto, misterioso, místico, milagroso, ",
+#
+"lexeme":"gate",
+"english":
+"noun":"gate, door, way, passage",
+"spanish":
+"noun":"puerta, entrada, camino, vía, ruta, pasaje, ",
+#
+"lexeme":"epja",
+"english":
+"noun":"wonder, amaze, amazement, marvel",
+"du":"astound, surpise, amaze",
+"es":"astounded, surprised, amazed",
+"bi":"wonderful, amazing",
+"spanish":
+"noun":"asombro, maravilla",
+"du":"asombrar, dejar estupefacto, sorprender",
+"es":"asombrado, pasmado, sorprendido, estupefacto",
+"bi":"maravilloso, estupendo, asombroso, sorprendente",
+#
+"lexeme":"gene",
+"english":
+"noun":"birth, creation",
+"du":"generate, give life, create",
+"es":"born",
+"spanish":
+"noun":"nacimiento, parto, creación, ",
+"du":"generar, producir, dar vida, ",
+"es":"nacido, nato, ",
+#
+"lexeme":"mutwal",
+"english":
+"noun":"mutuality",
+"bi":"mutual, do something one another",
+"spanish":
+"noun":"mutualidad",
+"bi":"mutuo, común, hacer algo recíprocamente",
+#
+"lexeme":"felta",
+"english":
+"noun":"altitude",
+"du":"put vertically",
+"es":"put vertically",
+"bi":"high, vertical",
+"se":"stand up, rise",
+"spanish":
+"noun":"altitud, altura, ",
+"du":"colocar verticalmente",
+"es":"poner verticalmente",
+"bi":"alto, vertical, elevado, grande, ",
+"se":"de piéparado, levantado, alzado, ",
+#
+"lexeme":"lente",
+"english":
+"noun":"slowness",
+"du":"slow down",
+"es":"slowed down",
+"bi":"slow",
+"se":"slow down oneself",
+"spanish":
+"noun":"lentitud, torpeza, lento",
+"du":"decelerar",
+"es":"desacelerado",
+"bi":"lento, atrasado, ",
+#
+"lexeme":"asil",
+"english":
+"noun":"ease, simplicity",
+"bi":"easy, so be simple, painless",
+"spanish":
+"noun":"relajo, comodidad, facilidad, simplicidad, sencillez",
+"bi":"fácil, cómodo, , indoloro, ",
+#
+"lexeme":"togu",
+"english":
+"noun":"difficulty",
+"bi":"difficult, tough, tricky, arduous",
+"spanish":
+"noun":"dificultad, ",
+"bi":"difícil, peliagudo, taimado, riguroso, arduo",
+#
+"lexeme":"aswe",
+"english":
+"noun":"attainment, completition, achievement, realization",
+"du":"reach, complete, achieve, realize",
+"es":"reached, completed, achieved, realized",
+"bi":"realized, finished",
+"spanish":
+"noun":"logro, consecución, realización, éxito, ",
+"du":"lograr, alcanzar, completar, acabar, terminar, conseguir, realizar",
+"es":"alcanzado, completo, conseguido, realizado",
+"bi":"realizado, culminado, terminado",
+#
+"lexeme":"nota",
+"english":
+"noun":"note, token, unit",
+"spanish":
+"noun":"nota, apunte, muestra, unidad",
+#
+"lexeme":"almon",
+"english":
+"noun":"harmony, consistency, coherence, serenity",
+"du":"harmonize",
+"es":"harmonized",
+"bi":"harmonic, coherent, consistent, serene",
+"spanish":
+"noun":"armonía, consistencia, coherencia, serenidad",
+"du":"armonizar",
+"es":"armonizado",
+"bi":"armónico, coherente, congruente, compatible, sereno",
+#
+"lexeme":"ailu",
+"english":
+"noun":"spirit, soul",
+"bi":"holy, sacred, spiritual",
+"se":"meditate",
+"spanish":
+"noun":"espíritu, alma, esencia",
+"bi":"santo, sagrado, sacro, espiritual",
+"se":"meditar",
+#
+"lexeme":"nego",
+"english":
+"noun":"rejection, negation, refutation, confutation",
+"du":"reject, negate, refute, confute",
+"es":"rejected, negated, refuted, confuted",
+"spanish":
+"noun":"rechazo, negación, refutación, ",
+"du":"rechazar, negar, invalidar, anular, desmentir, refutar, rebatir",
+"es":"rechazado, negado, invalidado, anulado, desmentido, refutado, rebatido",
+#
+"lexeme":"baje",
+"english":
+"noun":"event, occurrence, experience",
+"du":"undergo, experience",
+"es":"experienced (by someone)",
+"spanish":
+"noun":"acontecimiento, suceso, ocurrencia, evento, experiencia",
+"du":"experimentar, sufrir",
+"es":"experimentado",
+#
+"lexeme":"kapjo",
+"english":
+"noun":"achievement, picking",
+"du":"receive, get, obtain",
+"es":"received, obtained",
+"spanish":
+"noun":"logro, éxito, realización, recoger",
+"du":"recibir, conseguir, obtener, adquirir",
+"es":"recivido, obtenido",
+#
+"lexeme":"luste",
+"english":
+"noun":"loss",
+"du":"lose",
+"es":"miss",
+"bi":"lost, go astray, go adrift, missing, gone",
+"spanish":
+"noun":"pérdida, derrota",
+"du":"perder",
+"es":"perdido",
+"bi":"perdido, extraviado, ausente, ido",
+#
+"lexeme":"abile",
+"english":
+"noun":"ability, capacity",
+"du":"able at",
+"spanish":
+"noun":"habilidad, aptitud, (facultad), ",
+"du":"hábil, ",
+#
+"lexeme":"kausa",
+"english":
+"noun":"cause, reason",
+"du":"cause, provoke",
+"es":"caused, provoked",
+"spanish":
+"noun":"causa, razón, motivo, ",
+"du":"causar, provocar, ocasionar, ",
+"es":"causado, provocado, ocasionado",
+#
+"lexeme":"kausa-ika",
+"english":
+"noun":"causality, influence, causation",
+"spanish":
+"noun":"causalidad, influencia, influjo, ",
+#
+"lexeme":"tendo",
+"english":
+"noun":"rivalry, contendation",
+"du":"contend, compete",
+"es":"contended, competed",
+"spanish":
+"noun":"rivalidad, contienda",
+"du":"luchar, lidiar, contender, competir, ",
+"es":"contendido, luchado, competido",
+#
+"lexeme":"ljebo",
+"english":
+"noun":"robbing",
+"du":"rob, steal",
+"spanish":
+"noun":"robo, (alijo)",
+"du":"robar, hurtar, ",
+#
+"lexeme":"ljebo-nyn",
+"english":
+"noun":"thief, burglar, bandit",
+"spanish":
+"noun":"ladrón, bandido, bandolero, ",
+#
+"lexeme":"kuban",
+"english":
+"noun":"govern, command",
+"du":"manage, drive, rule, control, direct, command",
+"es":"managed, driven, ruled, controlled, directed, commanded",
+"spanish":
+"noun":"gobierno, comando, ",
+"du":"manejar, controlar, administrar, dirigir, mandar, gobernar, ",
+"es":"administrado, manejado, gobernado, controlado, comandado",
+#
+"lexeme":"kuban-nyn",
+"english":
+"noun":"governor, commander, leader, captain",
+"spanish":
+"noun":"gobernador, comandante, líder, jefe, capitán",
+#
+"lexeme":"wasel",
+"english":
+"noun":"ship, vessel",
+"lexeme":"wasel",
+"english":
+"noun":"ship, vessel",
+"lexeme":"wasel",
+"english":
+"noun":"ship, vessel",
+"lexeme":"wasel",
+"english":
+"noun":"ship, vessel",
+"bi":"ship, navigate",
+"spanish":
+"noun":"barco, buque, nave",
+"bi":"embarcar, navegar",
+#
+"lexeme":"wasel-nyn",
+"english":
+"noun":"mariner, sailor",
+"lexeme":"wasel-nyn",
+"english":
+"noun":"mariner, sailor",
+"spanish":
+"noun":"marinero, marino",
+#
+"lexeme":"fael",
+"english":
+"noun":"distance, farness",
+"bi":"far, distant, apart",
+"spanish":
+"noun":"distancia, lejos",
+"bi":"distanciar, alejar, distante, lejano, remoto, aparte, separadamente",
+#
+"lexeme":"nate",
+"english":
+"noun":"night",
+"spanish":
+"noun":"noche",
+#
+"lexeme":"egan",
+"english":
+"noun":"flight",
+"du":"fly",
+"spanish":
+"noun":"vuelo",
+"du":"volar",
+#
+"lexeme":"ansa",
+"english":
+"noun":"dream, vision, delusion, nightmare",
+"du":"dream",
+"es":"dreamt",
+"spanish":
+"noun":"sueño, visión, ensueño, ilusión, pesadilla",
+"du":"soñar",
+"es":"soñado",
+#
+"lexeme":"awes",
+"english":
+"noun":"song, chant",
+"du":"sing, chant",
+"es":"sung, chanted",
+"spanish":
+"noun":"canción, canto",
+"du":"cantar",
+"es":"cantado",
+#
+"lexeme":"awes-nyn",
+"english":
+"noun":"singer, chanter, vocalist",
+"spanish":
+"noun":"cantante, vocalista",
+#
+"lexeme":"towa",
+"english":
+"noun":"practice, use",
+"du":"play (an instrument), exert, wield, practice",
+"es":"played, exerted, wielded, practiced",
+"spanish":
+"noun":"práctica, costumbre",
+"du":"jugar, usar, ejercer, manejar, practicar",
+"es":"jugado, ejercido, usado, practicado",
+#
+"lexeme":"bega",
+"english":
+"noun":"back, behind",
+"bi":"backwards, behind",
+"spanish":
+"noun":"atrás, detrás",
+"bi":"hacia atrás, de espaldas, al revés",
+#
+"lexeme":"lwoda",
+"english":
+"noun":"wheel, cycle",
+"du":"turn, turn around",
+"es":"turned",
+"bi":"around",
+"se":"to rotate, to go round",
+"spanish":
+"noun":"rueda, noria, (volante)",
+"du":"girar, voltear, volver, darle vuelta(s) a, hacer girar, girar de regreso",
+"es":"regresado, retornado",
+"bi":"en un círculo, de circunferencia, alrededor, en torno a, alrededor de",
+"se":"rotarse, girarse",
+#
+"lexeme":"naka",
+"english":
+"noun":"room, nook, chamber, place",
+"spanish":
+"noun":"cuarto, habitación, dormitorio, recoveco, escondrijo, cámara, sala, sitio, lugar",
+#
+"lexeme":"boan",
+"english":
+"noun":"washing, soaking, cleansing",
+"du":"wash, soak, cleanse",
+"es":"washed, soak, cleansed",
+"se":"bath",
+"spanish":
+"noun":"lavado, limpio",
+"du":"lavar, limpiar",
+"es":"lavado, limpio",
+"se":"bañarse",
+#
+"lexeme":"linda",
+"english":
+"noun":"cleaning, clearing, lavage",
+"du":"clean, clear",
+"es":"cleaned, cleared",
+"bi":"clean, clear",
+"se":"wash oneself, do toilette",
+"spanish":
+"noun":"limpieza, lavado",
+"du":"limpiar",
+"es":"limpio, aclarado",
+"bi":"limpio, claro",
+"se":"lavarse, limpiarse, evacuar",
+#
+"lexeme":"gjola",
+"english":
+"noun":"development, progress",
+"du":"develop, progress, advance, cultivate, maturate",
+"es":"developed",
+"bi":"growing, developing, advancing, maturing",
+"spanish":
+"noun":"desarrollo, progreso, maduro",
+"du":"desarrollar, progresar, avanzar, cultivar, madurar",
+"es":"avanzado, desarrollado",
+"bi":"crecido, desarrollado, avanzado, maduro",
+#
+"lexeme":"begen",
+"english":
+"noun":"answer",
+"du":"answer, return",
+"es":"answered, returned",
+"spanish":
+"noun":"respuesta, contestación",
+"du":"responder, contestar, (regresar)",
+"es":"respondido, contestado, (regresado)",
+#
+"lexeme":"inkwe",
+"english":
+"noun":"question",
+"du":"ask, wonder, inquire",
+"es":"asked",
+"bi":"dubious, curious",
+"spanish":
+"noun":"pregunta, cuestión, ",
+"du":"preguntar, cuestionar, indagar, investigar, ",
+"es":"preguntado, interrogado, (pedido)",
+"bi":"dudoso, indeciso, , curioso, ",
+#
+"lexeme":"tuje",
+"english":
+"noun":"cry, weep",
+"bi":"cry, weep",
+"spanish":
+"noun":"lloro, llanto",
+"bi":"llorado, chillado",
+#
+"lexeme":"kata",
+"english":
+"noun":"laugh",
+"bi":"laugh",
+"spanish":
+"noun":"risa, ",
+"bi":"reír, ",
 #

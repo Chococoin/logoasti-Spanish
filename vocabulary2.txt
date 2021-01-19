@@ -4054,3 +4054,104 @@
 "spanish":
 "noun":"cereal, grano, arroz",
 #
+"lexeme":"unba",
+"english":
+"noun":"shadow, obscurity",
+"du":"darken, obscure",
+"es":"darken, obscured",
+"bi":"dark, obscure",
+"spanish":
+"noun":"sombra, oscuridad",
+"du":"oscurecer, ensombrecer",
+"es":"oscuro, oscurado",
+"bi":"oscuro, (moreno)",
+#
+"lexeme":"meli",
+"english":
+"noun":"sea",
+"bi":"to sail",
+"spanish":
+"noun":"mar",
+"bi":"navegar",
+#
+"lexeme":"falus",
+"english":
+"noun":"river, flow flux",
+"bi":"flow",
+"spanish":
+"noun":"río, fluido",
+"bi":"fluido",
+#
+"lexeme":"odol",
+"english":
+"noun":"smell, flavour",
+"du":"smell",
+"es":"smelled",
+"bi":"aromatic, stinky, odorous",
+"se":"smell",
+"spanish":
+"noun":"olor, aroma, (olfato)",
+"du":"oler, olfatear",
+"es":"olido",
+"bi":"aromático, apestoso, oloroso",
+"se":"olerse, olfatearse",
+#
+"lexeme":"guge",
+"english":
+"noun":"resistance, opposition, whithstanding, confrontation",
+"du":"resist, oppose, whitstand, confront",
+"es":"resisted, opposed, whistanded, confronted",
+"bi":"resistant, opposing",
+"spanish":
+"noun":"resistencia, oposición, enfrentamiento, confrontación",
+"du":"resistir,  oponerse, enfrentarse, confrontarse",
+"es":"resistido, opuesto, confrontado",
+"bi":"resistente",
+#
+"lexeme":"pipi",
+"english":
+"noun":"pee",
+"bi":"to pee",
+"spanish":
+"noun":"orina, pipí",
+#
+"lexeme":"pipi-asai",
+"english":
+"noun":"bathroom",
+"spanish":
+"noun":"baño, cuarto de baño",
+#
+"lexeme":"siki",
+"english":
+"noun":"disease",
+"du":"infect, pollute, contaminate",
+"es":"infected, polluted, contaminated",
+"bi":"sick, ill",
+"spanish":
+"noun":"enfermedad, mal, dolencia",
+"du":"infectar, contagiar, contaminar",
+"es":"contaminado, infectado, contaminado",
+"bi":"enfermo, (mal, malo)",
+#
+"lexeme":"sensi",
+"english":
+"noun":"perception",
+"du":"sense, perceive, feel",
+"es":"sensed, perceived, felt",
+"bi":"perceptive, aware",
+"spanish":
+"noun":"percepción, perspicacia, ",
+"du":"sentir, percibir, notar, percatarse de, concientizarse de, darse cuenta de",
+"es":"sentido, percibido",
+"bi":"perspicaz, consciente, ",
+#
+"lexeme":"fantasi",
+"english":
+"noun":"fantasy, imagination",
+"du":"imagine, conjecture, envision",
+"es":"imagined, conjectured, envisioned",
+"spanish":
+"noun":"fantasía, imaginación",
+"du":"imaginar, creer (sin seguridad a estar en lo cierto), conjeturar",
+"es":"imaginado, conjeturado, previsto",
+#

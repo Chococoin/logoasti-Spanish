@@ -4155,3 +4155,73 @@
 "du":"imaginar, creer (sin seguridad a estar en lo cierto), conjeturar",
 "es":"imaginado, conjeturado, previsto",
 #
+"lexeme":"pape",
+"english":
+"noun":"paper, papyrus, sheet",
+"spanish":
+"noun":"papel, papiro, hoja (de papel), ",
+#
+"lexeme":"kabal",
+"english":
+"noun":"horse, zebra, donkey, mule",
+"spanish":
+"noun":"caballo, cebra, burro, asno, mula, ",
+#
+"lexeme":"muuke",
+"english":
+"noun":"cow, bull, ox, beef, buffalo",
+"spanish":
+"noun":"vaca, toro, buey, carne de res, búfalo, bisonte, ",
+#
+"lexeme":"testudo",
+"english":
+"noun":"tortoise, terrapin, turtle",
+"spanish":
+"noun":"tortuga, galapago",
+#
+"lexeme":"osban",
+"english":
+"noun":"snake",
+"spanish":
+"noun":"culebra, serpiente",
+#
+"lexeme":"gastwo",
+"english":
+"noun":"stomach, belly, abdomen",
+"du":"digest",
+"es":"digested",
+"spanish":
+"noun":"estómago, abdomen, vientre, barriga, panza",
+"du":"digerir",
+"es":"digerido, (asimilado)",
+#
+"lexeme":"gastwo-ika",
+"english":
+"noun":"digestion",
+"spanish":
+"noun":"digestión",
+#
+"lexeme":"sjewi",
+"english":
+"noun":"wilderness",
+"bi":"selvatic, wild, untamed",
+"spanish":
+"noun":"selva, salvaje",
+"bi":"selvático, salvaje, silvestre, indómito",
+#
+"lexeme":"koinin",
+"english":
+"noun":"rabbit, hare",
+"spanish":
+"noun":"conejo, liebre",
+#
+"lexeme":"linko",
+"english":
+"noun":"link, connection, association",
+"du":"link, hook up",
+"es":"linked, hooked up",
+"spanish":
+"noun":"unión, junta, asociación, conexión, enlace",
+"du":"unir, enlazar, conectar",
+"es":"unido, conectado, enganchado"
+#

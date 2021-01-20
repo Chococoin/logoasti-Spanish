@@ -10,15 +10,18 @@ def spanish_traslations(lsta):
     global traslated_list
     logoasti_Spanish.write('"spanish":\n')
     for token, traslation in lsta.items():
-        if traslation:
-            # TODO: Parse and clean list of words (traslations)
-            logoasti_Spanish.write('"{}":"{}",\n'.format(token, traslation))
+        # if traslation:
+        logoasti_Spanish.write('"{}":"{}",\n'.format(token, traslation.rstrip(", ")))
     logoasti_Spanish.write("#\n")
 
 
 def traslate_to_memory(to_traslate):
-    to_json = open("./apidata/"+lex.strip('"') + "/" +(lex.strip('"') + ".json"), 'w')
-    to_txt  = open("./apidata/"+lex.strip('"') + "/" +(lex.strip('"') + ".txt"), 'w')
+    try:
+        os.mkdir("./apidata/" + lex.strip('"'))
+    except:
+        pass
+    to_json = open("./apidata/"+lex.strip('"') + "/" +(lex.strip('"') + ".json"), 'w+')
+    to_txt  = open("./apidata/"+lex.strip('"') + "/" +(lex.strip('"') + ".txt"), 'w+')
     for words in to_traslate:
         wrd = words.strip().strip('"')
         wrd = wrd.lstrip(" ")
@@ -36,14 +39,14 @@ def traslate_to_memory(to_traslate):
 
 def manual_entry_mode(wd):
     global traslated_list
-    print("Lexeme:[ {} ]".format(lex))
+    # print("Lexeme:[ {} ]".format(lex))
     intext = input("(*) Manual Entry Mode: [{}] as [{}]\n(*)-> ".format(wd, token))
     if intext == "PAUSE":
         pause()
     if intext == "BRK":
         return "break"  
     else:
-        traslated_list[token] += intext
+        traslated_list[token] += intext.rstrip(",")
     os.system('clear')
 
 def standard_process(wrd, t_json, t_txt, to_trasl):
@@ -97,10 +100,10 @@ def standard_process(wrd, t_json, t_txt, to_trasl):
             except TypeError:
                 print("From except Type error")
                 manual_entry_mode(wrd)
-                pass                        
+                pass
             except KeyError:
                 print("Exception: No 'fl' in json format.")
-                manual_entry_mode(wrd)                         
+                manual_entry_mode(wrd)
                 pass
             except:
                 print("Fatal Error")

@@ -4225,3 +4225,187 @@
 "du":"unir, enlazar, conectar",
 "es":"unido, conectado, enganchado"
 #
+"lexeme":"salsa",
+"english":
+"noun":"sauce, dip, topping",
+"spanish":
+"noun":"salsa, cubierta",
+#
+"lexeme":"sintagi",
+"english":
+"noun":"recipe, method, prescription, indication",
+"du":"prescript, decree, regulate, indicate",
+"es":"prescripted, decreed, regulated, indicated",
+"spanish":
+"noun":"receta, método, prescripción, instrucciones",
+"du":"prescribir, recetar(decretar), regular, (indicar, señalar,(expresar))",
+"es":"prescrito, recetado, regulado, indicado",
+#
+"lexeme":"ajon",
+"english":
+"noun":"year",
+"spanish":
+"noun":"año",
+#
+"lexeme":"ajuto",
+"english":
+"noun":"help, aid, guidance",
+"du":"help, aid, guide",
+"es":"helped, aided, guided",
+"spanish":
+"noun":"ayuda, guía, asistencia",
+"du":"ayudar, asistir, guiar",
+"es":"ayudado, asistido, guiado",
+#
+"lexeme":"ajuto-ika",
+"english":
+"noun":"assistence, service, support",
+"du":"assist, serve, support",
+"es":"assisted, served, supported",
+"spanish":
+"noun":"asistencia, servicio, soporte, apoyo",
+"du":"respaldo, asistir, servir, (soportar)",
+"es":"asistido, servido, apoyado",
+#
+"lexeme":"gini",
+"english":
+"noun":"meaning, significance, connotation",
+"du":"mean, signify, connotate",
+"es":"meant, signified, connotation",
+"bi":"meaningful, significant",
+"spanish":
+"noun":"significado, sentido, intención, propósito, connotación",
+"du":"significar, querer decir, tener la intención de, indicar, connotar",
+"es":"significado, connotado",
+"bi":"significativo",
+#
+"lexeme":"toli",
+"english":
+"noun":"history, story, tale",
+"du":"tell",
+"es":"told",
+"spanish":
+"noun":"historia, cuento, relato, anécdota",
+"du":"decir, contar, (narrar),
+"es":"contado, narrado, dicho",
+#
+"lexeme":"lwonto",
+"english":
+"noun":"nature, environment",
+"spanish":
+"noun":"naturaleza, ambiente, entorno",
+#
+"lexeme":"dente",
+"english":
+"noun":"tooth",
+"du":"bite, chew",
+"es":"biten, chewed",
+"spanish":
+"noun":"diente, (dentellada)",
+"du":"morder, masticar, mascar, (rumiar)",
+"es":"mordido, masticado",
+#
+"lexeme":"keso",
+"english":
+"noun":"cheese",
+"spanish":
+"noun":"queso",
+#
+"lexeme":"ungja",
+"english":
+"noun":"nail (body part)",
+"du":"scratch",
+"es":"scratched",
+"spanish":
+"noun":"uña"
+"du":"rascar, rasguñar, arañar",
+"es":"rascado, aruñado, rasguñado",
+#
+"lexeme":"bitan",
+"english":
+"noun":"importance, criticity, influence, essentiality",
+"du":"consider, regard, give importance",
+"es":"considered, regarded",
+"bi":"important, crucial, critical, big, influential, essential",
+"spanish":
+"noun":"importancia, critica, influencia, esencialidad",
+"du":"considerar, estimar",
+"es":"conciderado, estimado",
+"bi":"importante, crucial, decisivo, crítico, importante, esencial, (influyente)",
+#
+"lexeme":"oga",
+"english":
+"noun":"eye",
+"spanish":
+"noun":"ojo, (visión, vista)",
+#
+"lexeme":"lebo",
+"english":
+"noun":"book, volume, album, directory, folder, archive",
+"du":"archive, compile, redact",
+"es":"archived, compiled, redacted",
+"spanish":
+"noun":"libro, volumen, tomo, álbum, guía, directorio, carpeta, archivo",
+"du":"archivar, compilar, recopilar, redactar",
+"es":"archivado, compilado, redactado",
+#
+"lexeme":"lebo-asai",
+"english":
+"noun":"library",
+"spanish":
+"noun":"biblioteca",
+#
+"lexeme":"opin",
+"english":
+"noun":"opinion, idea, consideration, judgement",
+"du":"judge, consider, think",
+"es":"judged, considered, thought",
+"bi":"considerate, thinking",
+"spanish":
+"noun":"opinión, idea, consideración, juicio, discernimiento",
+"du":"juzgar, considerar, pensar, (evaluar)",
+"es":"pensado, considerado, evaluado, juzgado",
+"bi":"conciderado, atento",
+#
+"lexeme":"usbi",
+"english":
+"noun":"wrong, error, mistake",
+"du":"get wrong, misinterpret, misunderstand, err, miss",
+"es":"got wrong, misinterpreted, misunderstood, missed",
+"bi":"go astray, wrong, misinterpreting, misunderstanding",
+"spanish":
+"noun":"error, equivocación, confusión, malentendido",
+"du":"equivocar, entender mal, errar, (perder), fallar",
+"es":"equivocarsemalinterpretadoincomprendido",
+"bi":"extraviado, equivocado, incorrecto, erróneo, malinterpretado, malentendido",
+#
+"lexeme":"festa",
+"english":
+"noun":"party, celebration",
+"du":"celebrate",
+"es":"celebrated",
+"bi":"party",
+"spanish":
+"noun":"fiesta, celebración",
+"du":"celebrar, festejar",
+"es":"celebrado, (célebre, famoso)",
+"bi":"festejado",
+#
+"lexeme":"peili",
+"english":
+"noun":"mirror, looking glass, reflective surface",
+"du":"reflect, mirror",
+"es":"reflected, mirrored",
+"bi":"mirroring, polished, shining, gloss",
+"spanish":
+"noun":"espejo",
+"du":"reflejar",
+"es":"reflejado",
+"bi":"pulido, relucidolustrado",
+#
+"lexeme":"lasi",
+"english":
+"noun":"glass, vitreous material",
+"spanish":
+"noun":"vidrio, cristal",
+#

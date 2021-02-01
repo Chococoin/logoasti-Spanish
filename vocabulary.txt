@@ -1440,7 +1440,7 @@
 "se":"melt, dissolve"
 #
 "lexeme":"dago",
-"noun":"strength, force, sturdyness, solidity",
+"noun":"strength, force, sturdiness, solidity",
 "du":"strenghten, reinforce",
 "es":"strenghtened, reinforced",
 "bi":"hard, solid, strong, sturdy, dense",
@@ -2303,15 +2303,15 @@
 "es":"blamed, accused, condemned, critiqued"
 #
 "lexeme":"kjodo",
-"noun":"nail (tool), sharp pointy object",
+"noun":"nail (tool), sharp-pointied object",
 "du":"nail, fix, rivet",
 "es":"nailed, fixed, riveted",
 "bi":"pointy, sharp"
 #
 "lexeme":"ylgo",
-"noun":"choise, vote, option, decision, favour",
+"noun":"choice, vote, option, decision, favour",
 "du":"choose, pick, opt, decide, favour",
-"es":"coosed, picked, opted, decided, favoured"
+"es":"choosed, picked, opted, decided, favoured"
 #
 "lexeme":"piby",
 "noun":"quality, character, personality, nature, feature, aspect, calibre",

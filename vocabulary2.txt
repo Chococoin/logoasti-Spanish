@@ -4409,3 +4409,109 @@
 "spanish":
 "noun":"vidrio, cristal",
 #
+"lexeme":"askan",
+"english":
+"noun":"outrush, flight, escape, leak, sprint, leakaway, avoidance, elusion, evasion",
+"du":"escape from, avoid, elude, evade, quit",
+"es":"escaped from, avoided, eluded, evaded, quitted",
+"spanish":
+"noun":"adelantovuelo, bandada, escape, fuga, pique, evasión",
+"du":"evitar, escapar, eludir, evadir, abandonar",
+"es":"evitado, escapado, eludido, evadido, fugado",
+#
+"lexeme":"pynja",
+"english":
+"noun":"enemy, danger, peril, threat",
+"du":"fall out with, make an enemy of",
+"es":"fallen out with, made an enemy",
+"bi":"enemy, dangerous, menacing",
+"spanish":
+"noun":"enemigo, peligro, amenaza",
+"du":"pelear, hacer enemistad",
+"es":"peleado, enemistado",
+"bi":"enemigo, peligroso, amenazante",
+#
+"lexeme":"myntan",
+"english":
+"noun":"mountain, cliff",
+"spanish":
+"noun":"montaña, acantilado, precipicio, risco",
+#
+"lexeme":"bulyn",
+"english":
+"noun":"blame, accusation, condemnation, criticism",
+"du":"blame, accuse, condemn, critique",
+"es":"blamed, accused, condemned, critiqued",
+"spanish":
+"noun":"culpa, acusa, condena, reprobación, crítica",
+"du":"culpar, acusar, denunciar, condenar, críticar",
+"es":"culpado, acusado, comdenado, criticado",
+#
+"lexeme":"kjodo",
+"english":
+"noun":"nail (tool), sharp pointy object",
+"du":"nail, fix, rivet",
+"es":"nailed, fixed, riveted",
+"bi":"pointy, sharp",
+"spanish":
+"noun":"clavo, objeto puntiagudo",
+"du":"clavar, fijar, remachar",
+"es":"clavado, fijado, riveteado",
+"bi":"puntiagudo, afilado",
+#
+"lexeme":"ylgo",
+"english":
+"noun":"choice, vote, option, decision, favour",
+"du":"choose, pick, opt, decide, favour",
+"es":"coosed, picked, opted, decided, favoured",
+"spanish":
+"noun":"elección, selección, preferencia, voto, opción, decisión, determinación",
+"du":"escojer, elegir, decidir, favorecer",
+"es":"escogido, optado, decidido, favorecido",
+#
+"lexeme":"piby",
+"english":
+"noun":"quality, character, personality, nature, feature, aspect, calibre",
+"du":"qualify, characterize",
+"es":"qualified, characterized",
+"spanish":
+"noun":"calidad, cualidad, carácter, personalidad, temperamento, naturaleza, característica, rasgo, aspecto",
+"du":"calificar, caracterizar",
+"es":"capacitado, caracterizado",
+#
+"lexeme":"nya",
+"english":
+"noun":"novelty",
+"du":"renew",
+"es":"renewed",
+"bi":"new, modern, recent, current",
+"spanish":
+"noun":"novedad",
+"du":"renovar",
+"es":"renovado",
+"bi":"nuevo, reciente, moderno, reciente, actual",
+#
+"lexeme":"pyga",
+"english":
+"noun":"pouring, spilling",
+"du":"pour, spill",
+"es":"poured, spilled",
+"bi":"pour, spill",
+"spanish":
+"noun":"vertido, derrame",
+"du":"echar, verter, derramar",
+"es":"echado, vertido, derramado",
+"bi":"echado, vertido, derramado",
+#
+"lexeme":"kysto",
+"english":
+"noun":"cost, price, value, tariff, fee, charge",
+"du":"to charge (for a fee)",
+"es":"charged (for a fee)",
+"bi":"expensive",
+"spanish":
+"noun":"costo, precio, valor, tarifa, comisión, cargo, arancel, honorario",
+"du":"cobrar",
+"es":"cobrado",
+"bi":"costoso, caro",
+#

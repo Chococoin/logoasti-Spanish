@@ -4,14 +4,16 @@ import os
 import re
 
 traslated_list = { "noun":"", "du":"", "es":"", "bi":"", "se":"" }
+# isToken = { "noun": False, "du": False, "es": False, "bi": False, "se": False }
 no_pause = True
 
 def spanish_traslations(lsta):
     global traslated_list
     logoasti_Spanish.write('"spanish":\n')
     for token, traslation in lsta.items():
-        # if traslation:
-        logoasti_Spanish.write('"{}":"{}",\n'.format(token, traslation.rstrip(", ")))
+        # if traslation and isToken[token]:
+        if traslation:
+            logoasti_Spanish.write('"{}":"{}",\n'.format(token, traslation.rstrip(", ")))
     logoasti_Spanish.write("#\n")
 
 
@@ -46,7 +48,9 @@ def manual_entry_mode(wd):
     if intext == "BRK":
         return "break"  
     else:
-        traslated_list[token] += intext.rstrip(",")
+        intext = intext.rstrip(",")
+        if len(intext) > 2:
+            traslated_list[token] += (intext + ", ")
     os.system('clear')
 
 def standard_process(wrd, t_json, t_txt, to_trasl):
@@ -81,7 +85,8 @@ def standard_process(wrd, t_json, t_txt, to_trasl):
                         os.system('clear')
                         pass
                     if  len(action) >= 3 and action != "PAUSE":
-                        traslated_list[token] += action + ", "
+                        action += ", "
+                        traslated_list[token] += action
                         os.system('clear')
                         print(traslated_list[token])
                         pass
@@ -193,6 +198,7 @@ while(source_incoming_new_line and no_pause):
             logoasti_Spanish.write('"noun":' + to_traslate +',\n')
             to_traslate = to_traslate.split(",")
             token = "noun"
+            # isToken[token] = True
             traslate_to_memory(to_traslate)
             continue
         if du:
@@ -200,6 +206,7 @@ while(source_incoming_new_line and no_pause):
             logoasti_Spanish.write('"du":' + to_traslate + ',\n')
             to_traslate = to_traslate.split(",")
             token = "du"
+            # isToken[token] = True
             traslate_to_memory(to_traslate)
             continue
         if es:
@@ -207,6 +214,7 @@ while(source_incoming_new_line and no_pause):
             logoasti_Spanish.write('"es":' + to_traslate + ',\n')
             to_traslate = to_traslate.split(",")
             token = "es"
+            # isToken[token] = True
             traslate_to_memory(to_traslate)
             continue
         if bi:
@@ -214,6 +222,7 @@ while(source_incoming_new_line and no_pause):
             logoasti_Spanish.write('"bi":' + to_traslate + ',\n')
             to_traslate = to_traslate.split(",")
             token = "bi"
+            # isToken[token] = True
             traslate_to_memory(to_traslate)
             continue
         if se:
@@ -221,6 +230,7 @@ while(source_incoming_new_line and no_pause):
             logoasti_Spanish.write('"se":' + to_traslate + ',\n')
             to_traslate = to_traslate.split(",")
             token = "se"
+            # isToken[token] = True
             traslate_to_memory(to_traslate)
             continue
         if hasho:

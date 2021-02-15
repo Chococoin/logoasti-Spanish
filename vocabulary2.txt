@@ -4515,3 +4515,13 @@
 "es":"cobrado",
 "bi":"costoso, caro",
 #
+"lexeme":"ysme",
+"english":
+"noun":"statement, assertation, affirmation, announcement",
+"du":"state, enunciate, assert, affirm, announce",
+"es":"stated, enounced, asserted, affirmed, announced",
+"spanish":
+"noun":"declaración, afirmación, aserto, anuncio",
+"du":"puntualizar, exponer, enunciar, afirmar, aseverar",
+"es":"puntualizado, enunciado, afirmado, anunciado",
+#

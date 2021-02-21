@@ -4525,3 +4525,26 @@
 "du":"puntualizar, exponer, enunciar, afirmar, aseverar",
 "es":"puntualizado, enunciado, afirmado, anunciado",
 #
+"lexeme":"teesta",
+"english":
+"noun":"test, challenge, contest",
+"du":"challenge",
+"es":"challenged",
+"spanish":
+"noun":"exámen, prueba, desafío, reto, (competencia)",
+"du":"desafiar, (cuestionar, retar)",
+"es":"",
+#
+"lexeme":"feis",
+"english":
+"noun":"faith, trust, confidence",
+"du":"have faith in, trust",
+"es":"trusted",
+"bi":"trustworthy",
+"spanish":
+"noun":"fé, confianza, confidencia",
+"du":"esperar (tener fé), confiar",
+"es":"confiado",
+"bi":"confiable",
+#
+q
